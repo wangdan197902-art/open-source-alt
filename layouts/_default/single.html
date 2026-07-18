@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="jLNCAGFlM8zeF09eKGw3w6A8bZlNkluFYLs11bafILw" />
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Description | default .Site.Params.description }}">
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-15279420781"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-15279420781');
+    </script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1, h2, h3 { color: #2c3e50; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .header { border-bottom: 2px solid #eee; padding-bottom: 1rem; margin-bottom: 2rem; }
+        .footer { border-top: 2px solid #eee; padding-top: 1rem; margin-top: 2rem; color: #999; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1><a href="/">{{ .Site.Title }}</a></h1>
+        <p>{{ .Site.Params.description }}</p>
+    </header>
+    <main>
+        {{ .Content }}
+    </main>
+    <footer class="footer">
+        <p>&copy; 2026 {{ .Site.Title }}. Powered by Hugo &amp; Cloudflare Pages.</p>
+    </footer>
+</body>
+</html>

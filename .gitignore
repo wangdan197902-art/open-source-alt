@@ -1,0 +1,20 @@
+# Hugo build output
+public/
+resources/
+.hugo_build.lock
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+.env.local
+*.token
+*.key

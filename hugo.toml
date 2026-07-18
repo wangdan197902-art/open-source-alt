@@ -1,0 +1,28 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Open Source Alternatives"
+DefaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Open Source Software Alternatives Finder"
+  author = "Website Project"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
