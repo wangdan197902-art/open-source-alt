@@ -16,6 +16,15 @@
   <meta name="ai-content-disclosure" content="本站内容由AI辅助生成，已通过人工审核">
   {{ end }}
 
+  {{/* Google Search Console 验证标签
+       参数名与 hugo-{lang}.toml 中的 [params] 段落保持一致（snake_case）
+       若未配置参数则使用 fallback 默认值 */}}
+  {{ with .Site.Params.google_site_verification }}
+  <meta name="google-site-verification" content="{{ . }}">
+  {{ else }}
+  <meta name="google-site-verification" content="Po21SS8ccODMgK6x0_LBsBX0t5qz7bdqRzASwE-ngyo">
+  {{ end }}
+
   <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
