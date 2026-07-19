@@ -68,6 +68,20 @@ jobs:
             cp -r public-${{ matrix.lang }}/* publish-${{ matrix.lang }}/
           fi
 
+      - name: Build Pagefind index
+        run: |
+          # 安装 Pagefind
+          curl -L https://github.com/CloudCannon/pagefind/releases/latest/download/pagefind-x86_64-unknown-linux-musl.tar.gz \
+            -o pagefind.tar.gz
+          tar -xzf pagefind.tar.gz
+
+          # 为当前语种构建索引（直接对 publish 目录索引，输出 /pagefind/ 子目录）
+          ./pagefind --site "publish-${{ matrix.lang }}" \
+                     --output-subdir "pagefind"
+
+          echo "✅ Pagefind 索引构建完成"
+          ls "publish-${{ matrix.lang }}/pagefind/" 2>/dev/null | head -5 || echo "⚠️ pagefind 目录未生成"
+
       - name: Add CNAME and .nojekyll
         run: |
           echo "${{ matrix.lang }}.${{ env.SITE_TYPE }}.${{ env.DOMAIN }}" > publish-${{ matrix.lang }}/CNAME

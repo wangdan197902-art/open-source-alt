@@ -6,11 +6,7 @@
 <main class="container main-content">
   <article class="single-article">
     <header class="article-header">
-      <p class="breadcrumb">
-        <a href="{{ .Site.LanguagePrefix }}/">{{ i18n "home" | default "首页" }}</a>
-        &nbsp;/&nbsp;
-        <a href="{{ .Site.LanguagePrefix }}/alternatives/">{{ i18n "alternatives" | default "商业软件替代方案" }}</a>
-      </p>
+      {{ partial "breadcrumb.html" . }}
       <h1>{{ .Title }}</h1>
       {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
 
@@ -42,6 +38,7 @@
       {{ end }}
     </footer>
   </article>
+  {{ partial "related.html" . }}
 </main>
 
 {{ partial "footer.html" . }}

@@ -1,0 +1,14 @@
+{{/* 面包屑导航：首页 / 祖先节点 / 当前页面 */}}
+{{ if .IsPage }}
+<nav class="breadcrumb" aria-label="Breadcrumb" data-pagefind-ignore>
+  <ol>
+    <li><a href="{{ "/" | relLangURL }}">{{ i18n "home" | default "首页" }}</a></li>
+    {{ range .Ancestors.Reverse }}
+    {{ if not .IsHome }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    {{ end }}
+    <li aria-current="page">{{ .Title }}</li>
+  </ol>
+</nav>
+{{ end }}
