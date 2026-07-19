@@ -15,10 +15,10 @@
 
   <section class="alternatives-list">
     <h2>{{ i18n "alternatives_title" | default "已收录的商业软件" }}</h2>
-    {{ $altSection := .Site.GetPage "section" "alternatives" }}
-    {{ if $altSection }}
+    {{ $alts := where .Site.RegularPages "Section" "==" "alternatives" }}
+    {{ if $alts }}
       <div class="card-grid">
-        {{ range $altSection.Pages }}
+        {{ range $alts }}
           {{ partial "alternative-card.html" . }}
         {{ end }}
       </div>

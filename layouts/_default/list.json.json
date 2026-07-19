@@ -13,8 +13,9 @@
 
 {{- /* 首页情况下，从 alternatives 区块获取所有页面（与 layouts/index.html 保持一致） */ -}}
 {{- if .IsHome -}}
-  {{- with .Site.GetPage "section" "alternatives" -}}
-    {{- $pages = .Pages -}}
+  {{- $alts := where .Site.RegularPages "Section" "==" "alternatives" -}}
+  {{- with $alts -}}
+    {{- $pages = . -}}
   {{- end -}}
 {{- end -}}
 
