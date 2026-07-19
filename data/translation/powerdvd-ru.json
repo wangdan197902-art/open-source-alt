@@ -1,0 +1,22 @@
+{
+  "id": "powerdvd-ru",
+  "sourceTextHash": "d098acf2da2a64f393881b3a2ae861264f08811308cfab9f533c48594e9c3f6c",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] CyberLink PowerDVD is a media-player software developed by CyberLink. Media player with 4K Blu-ray and HDR support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "powerdvd"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

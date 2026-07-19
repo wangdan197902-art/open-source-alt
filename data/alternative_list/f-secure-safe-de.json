@@ -1,0 +1,54 @@
+{
+  "id": "f-secure-safe-alternatives-de",
+  "softwareId": "f-secure-safe",
+  "lang": "de",
+  "title": "Open-Source-Alternativen zu F-Secure SAFE",
+  "description": "Nachfolgend finden Sie eine Liste von Open-Source-Alternativen zu F-Secure SAFE, die kostenlos sind und eine aktive Community haben.",
+  "alternatives": [
+    {
+      "opensourceId": "clamav-10",
+      "opensourceName": "ClamAV",
+      "matchScore": 0.95,
+      "reason": "Offiziell empfohlene Open-Source-Alternative, stark kompatibel mit F-Secure SAFE"
+    },
+    {
+      "opensourceId": "bitwarden",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.85,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "bitwarden-2",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.8,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "bitwarden-3",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.75,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "bitwarden-4",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.7,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "starleaf-uk",
+  "sourceTextHash": "34a922f97f0579933a1908f82b1e3964b1953bf98ba970ef87a805d6ed31bd61",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] StarLeaf is a video-conferencing software developed by StarLeaf. Video conferencing and messaging for business communications.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "starleaf"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

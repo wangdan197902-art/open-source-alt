@@ -1,0 +1,29 @@
+{
+  "id": "appcode-educational-uk",
+  "softwareId": "appcode",
+  "scenario": "educational",
+  "lang": "uk",
+  "title": "Освітні сценарії використання AppCode",
+  "description": "Використовуйте AppCode в освітніх сценаріях для викладання програмування та вивчення коду.",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "CS students, coding bootcamp learners, educators",
+    "workflow": "Learning programming, completing assignments, building portfolio projects",
+    "benefits": "Powerful learning environment with debugging and code completion"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

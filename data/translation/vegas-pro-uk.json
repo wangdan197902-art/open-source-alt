@@ -1,0 +1,22 @@
+{
+  "id": "vegas-pro-uk",
+  "sourceTextHash": "74aa04c07dc7681433909068fa9f894769cd79bcc30d8d9d427b44197916b661",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] VEGAS Pro is a media-player software developed by VEGAS Creative Software. Video editing software for Windows with VFX tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "vegas-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

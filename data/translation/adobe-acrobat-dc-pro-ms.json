@@ -1,0 +1,22 @@
+{
+  "id": "adobe-acrobat-dc-pro-ms",
+  "sourceTextHash": "bcfe03101e0d4d4c45a1edf44f535b8ca7fa3ae532547454d63041ead2a5426f",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Adobe Acrobat Pro DC (Redaction) is a security-software software developed by Adobe. PDF security with redaction and certificate encryption.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "adobe-acrobat-dc-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

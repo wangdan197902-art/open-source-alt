@@ -1,0 +1,22 @@
+{
+  "id": "appcleaner-mac-uk",
+  "sourceTextHash": "873670addc2e5ebb9902209a754105278a9174752d5c846491b305435180e0a8",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] AppCleaner (Mac) is a system-utilities software developed by MacPaw. Free Mac app uninstaller with related files cleanup.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "appcleaner-mac"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

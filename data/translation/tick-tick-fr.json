@@ -1,0 +1,22 @@
+{
+  "id": "tick-tick-fr",
+  "sourceTextHash": "f759860bd780033ae39de6a8f9a84a99e8e05b49fe5b45b44c03411b33016432",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] TickTick is a note-taking software developed by TickTick. To-do app with calendar, habit tracker, and Pomodoro timer.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "tick-tick"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

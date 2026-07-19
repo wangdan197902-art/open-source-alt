@@ -1,0 +1,22 @@
+{
+  "id": "jriver-media-center-ru",
+  "sourceTextHash": "7eaa096dbb30b1b21142798f2878c88b32e046cc4a6bbe0581afcf1aa90b21b6",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] JRiver Media Center is a media-player software developed by JRiver. All-in-one media manager for audio, video, and images.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "jriver-media-center"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

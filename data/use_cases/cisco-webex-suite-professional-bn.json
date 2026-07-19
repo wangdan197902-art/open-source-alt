@@ -1,0 +1,29 @@
+{
+  "id": "cisco-webex-suite-professional-bn",
+  "softwareId": "cisco-webex-suite",
+  "scenario": "professional",
+  "lang": "bn",
+  "title": "Cisco Webex Suite এর পেশাদার ব্যবহারের ক্ষেত্র",
+  "description": "পেশাদার কাজে ভিডিও কনফারেন্স এবং ওয়েবিনার-এর জন্য Cisco Webex Suite ব্যবহার করুন।",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Remote teams, sales reps, consultants",
+    "workflow": "Video meetings, webinars, screen sharing, recording",
+    "benefits": "Enables remote work and global client communication"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "protools-similar-th",
+  "softwareId": "protools",
+  "lang": "th",
+  "title": "ซอฟต์แวร์ที่คล้ายกับ Pro Tools",
+  "description": "ด้านล่างนี้คือรายการซอฟต์แวร์ที่คล้ายกับ Pro Tools",
+  "similarSoftware": [
+    {
+      "id": "ableton-live",
+      "name": "Ableton Live",
+      "similarity": 0.95
+    },
+    {
+      "id": "adobe-audition",
+      "name": "Adobe Audition",
+      "similarity": 0.89
+    },
+    {
+      "id": "aimp",
+      "name": "AIMP",
+      "similarity": 0.82
+    },
+    {
+      "id": "amazon-music-unlimited",
+      "name": "Amazon Music Unlimited",
+      "similarity": 0.76
+    },
+    {
+      "id": "apple-music-app",
+      "name": "Apple Music",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rufus-pro-professional-es",
+  "softwareId": "rufus-pro",
+  "scenario": "professional",
+  "lang": "es",
+  "title": "Casos de uso profesional de Rufus Premium",
+  "description": "Usa Rufus Premium en el trabajo profesional para monitoreo del sistema y gestión de archivos.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "System admins, IT operations, DevOps engineers",
+    "workflow": "System monitoring, file management, automation scripts",
+    "benefits": "Streamlines system administration and operational efficiency"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

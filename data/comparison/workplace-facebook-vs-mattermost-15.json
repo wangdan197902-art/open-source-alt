@@ -1,0 +1,64 @@
+{
+  "id": "workplace-facebook-vs-mattermost-15",
+  "proprietaryId": "workplace-facebook",
+  "openSourceId": "mattermost-15",
+  "featureComparison": [
+    {
+      "feature": "核心功能",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "yes"
+    },
+    {
+      "feature": "高级功能",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "partial",
+      "notes": "Mattermost 在高级功能上弱于 Workplace by Meta"
+    },
+    {
+      "feature": "跨平台支持",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "yes"
+    }
+  ],
+  "pros": [
+    "Mattermost 完全开源免费",
+    "Mattermost 跨平台支持",
+    "无订阅费用",
+    "社区活跃"
+  ],
+  "cons": [
+    "Mattermost 学习曲线较陡",
+    "部分高级功能缺失",
+    "企业级支持有限"
+  ],
+  "migrationDifficulty": "medium",
+  "useCases": [
+    "个人用户",
+    "教育用途",
+    "预算有限的团队",
+    "开源爱好者"
+  ],
+  "aiGenerated": true,
+  "aiGeneratedDetails": {
+    "model": "agnes-2.0-flash-mock",
+    "generatedAt": "2026-07-19T02:19:40+00:00",
+    "promptHash": "sha256:2a6f90adc4eb151104490528a2bb95e3ebbd35c5dc86f203d523ba8962a8be9e",
+    "tokensUsed": 200
+  },
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19",
+    "rawResponseLength": 0
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "pros",
+      "cons",
+      "featureComparison"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "trend-micro-business-alternatives-it",
+  "softwareId": "trend-micro-business",
+  "lang": "it",
+  "title": "Alternative open source per Trend Micro Apex One",
+  "description": "Di seguito è riportato un elenco di alternative open source per Trend Micro Apex One, gratuite e con community attiva.",
+  "alternatives": [
+    {
+      "opensourceId": "wazuh-7",
+      "opensourceName": "Wazuh",
+      "matchScore": 0.95,
+      "reason": "Alternativa open source ufficialmente consigliata, altamente compatibile con Trend Micro Apex One"
+    },
+    {
+      "opensourceId": "bitwarden",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.85,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "bitwarden-2",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.8,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "bitwarden-3",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.75,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "bitwarden-4",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.7,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

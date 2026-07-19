@@ -1,0 +1,29 @@
+{
+  "id": "mindmup-educational-es",
+  "softwareId": "mindmup",
+  "scenario": "educational",
+  "lang": "es",
+  "title": "Casos de uso educativo de MindMup",
+  "description": "Usa MindMup en entornos educativos para enseñanza de diseño colaborativo y proyectos en equipo.",
+  "useCaseDetails": {
+    "industry": "Design & Product",
+    "users": "Design students, bootcamp participants, educators",
+    "workflow": "Learning collaborative design, group projects, design critique sessions",
+    "benefits": "Develop teamwork skills essential for modern product design careers"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

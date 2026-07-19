@@ -1,0 +1,22 @@
+{
+  "id": "bartender-menu-bar-uk",
+  "sourceTextHash": "3cda49f5dc32eb004ac117e204acd93ac35f5e301a3ad9a1c82142ea088eaab8",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Bartender (Menu Bar) is a system-utilities software developed by Surtees Studios. Mac menu bar icon manager for organization.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "bartender-menu-bar"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

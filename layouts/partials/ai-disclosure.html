@@ -1,0 +1,6 @@
+{{ if .Params.aiGenerated }}
+<div class="ai-disclosure" role="note">
+  <strong>📋 {{ i18n "ai_disclosure_title" | default "AI内容披露：" }}</strong>
+  {{ i18n "ai_disclosure_text" | default "本页面内容由AI辅助生成，已通过人工审核。请批判性参考。" }}
+</div>
+{{ end }}

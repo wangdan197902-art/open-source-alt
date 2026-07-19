@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-publisher-pl",
+  "sourceTextHash": "153fca640b78219da5f52d7254b33bc5483cc77803f6b3612ab2fad5fc03c878",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Microsoft Publisher is a office-suite software developed by Microsoft. Desktop publishing software for flyers, brochures, and cards.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "microsoft-publisher"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

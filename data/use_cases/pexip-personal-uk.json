@@ -1,0 +1,29 @@
+{
+  "id": "pexip-personal-uk",
+  "softwareId": "pexip",
+  "scenario": "personal",
+  "lang": "uk",
+  "title": "Особисті сценарії використання Pexip",
+  "description": "Використовуйте Pexip в особистому житті для сімейні відеодзвінки та зустрічі з друзями.",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Families, friends, community groups",
+    "workflow": "Family video calls, friend catch-ups, virtual events",
+    "benefits": "Free video calls keep personal connections strong across distances"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

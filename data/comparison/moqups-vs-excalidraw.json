@@ -1,0 +1,64 @@
+{
+  "id": "moqups-vs-excalidraw",
+  "proprietaryId": "moqups",
+  "openSourceId": "excalidraw",
+  "featureComparison": [
+    {
+      "feature": "核心功能",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "yes"
+    },
+    {
+      "feature": "高级功能",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "partial",
+      "notes": "Excalidraw 在高级功能上弱于 Moqups"
+    },
+    {
+      "feature": "跨平台支持",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "yes"
+    }
+  ],
+  "pros": [
+    "Excalidraw 完全开源免费",
+    "Excalidraw 跨平台支持",
+    "无订阅费用",
+    "社区活跃"
+  ],
+  "cons": [
+    "Excalidraw 学习曲线较陡",
+    "部分高级功能缺失",
+    "企业级支持有限"
+  ],
+  "migrationDifficulty": "medium",
+  "useCases": [
+    "个人用户",
+    "教育用途",
+    "预算有限的团队",
+    "开源爱好者"
+  ],
+  "aiGenerated": true,
+  "aiGeneratedDetails": {
+    "model": "agnes-2.0-flash-mock",
+    "generatedAt": "2026-07-19T02:19:40+00:00",
+    "promptHash": "sha256:4d7c6ab05f548d3fef002a057f5ec0970fe1074974094f302501f92d871aab85",
+    "tokensUsed": 200
+  },
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19",
+    "rawResponseLength": 0
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "pros",
+      "cons",
+      "featureComparison"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "webex-meetings-tr",
+  "sourceTextHash": "16a5829b056e28b53ccf24158f4f6cd410545e8eb4905afd131a115c5ae3c8a3",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] Cisco Webex Meetings is a video-conferencing software developed by Cisco. Video conferencing with screen sharing, recording, and webinars.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "webex-meetings"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

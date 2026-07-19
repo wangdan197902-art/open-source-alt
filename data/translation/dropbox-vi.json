@@ -1,0 +1,22 @@
+{
+  "id": "dropbox-vi",
+  "sourceTextHash": "988d19058324d501bf97536b8e00952865fba258ff0e53516c881e289fba092d",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Dropbox is a office-suite software developed by Dropbox. Cloud storage and file sync with sharing and collaboration.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "dropbox"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

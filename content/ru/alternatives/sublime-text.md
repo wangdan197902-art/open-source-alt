@@ -1,0 +1,28 @@
+---
+title: "Открытые альтернативы для Sublime Text"
+date: "2026-07-19"
+draft: false
+description: "Ниже приведен список открытых альтернатив для Sublime Text, бесплатных и с активным сообществом."
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "sublime-text"
+type: "alternative-list"
+---
+
+# Открытые альтернативы для Sublime Text
+
+**Ниже приведен список открытых альтернатив для Sublime Text, бесплатных и с активным сообществом.**
+
+## Open Source Alternatives
+
+| Open Source Software | Match Score | Reason |
+|---------------------|-------------|--------|
+| VSCodium | 95% | Официально рекомендованная открытая альтернатива, высоко совместимая с Sublime Text |
+| DBeaver | 85% | Открытое ПО той же категории, доступное как альтернатива |
+| Gitea | 80% | Открытое ПО той же категории, доступное как альтернатива |
+| Gitea | 75% | Открытое ПО той же категории, доступное как альтернатива |
+| Gitea | 70% | Открытое ПО той же категории, доступное как альтернатива |
+
+## Related Pages
+
+- [Similar Software to sublime-text](../../similar/sublime-text/)

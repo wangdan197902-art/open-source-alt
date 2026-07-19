@@ -1,0 +1,22 @@
+{
+  "id": "crisp-uk",
+  "sourceTextHash": "713cf0b82f933937a5e2d545425384085ba4647b944bed55349e21a85e5ba6cb",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Crisp is a team-communication software developed by Crisp. Customer messaging platform with chat, email, and chatbot.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "crisp"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

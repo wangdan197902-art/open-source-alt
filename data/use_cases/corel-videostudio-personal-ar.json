@@ -1,0 +1,29 @@
+{
+  "id": "corel-videostudio-personal-ar",
+  "softwareId": "corel-videostudio",
+  "scenario": "personal",
+  "lang": "ar",
+  "title": "حالات الاستخدام الشخصية لـ Corel VideoStudio",
+  "description": "استخدم Corel VideoStudio في الحياة الشخصية لأجل مكتبة الوسائط الشخصية والترفيه.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "General consumers, movie enthusiasts",
+    "workflow": "Personal media library, movie watching, music playback",
+    "benefits": "Free high-quality media playback for personal entertainment"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

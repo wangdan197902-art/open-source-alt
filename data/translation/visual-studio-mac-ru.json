@@ -1,0 +1,22 @@
+{
+  "id": "visual-studio-mac-ru",
+  "sourceTextHash": "46edf1f6130ad9d5816d669e438fcfde7922deaa95387729ea4bdcba11dd9af3",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Visual Studio for Mac is a development-tools software developed by Microsoft. Mac IDE for .NET, mobile, and games development.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "visual-studio-mac"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

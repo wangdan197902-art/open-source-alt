@@ -1,0 +1,22 @@
+{
+  "id": "displayfusion-tr",
+  "sourceTextHash": "3ab5b059b9582691297e30f8837ef3253721b1d4183c72eda523ad749f87c885",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] DisplayFusion Pro is a system-utilities software developed by Binary Fortress. Multi-monitor management for Windows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "displayfusion"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

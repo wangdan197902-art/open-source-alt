@@ -1,0 +1,29 @@
+{
+  "id": "acronis-cyber-protect-personal-th",
+  "softwareId": "acronis-cyber-protect",
+  "scenario": "personal",
+  "lang": "th",
+  "title": "กรณีการใช้งานส่วนบุคคลของ Acronis Cyber Protect Home Office",
+  "description": "ใช้ Acronis Cyber Protect Home Office ในชีวิตประจำวันเพื่อการบำรุงรักษาคอมพิวเตอร์ส่วนบุคคลและการจัดระเบียบไฟล์",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "Power users, home lab enthusiasts",
+    "workflow": "Personal computer maintenance, file organization, system tweaks",
+    "benefits": "Free utilities for keeping personal systems running smoothly"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

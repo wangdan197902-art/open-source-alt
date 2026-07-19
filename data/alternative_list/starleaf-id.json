@@ -1,0 +1,54 @@
+{
+  "id": "starleaf-alternatives-id",
+  "softwareId": "starleaf",
+  "lang": "id",
+  "title": "Alternatif open-source untuk StarLeaf",
+  "description": "Berikut adalah daftar alternatif open-source untuk StarLeaf, gratis dengan komunitas aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "jitsi-meet-18",
+      "opensourceName": "Jitsi Meet",
+      "matchScore": 0.95,
+      "reason": "Alternatif open-source yang direkomendasikan secara resmi, sangat kompatibel dengan StarLeaf"
+    },
+    {
+      "opensourceId": "bigbluebutton",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.85,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "bigbluebutton-10",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.8,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "bigbluebutton-11",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.75,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "bigbluebutton-12",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.7,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

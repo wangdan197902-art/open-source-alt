@@ -1,0 +1,49 @@
+{
+  "id": "airtable-pro-similar-de",
+  "softwareId": "airtable-pro",
+  "lang": "de",
+  "title": "Ähnliche Software wie Airtable Pro",
+  "description": "Nachfolgend finden Sie eine Liste ähnlicher Software wie Airtable Pro.",
+  "similarSoftware": [
+    {
+      "id": "adobe-acrobat",
+      "name": "Adobe Acrobat",
+      "similarity": 0.95
+    },
+    {
+      "id": "adobe-acrobat-pro",
+      "name": "Adobe Acrobat Pro",
+      "similarity": 0.89
+    },
+    {
+      "id": "apple-books",
+      "name": "Apple Books",
+      "similarity": 0.82
+    },
+    {
+      "id": "apple-calendar",
+      "name": "Apple Calendar",
+      "similarity": 0.76
+    },
+    {
+      "id": "apple-mail",
+      "name": "Apple Mail",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

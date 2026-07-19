@@ -1,0 +1,54 @@
+{
+  "id": "dynalist-alternatives-it",
+  "softwareId": "dynalist",
+  "lang": "it",
+  "title": "Alternative open source per Dynalist",
+  "description": "Di seguito è riportato un elenco di alternative open source per Dynalist, gratuite e con community attiva.",
+  "alternatives": [
+    {
+      "opensourceId": "siyuan",
+      "opensourceName": "SiYuan",
+      "matchScore": 0.95,
+      "reason": "Alternativa open source ufficialmente consigliata, altamente compatibile con Dynalist"
+    },
+    {
+      "opensourceId": "affine",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "anytype",
+      "opensourceName": "Anytype",
+      "matchScore": 0.8,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "appflowy",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.75,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "appflowy-2",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.7,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "avast-premium-professional-hi",
+  "softwareId": "avast-premium",
+  "scenario": "professional",
+  "lang": "hi",
+  "title": "Avast Premium Security के पेशेवर उपयोग मामले",
+  "description": "पेशेवर कार्य में खतरा पहचान और कमजोरी स्कैनिंग के लिए Avast Premium Security का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Security analysts, IT admins, compliance officers",
+    "workflow": "Threat detection, vulnerability scanning, compliance auditing",
+    "benefits": "Enterprise-grade security for protecting organizational assets"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

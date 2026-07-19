@@ -1,0 +1,29 @@
+{
+  "id": "clip-studio-paint-professional-pt",
+  "softwareId": "clip-studio-paint",
+  "scenario": "professional",
+  "lang": "pt",
+  "title": "Casos de uso profissional do Clip Studio Paint",
+  "description": "Use o Clip Studio Paint no trabalho profissional para edição de imagens, design gráfico e criação de arte digital.",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Graphic designers, photographers, digital artists",
+    "workflow": "Image retouching, compositing, digital painting, asset preparation for print/web",
+    "benefits": "Industry-standard toolset for high-quality visual output and client deliverables"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

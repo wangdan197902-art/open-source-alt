@@ -1,0 +1,29 @@
+{
+  "id": "roboform-everywhere-personal-th",
+  "softwareId": "roboform-everywhere",
+  "scenario": "personal",
+  "lang": "th",
+  "title": "กรณีการใช้งานส่วนบุคคลของ RoboForm Everywhere",
+  "description": "ใช้ RoboForm Everywhere ในชีวิตประจำวันเพื่อการป้องกันอุปกรณ์ส่วนบุคคลและความปลอดภัยของความเป็นส่วนตัว",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Home users, privacy-conscious individuals",
+    "workflow": "Personal device protection, privacy tools, secure browsing",
+    "benefits": "Protects personal data and online privacy"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

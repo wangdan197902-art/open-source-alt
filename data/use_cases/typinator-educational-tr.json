@@ -1,0 +1,29 @@
+{
+  "id": "typinator-educational-tr",
+  "softwareId": "typinator",
+  "scenario": "educational",
+  "lang": "tr",
+  "title": "Typinator eğitim kullanım senaryoları",
+  "description": "Eğitim senaryolarında sistem yönetimi eğitimi ve laboratuvarlar için Typinator kullanın.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "IT students, sysadmin trainees",
+    "workflow": "Learning system administration, lab environments",
+    "benefits": "Practical experience with industry-standard utilities"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "iwork-numbers-educational-bn",
+  "softwareId": "iwork-numbers",
+  "scenario": "educational",
+  "lang": "bn",
+  "title": "Apple Numbers এর শিক্ষামূলক ব্যবহারের ক্ষেত্র",
+  "description": "শিক্ষামূলক পরিস্থিতিতে একাডেমিক কাজ এবং শিক্ষা সামগ্রী-এর জন্য Apple Numbers ব্যবহার করুন।",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Students, teachers, academic staff",
+    "workflow": "Assignments, lesson plans, academic papers",
+    "benefits": "Standard tools for academic document creation"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

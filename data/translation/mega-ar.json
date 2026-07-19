@@ -1,0 +1,22 @@
+{
+  "id": "mega-ar",
+  "sourceTextHash": "c69a160b7fe22286ee2a567f4b680d36ec6e3162e25c8f34f4808f241f5661ec",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] MEGA is a office-suite software developed by MEGA Limited. End-to-end encrypted cloud storage and file sharing service.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mega"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

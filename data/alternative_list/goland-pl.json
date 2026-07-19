@@ -1,0 +1,54 @@
+{
+  "id": "goland-alternatives-pl",
+  "softwareId": "goland",
+  "lang": "pl",
+  "title": "Alternatywy open-source dla GoLand",
+  "description": "Poniżej znajduje się lista alternatyw open-source dla GoLand, darmowych z aktywną społecznością.",
+  "alternatives": [
+    {
+      "opensourceId": "vscodium-5",
+      "opensourceName": "VSCodium",
+      "matchScore": 0.95,
+      "reason": "Oficjalnie polecana alternatywa open-source, wysoć zgodna z GoLand"
+    },
+    {
+      "opensourceId": "dbeaver",
+      "opensourceName": "DBeaver",
+      "matchScore": 0.85,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "gitea",
+      "opensourceName": "Gitea",
+      "matchScore": 0.8,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "gitea-2",
+      "opensourceName": "Gitea",
+      "matchScore": 0.75,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "gitea-3",
+      "opensourceName": "Gitea",
+      "matchScore": 0.7,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

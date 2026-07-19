@@ -1,0 +1,22 @@
+{
+  "id": "yed-id",
+  "sourceTextHash": "701fd9f9ceac9ad22891decb52698ffed90bac47a978479cf7daf9b11e06a9ba",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] yEd is a design-collaboration software developed by yWorks. Desktop diagram editor with powerful graph layout algorithms.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "yed"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

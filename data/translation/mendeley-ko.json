@@ -1,0 +1,22 @@
+{
+  "id": "mendeley-ko",
+  "sourceTextHash": "70f832da377d1cd44f17b02f093e6ccc1603ecb1cdc07bc7cfcf98d2d020a94c",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] Mendeley is a note-taking software developed by Elsevier. Reference manager and academic research network.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mendeley"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

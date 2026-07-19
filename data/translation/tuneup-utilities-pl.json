@@ -1,0 +1,22 @@
+{
+  "id": "tuneup-utilities-pl",
+  "sourceTextHash": "83228e730fd6bb5398b234538a52f2341d38beb080a5bbae0fb673fdaedfc455",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] AVG TuneUp is a system-utilities software developed by AVG. PC performance optimizer with sleep mode.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "tuneup-utilities"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

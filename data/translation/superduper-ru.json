@@ -1,0 +1,22 @@
+{
+  "id": "superduper-ru",
+  "sourceTextHash": "a628bb455c632cb46abdf73914b3dfb632490df7ddb463752e9faf8bf9f5954b",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] SuperDuper! is a system-utilities software developed by Shirt Pocket. Mac disk cloning and backup tool.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "superduper"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

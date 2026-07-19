@@ -1,0 +1,27 @@
+{
+  "id": "gotomypc-utility-screenshot",
+  "type": "screenshot",
+  "prompt": "GoToMyPC (Remote) 工作界面截图，展示主要功能与操作面板（Mock 生成）",
+  "modelUsed": "agnes-2.0-flash-mock",
+  "url": "https://ossaf.local/images/screenshots/gotomypc-utility.png",
+  "altText": "GoToMyPC (Remote) 界面截图",
+  "licenseInfo": "fair-use-for-comparison",
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "width": 1920,
+    "height": 1080,
+    "softwareId": "gotomypc-utility",
+    "actualImageGenerated": false
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "url",
+      "modelUsed"
+    ],
+    "confidence": "medium"
+  }
+}

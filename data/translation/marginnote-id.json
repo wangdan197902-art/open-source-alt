@@ -1,0 +1,22 @@
+{
+  "id": "marginnote-id",
+  "sourceTextHash": "e75560d23c5f1570496e6f8e278567747ebd76a4c3e590f8ed09c3d2de4f75ad",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] MarginNote is a note-taking software developed by Sun Min. PDF study tool with mind maps, flashcards, and annotations.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "marginnote"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kodi-with-addons-educational-nl",
+  "softwareId": "kodi-with-addons",
+  "scenario": "educational",
+  "lang": "nl",
+  "title": "Educatieve gebruikssituaties voor Kodi with Premium Add-ons",
+  "description": "Gebruik Kodi with Premium Add-ons in educatieve scenario's voor afspelen van educatieve video's en college-opnames.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Students, educators, training content creators",
+    "workflow": "Educational video playback, lecture recordings, training materials",
+    "benefits": "Supports diverse media formats for educational content delivery"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

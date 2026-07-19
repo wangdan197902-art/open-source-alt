@@ -1,0 +1,64 @@
+{
+  "id": "threema-vs-signal-cli",
+  "proprietaryId": "threema",
+  "openSourceId": "signal-cli",
+  "featureComparison": [
+    {
+      "feature": "核心功能",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "yes"
+    },
+    {
+      "feature": "高级功能",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "partial",
+      "notes": "Signal CLI 在高级功能上弱于 Threema"
+    },
+    {
+      "feature": "跨平台支持",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "yes"
+    }
+  ],
+  "pros": [
+    "Signal CLI 完全开源免费",
+    "Signal CLI 跨平台支持",
+    "无订阅费用",
+    "社区活跃"
+  ],
+  "cons": [
+    "Signal CLI 学习曲线较陡",
+    "部分高级功能缺失",
+    "企业级支持有限"
+  ],
+  "migrationDifficulty": "medium",
+  "useCases": [
+    "个人用户",
+    "教育用途",
+    "预算有限的团队",
+    "开源爱好者"
+  ],
+  "aiGenerated": true,
+  "aiGeneratedDetails": {
+    "model": "agnes-2.0-flash-mock",
+    "generatedAt": "2026-07-19T02:19:40+00:00",
+    "promptHash": "sha256:762ffc9114e42248b7ef2cd86418bd80b876c2e0f3e3d512d16542bc0e9ec9c8",
+    "tokensUsed": 200
+  },
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19",
+    "rawResponseLength": 0
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "pros",
+      "cons",
+      "featureComparison"
+    ],
+    "confidence": "medium"
+  }
+}

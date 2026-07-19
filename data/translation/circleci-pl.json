@@ -1,0 +1,22 @@
+{
+  "id": "circleci-pl",
+  "sourceTextHash": "e4c5333118fa617ebafb5b10cd34172ea925ae582e5e366f7e6fef59f8f4a18b",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] CircleCI is a development-tools software developed by CircleCI. Continuous integration and delivery platform for software teams.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "circleci"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,34 @@
+---
+title: "Azure DevOps eğitim kullanım senaryoları"
+date: "2026-07-19"
+draft: false
+description: "Eğitim senaryolarında programlama eğitimi ve kod öğrenimi için Azure DevOps kullanın."
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "azure-devops"
+scenario: "educational"
+type: "use-case"
+use-case:
+  - educational
+tags:
+  - azure-devops
+  - educational
+  - Software Development
+categories:
+  - Software Development
+---
+
+# Azure DevOps eğitim kullanım senaryoları
+
+**Eğitim senaryolarında programlama eğitimi ve kod öğrenimi için Azure DevOps kullanın.**
+
+## Use Case Details
+
+- **Industry**: Software Development
+- **Users**: CS students, coding bootcamp learners, educators
+- **Workflow**: Learning programming, completing assignments, building portfolio projects
+- **Benefits**: Powerful learning environment with debugging and code completion
+
+## Software
+
+View [Open Source Alternatives for azure-devops](../../alternatives/azure-devops/) and [Similar Software to azure-devops](../../similar/azure-devops/).

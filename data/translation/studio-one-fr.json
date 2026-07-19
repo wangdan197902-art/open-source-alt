@@ -1,0 +1,22 @@
+{
+  "id": "studio-one-fr",
+  "sourceTextHash": "aeed142b9ae953f1ca3f076ee284259b04aace379d29bdf97e46b01c8096012d",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] Studio One is a media-player software developed by PreSonus. Modern DAW with single-window workflow.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "studio-one"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

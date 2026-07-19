@@ -1,0 +1,22 @@
+{
+  "id": "painttool-sai-ms",
+  "sourceTextHash": "8c1f3347a354f20e25c9f109dea26194722825ac64f284e9bb3ca2b23855f4e9",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] PaintTool SAI is a image-editing software developed by Systemax. Lightweight painting software popular with digital illustrators.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "painttool-sai"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

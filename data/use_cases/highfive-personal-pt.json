@@ -1,0 +1,29 @@
+{
+  "id": "highfive-personal-pt",
+  "softwareId": "highfive",
+  "scenario": "personal",
+  "lang": "pt",
+  "title": "Casos de uso pessoal do Highfive",
+  "description": "Use o Highfive na vida pessoal para videochamadas familiares e encontros de amigos.",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Families, friends, community groups",
+    "workflow": "Family video calls, friend catch-ups, virtual events",
+    "benefits": "Free video calls keep personal connections strong across distances"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

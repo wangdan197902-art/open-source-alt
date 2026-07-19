@@ -1,0 +1,22 @@
+{
+  "id": "advanced-systemcare-pro-ms",
+  "sourceTextHash": "2b4cd9fadffa66a62d77bc7af1c31eee2bf7c12d52da132a72b08a3ef87b344e",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Advanced SystemCare Pro is a system-utilities software developed by IObit. PC optimization suite with AI-powered cleanup.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "advanced-systemcare-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

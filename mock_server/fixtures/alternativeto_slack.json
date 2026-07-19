@@ -1,0 +1,44 @@
+{
+  "alternatives": [
+    {
+      "id": "element",
+      "name": "Element",
+      "description": "基于 Matrix 协议的开源团队协作软件，支持端到端加密、自托管和联邦式通信，可替代 Slack 的核心功能。",
+      "licenses": ["AGPL-3.0"],
+      "platforms": ["Web", "iOS", "Android", "Windows", "macOS", "Linux"],
+      "likes": 1789
+    },
+    {
+      "id": "rocket-chat",
+      "name": "Rocket.Chat",
+      "description": "开源团队通信平台，支持频道、私聊、视频通话和 LiveChat，可自托管，与 Slack API 高度兼容。",
+      "licenses": ["MIT"],
+      "platforms": ["Web", "Self-hosted", "iOS", "Android"],
+      "likes": 1324
+    },
+    {
+      "id": "mattermost",
+      "name": "Mattermost",
+      "description": "开源企业级团队协作工具，专为自托管设计，提供 Slack 兼容的 Webhook 和强大的合规性功能。",
+      "licenses": ["AGPL-3.0"],
+      "platforms": ["Web", "Self-hosted", "iOS", "Android", "Windows", "macOS", "Linux"],
+      "likes": 1102
+    },
+    {
+      "id": "zulip",
+      "name": "Zulip",
+      "description": "开源团队聊天工具，独特的主题式线程设计让多人协作更有条理，支持自托管和云端版本。",
+      "licenses": ["Apache-2.0"],
+      "platforms": ["Web", "Self-hosted", "iOS", "Android", "Windows", "macOS", "Linux"],
+      "likes": 867
+    },
+    {
+      "id": "revolt",
+      "name": "Revolt",
+      "description": "开源的 Discord/Slack 替代品，使用 Rust 构建，强调性能和隐私，支持自托管和插件系统。",
+      "licenses": ["AGPL-3.0"],
+      "platforms": ["Web", "Self-hosted", "iOS", "Android", "Windows", "macOS", "Linux"],
+      "likes": 432
+    }
+  ]
+}

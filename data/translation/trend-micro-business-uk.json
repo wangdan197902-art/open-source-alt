@@ -1,0 +1,22 @@
+{
+  "id": "trend-micro-business-uk",
+  "sourceTextHash": "e95997a7475496fead478c7ec2f6e4265e87392088942d72be04f963a74b8320",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Trend Micro Apex One is a security-software software developed by Trend Micro. Business endpoint protection with automated response.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "trend-micro-business"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

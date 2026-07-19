@@ -1,0 +1,29 @@
+{
+  "id": "google-gmail-personal-th",
+  "softwareId": "google-gmail",
+  "scenario": "personal",
+  "lang": "th",
+  "title": "กรณีการใช้งานส่วนบุคคลของ Gmail",
+  "description": "ใช้ Gmail ในชีวิตประจำวันเพื่อการเงินส่วนบุคคลและเอกสารครัวเรือน",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Home users, personal finance managers",
+    "workflow": "Personal budgets, household documents, invitations",
+    "benefits": "Free alternatives for personal productivity tasks"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

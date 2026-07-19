@@ -1,0 +1,29 @@
+{
+  "id": "easeus-data-recovery-professional-nl",
+  "softwareId": "easeus-data-recovery",
+  "scenario": "professional",
+  "lang": "nl",
+  "title": "Professionele gebruikssituaties voor EaseUS Data Recovery Wizard",
+  "description": "Gebruik EaseUS Data Recovery Wizard in professioneel werk voor systeemmonitoring en bestandsbeheer.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "System admins, IT operations, DevOps engineers",
+    "workflow": "System monitoring, file management, automation scripts",
+    "benefits": "Streamlines system administration and operational efficiency"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

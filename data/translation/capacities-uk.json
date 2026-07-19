@@ -1,0 +1,22 @@
+{
+  "id": "capacities-uk",
+  "sourceTextHash": "0ed980445b326ce6833d3c094f5970a2b3e5642b4bd78d76439625372fa44cc0",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Capacities is a note-taking software developed by Capacities. Networked note app with object-based organization.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "capacities"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

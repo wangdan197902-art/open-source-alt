@@ -1,0 +1,54 @@
+{
+  "id": "bartender-menu-bar-alternatives-nl",
+  "softwareId": "bartender-menu-bar",
+  "lang": "nl",
+  "title": "Open-source alternatieven voor Bartender (Menu Bar)",
+  "description": "Hieronder staat een lijst met open-source alternatieven voor Bartender (Menu Bar), gratis en met actieve community.",
+  "alternatives": [
+    {
+      "opensourceId": "hidden",
+      "opensourceName": "Hidden Bar",
+      "matchScore": 0.95,
+      "reason": "Officieel aanbevolen open-source alternatief, sterk compatibel met Bartender (Menu Bar)"
+    },
+    {
+      "opensourceId": "albert",
+      "opensourceName": "Albert",
+      "matchScore": 0.85,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "albert-2",
+      "opensourceName": "Albert",
+      "matchScore": 0.8,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "albert-3",
+      "opensourceName": "Albert",
+      "matchScore": 0.75,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "baobab",
+      "opensourceName": "Baobab (Disk Usage Analyzer)",
+      "matchScore": 0.7,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

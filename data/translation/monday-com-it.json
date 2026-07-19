@@ -1,0 +1,22 @@
+{
+  "id": "monday-com-it",
+  "sourceTextHash": "b3505801753768bdde103102b817e9c96d2a7b493039701831c532c3819926b4",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Monday.com is a development-tools software developed by Monday.com. Work OS for planning, tracking, and managing team workflows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "monday-com"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

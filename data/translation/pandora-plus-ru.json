@@ -1,0 +1,22 @@
+{
+  "id": "pandora-plus-ru",
+  "sourceTextHash": "d92470e2beb36f886cf9082311fbb65d967067ea1003de85f792fe8bb9d5ea4f",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Pandora Plus is a media-player software developed by Pandora. Ad-free personalized radio with offline listening.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "pandora-plus"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "instapaper-educational-nl",
+  "softwareId": "instapaper",
+  "scenario": "educational",
+  "lang": "nl",
+  "title": "Educatieve gebruikssituaties voor Instapaper",
+  "description": "Gebruik Instapaper in educatieve scenario's voor studienotities en onderzoekorganisatie.",
+  "useCaseDetails": {
+    "industry": "Knowledge Work",
+    "users": "Students, researchers, academics",
+    "workflow": "Lecture notes, research organization, study materials",
+    "benefits": "Improves learning outcomes with structured knowledge management"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

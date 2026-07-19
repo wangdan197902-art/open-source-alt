@@ -1,0 +1,49 @@
+{
+  "id": "apple-notes-similar-ko",
+  "softwareId": "apple-notes",
+  "lang": "ko",
+  "title": "Apple Notes 와(과) 유사한 소프트웨어",
+  "description": "다음은 Apple Notes 와(과) 유사한 추천 소프트웨어 목록입니다.",
+  "similarSoftware": [
+    {
+      "id": "airtable",
+      "name": "Airtable",
+      "similarity": 0.95
+    },
+    {
+      "id": "any-do",
+      "name": "Any.do",
+      "similarity": 0.89
+    },
+    {
+      "id": "bear",
+      "name": "Bear",
+      "similarity": 0.82
+    },
+    {
+      "id": "bundle-notes",
+      "name": "Bundle Notes",
+      "similarity": 0.76
+    },
+    {
+      "id": "capacities",
+      "name": "Capacities",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

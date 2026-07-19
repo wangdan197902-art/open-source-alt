@@ -1,0 +1,54 @@
+{
+  "id": "g-data-total-security-alternatives-fr",
+  "softwareId": "g-data-total-security",
+  "lang": "fr",
+  "title": "Alternatives open-source pour G Data Total Security",
+  "description": "Voici une liste d'alternatives open-source pour G Data Total Security, gratuites avec une communauté active.",
+  "alternatives": [
+    {
+      "opensourceId": "clamwin-5",
+      "opensourceName": "ClamWin",
+      "matchScore": 0.95,
+      "reason": "Alternative open-source officiellement recommandée, hautement compatible avec G Data Total Security"
+    },
+    {
+      "opensourceId": "bitwarden",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.85,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "bitwarden-2",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.8,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "bitwarden-3",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.75,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "bitwarden-4",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.7,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

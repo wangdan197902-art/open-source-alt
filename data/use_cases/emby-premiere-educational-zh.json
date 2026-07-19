@@ -1,0 +1,29 @@
+{
+  "id": "emby-premiere-educational-zh",
+  "softwareId": "emby-premiere",
+  "scenario": "educational",
+  "lang": "zh",
+  "title": "Emby Premiere 教育使用场景",
+  "description": "在教学场景中使用 Emby Premiere 进行教学视频播放和讲座录制。",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Students, educators, training content creators",
+    "workflow": "Educational video playback, lecture recordings, training materials",
+    "benefits": "Supports diverse media formats for educational content delivery"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

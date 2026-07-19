@@ -1,0 +1,22 @@
+{
+  "id": "ithoughts-id",
+  "sourceTextHash": "72a82d7579fa2d5178022342f057b485df6170fbec3defd89ebfc04f39d1ce4a",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] iThoughts is a design-collaboration software developed by ToketaWare. Mac and iOS mind mapping app with import/export support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "ithoughts"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

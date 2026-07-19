@@ -1,0 +1,54 @@
+{
+  "id": "yed-alternatives-pt",
+  "softwareId": "yed",
+  "lang": "pt",
+  "title": "Alternativas de código aberto para yEd",
+  "description": "Abaixo está uma lista de alternativas de código aberto para yEd, gratuitas e com comunidade ativa.",
+  "alternatives": [
+    {
+      "opensourceId": "drawio-9",
+      "opensourceName": "draw.io",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código aberto oficialmente recomendada, altamente compatível com yEd"
+    },
+    {
+      "opensourceId": "drawio",
+      "opensourceName": "draw.io",
+      "matchScore": 0.85,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "drawio-2",
+      "opensourceName": "draw.io",
+      "matchScore": 0.8,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "drawio-3",
+      "opensourceName": "draw.io",
+      "matchScore": 0.75,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "drawio-4",
+      "opensourceName": "draw.io",
+      "matchScore": 0.7,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

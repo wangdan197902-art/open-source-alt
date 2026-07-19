@@ -1,0 +1,22 @@
+{
+  "id": "backblaze-personal-bn",
+  "sourceTextHash": "cafeb4afab7f864827f26134d3dd3516e87a32876a7a2cee20428bb5e54c79d4",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Backblaze Personal Backup is a system-utilities software developed by Backblaze. Unlimited cloud backup for personal computers.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "backblaze-personal"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "facebook-messenger-educational-vi",
+  "softwareId": "facebook-messenger",
+  "scenario": "educational",
+  "lang": "vi",
+  "title": "Tình huống sử dụng giáo dục của Facebook Messenger",
+  "description": "Sử dụng Facebook Messenger trong môi trường giáo dục để nhóm học tập và cộng tác khóa học.",
+  "useCaseDetails": {
+    "industry": "Business Communication",
+    "users": "Student teams, online course groups, educators",
+    "workflow": "Group project coordination, study groups, class announcements",
+    "benefits": "Facilitates collaborative learning and group work coordination"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

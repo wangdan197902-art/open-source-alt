@@ -1,0 +1,92 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ossaf.local/schemas/translation.schema.json",
+  "title": "Translation",
+  "description": "翻译内容的单一真相源 (SSOT)，用于多语言内容缓存与质量追溯，供 Mock 数据生成器、Hugo 内容生成器和适配器共用。",
+  "type": "object",
+  "required": [
+    "id",
+    "sourceTextHash",
+    "targetLang",
+    "translatedText",
+    "translatorModel",
+    "confidenceScore",
+    "reviewStatus",
+    "_meta"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "唯一标识符，使用 kebab-case，如 'photoshop-intro-zh'",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "minLength": 1,
+      "maxLength": 128
+    },
+    "sourceTextHash": {
+      "type": "string",
+      "description": "源文本的哈希值（推荐 SHA-256），用于缓存命中与去重判定",
+      "pattern": "^[a-fA-F0-9]{32,128}$",
+      "minLength": 32,
+      "maxLength": 128
+    },
+    "targetLang": {
+      "type": "string",
+      "description": "目标语言代码（BCP 47 子集）",
+      "enum": ["en", "zh", "zh-tw", "ja", "ko", "es", "fr", "de", "pt", "it", "ru", "ar", "nl", "pl", "tr", "id", "vi", "th", "hi", "bn", "ms", "uk"]
+    },
+    "translatedText": {
+      "type": "string",
+      "description": "翻译后的文本内容",
+      "minLength": 1
+    },
+    "translatorModel": {
+      "type": "string",
+      "description": "执行翻译的模型标识，如 'gpt-4-turbo'、'deepl-v3'、'claude-3-opus'",
+      "minLength": 1,
+      "maxLength": 64
+    },
+    "confidenceScore": {
+      "type": "number",
+      "description": "翻译置信度评分，范围 [0, 1]，1 表示最高置信度",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "reviewStatus": {
+      "type": "string",
+      "description": "审核状态：待审核/已通过/已拒绝",
+      "enum": ["pending", "approved", "rejected"]
+    },
+    "metadata": {
+      "type": "object",
+      "description": "可选的扩展元数据，用于存储未在Schema中明确定义的额外信息（如源语言代码、翻译耗时等）",
+      "additionalProperties": true
+    },
+    "_meta": {
+      "type": "object",
+      "description": "溯源元数据块，记录该条数据的来源、Schema版本和置信度",
+      "required": ["source", "schema_version", "confidence"],
+      "additionalProperties": false,
+      "properties": {
+        "source": {
+          "type": "string",
+          "description": "派生来源，如 'manual'、'ai-generated'、'official-api'"
+        },
+        "schema_version": {
+          "type": "string",
+          "description": "Schema版本号，遵循 semver，如 '1.0.0'"
+        },
+        "unverified_fields": {
+          "type": "array",
+          "description": "尚未经人工核实的字段名列表",
+          "items": {"type": "string"}
+        },
+        "confidence": {
+          "type": "string",
+          "description": "数据置信度",
+          "enum": ["high", "medium", "low"]
+        }
+      }
+    }
+  }
+}

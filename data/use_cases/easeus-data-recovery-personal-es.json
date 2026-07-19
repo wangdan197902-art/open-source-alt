@@ -1,0 +1,29 @@
+{
+  "id": "easeus-data-recovery-personal-es",
+  "softwareId": "easeus-data-recovery",
+  "scenario": "personal",
+  "lang": "es",
+  "title": "Casos de uso personal de EaseUS Data Recovery Wizard",
+  "description": "Usa EaseUS Data Recovery Wizard en la vida personal para mantenimiento de la computadora personal y organización de archivos.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "Power users, home lab enthusiasts",
+    "workflow": "Personal computer maintenance, file organization, system tweaks",
+    "benefits": "Free utilities for keeping personal systems running smoothly"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

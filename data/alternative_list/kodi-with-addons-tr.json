@@ -1,0 +1,54 @@
+{
+  "id": "kodi-with-addons-alternatives-tr",
+  "softwareId": "kodi-with-addons",
+  "lang": "tr",
+  "title": "Kodi with Premium Add-ons için açık kaynak alternatifler",
+  "description": "Aşağıda Kodi with Premium Add-ons için açık kaynak alternatiflerin bir listesi bulunmaktadır. Ücretsizdir ve aktif topluluğu vardır.",
+  "alternatives": [
+    {
+      "opensourceId": "kodi-2",
+      "opensourceName": "Kodi",
+      "matchScore": 0.95,
+      "reason": "Resmi olarak önerilen açık kaynak alternatifi, Kodi with Premium Add-ons ile高度 uyumlu"
+    },
+    {
+      "opensourceId": "ardour",
+      "opensourceName": "Ardour",
+      "matchScore": 0.85,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "ardour-2",
+      "opensourceName": "Ardour",
+      "matchScore": 0.8,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "ardour-3",
+      "opensourceName": "Ardour",
+      "matchScore": 0.75,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "ardour-4",
+      "opensourceName": "Ardour",
+      "matchScore": 0.7,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "github-enterprise-ar",
+  "sourceTextHash": "7ea4ea7bc499dfcafa42dee17349e13b73e2a644922ddd6b19b9517f15ab505c",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] GitHub Enterprise is a development-tools software developed by GitHub. Self-hosted or cloud Git platform with advanced security and admin.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "github-enterprise"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

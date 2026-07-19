@@ -1,0 +1,22 @@
+{
+  "id": "mudbox-vi",
+  "sourceTextHash": "1a0ab9f4df76096fc2ead985d3bd2831c405dda6b985e897fb0cc5ef3e611993",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Autodesk Mudbox is a image-editing software developed by Autodesk. Digital sculpting and texture painting software for 3D artists.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mudbox"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

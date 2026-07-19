@@ -1,0 +1,54 @@
+{
+  "id": "acronis-cyber-protect-alternatives-th",
+  "softwareId": "acronis-cyber-protect",
+  "lang": "th",
+  "title": "ทางเลือกโอเพ่นซอร์สสำหรับ Acronis Cyber Protect Home Office",
+  "description": "ด้านล่างนี้คือรายการทางเลือกโอเพ่นซอร์สสำหรับ Acronis Cyber Protect Home Office ฟรีและมีชุมชนที่ใช้งานอยู่",
+  "alternatives": [
+    {
+      "opensourceId": "borgbackup-3",
+      "opensourceName": "BorgBackup",
+      "matchScore": 0.95,
+      "reason": "ทางเลือกโอเพ่นซอร์สที่แนะนำอย่างเป็นทางการ เข้ากันได้สูงกับ Acronis Cyber Protect Home Office"
+    },
+    {
+      "opensourceId": "albert",
+      "opensourceName": "Albert",
+      "matchScore": 0.85,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "albert-2",
+      "opensourceName": "Albert",
+      "matchScore": 0.8,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "albert-3",
+      "opensourceName": "Albert",
+      "matchScore": 0.75,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "baobab",
+      "opensourceName": "Baobab (Disk Usage Analyzer)",
+      "matchScore": 0.7,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

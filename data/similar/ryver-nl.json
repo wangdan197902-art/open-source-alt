@@ -1,0 +1,49 @@
+{
+  "id": "ryver-similar-nl",
+  "softwareId": "ryver",
+  "lang": "nl",
+  "title": "Software vergelijkbaar met Ryver",
+  "description": "Hieronder staat een lijst met software vergelijkbaar met Ryver.",
+  "similarSoftware": [
+    {
+      "id": "axero",
+      "name": "Axero",
+      "similarity": 0.95
+    },
+    {
+      "id": "bitrix24",
+      "name": "Bitrix24",
+      "similarity": 0.89
+    },
+    {
+      "id": "chanty",
+      "name": "Chanty",
+      "similarity": 0.82
+    },
+    {
+      "id": "clubhouse",
+      "name": "Clubhouse",
+      "similarity": 0.76
+    },
+    {
+      "id": "crisp",
+      "name": "Crisp",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

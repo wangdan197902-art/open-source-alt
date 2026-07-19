@@ -1,0 +1,22 @@
+{
+  "id": "macrium-reflect-ar",
+  "sourceTextHash": "fbc9982452643731d1dfb7af451c21bf764b2c7d8f4cb0a3c114d075fb093b5a",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Macrium Reflect is a system-utilities software developed by Macrium. Windows disk imaging and backup software.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "macrium-reflect"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

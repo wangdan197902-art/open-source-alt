@@ -1,0 +1,29 @@
+{
+  "id": "jriver-media-center-personal-hi",
+  "softwareId": "jriver-media-center",
+  "scenario": "personal",
+  "lang": "hi",
+  "title": "JRiver Media Center के व्यक्तिगत उपयोग मामले",
+  "description": "व्यक्तिगत जीवन में व्यक्तिगत मीडिया लाइब्रेरी और मनोरंजन के लिए JRiver Media Center का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "General consumers, movie enthusiasts",
+    "workflow": "Personal media library, movie watching, music playback",
+    "benefits": "Free high-quality media playback for personal entertainment"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

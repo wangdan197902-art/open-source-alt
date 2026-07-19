@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-365-de",
+  "sourceTextHash": "8fd74e19d7f15e5d941c01b76b0fea30ec9b80e60695ae209a9e0ffb253125d9",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Microsoft 365 is a office-suite software developed by Microsoft. Subscription office suite with Word, Excel, PowerPoint, and cloud.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "microsoft-365"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

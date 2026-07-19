@@ -1,0 +1,22 @@
+{
+  "id": "forklift-tr",
+  "sourceTextHash": "c3c3b3b8b82064205a4937d535d4bb151bec00ff2addad98af3e3a82c9bdd800",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] ForkLift is a system-utilities software developed by BinaryNights. Mac file manager with dual pane and remote storage.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "forklift"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

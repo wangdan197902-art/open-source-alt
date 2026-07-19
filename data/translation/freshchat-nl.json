@@ -1,0 +1,22 @@
+{
+  "id": "freshchat-nl",
+  "sourceTextHash": "2a561fb7ed6be40d154f37e0c1d26becfde79999f259bdf58cadd43ce7c52af2",
+  "targetLang": "nl",
+  "translatedText": "[Mock Nederlands] Freshchat is a team-communication software developed by Freshworks. Modern messaging platform for sales and customer engagement.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "freshchat"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "daisydisk-personal-ms",
+  "softwareId": "daisydisk",
+  "scenario": "personal",
+  "lang": "ms",
+  "title": "Kes penggunaan peribadi DaisyDisk",
+  "description": "Gunakan DaisyDisk dalam kehidupan peribadi untuk penyelenggaraan komputer peribadi dan organisasi fail.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "Power users, home lab enthusiasts",
+    "workflow": "Personal computer maintenance, file organization, system tweaks",
+    "benefits": "Free utilities for keeping personal systems running smoothly"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

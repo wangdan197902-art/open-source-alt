@@ -1,0 +1,22 @@
+{
+  "id": "raycast-pro-it",
+  "sourceTextHash": "de008d587a71ce91c999d607c044cdb60bc2faf229a2b13777235bfd865da630",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Raycast Pro is a system-utilities software developed by Raycast. Productivity launcher with AI and cloud sync.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "raycast-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

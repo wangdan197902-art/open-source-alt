@@ -1,0 +1,49 @@
+{
+  "id": "8x8-meet-similar-ko",
+  "softwareId": "8x8-meet",
+  "lang": "ko",
+  "title": "8x8 Meet 와(과) 유사한 소프트웨어",
+  "description": "다음은 8x8 Meet 와(과) 유사한 추천 소프트웨어 목록입니다.",
+  "similarSoftware": [
+    {
+      "id": "adobe-connect",
+      "name": "Adobe Connect",
+      "similarity": 0.95
+    },
+    {
+      "id": "anydesk",
+      "name": "AnyDesk",
+      "similarity": 0.89
+    },
+    {
+      "id": "appear-in",
+      "name": "appear.in",
+      "similarity": 0.82
+    },
+    {
+      "id": "around",
+      "name": "Around",
+      "similarity": 0.76
+    },
+    {
+      "id": "blackboard-collaborate",
+      "name": "Blackboard Collaborate",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

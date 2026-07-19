@@ -1,0 +1,22 @@
+{
+  "id": "heptabase-tr",
+  "sourceTextHash": "6d67972a166dd9d181e067f9de16d341654ccaa676ced3ee17264d41827a3b5a",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] Heptabase is a note-taking software developed by Heptabase. Visual note-taking app with cards and whiteboards for thinking.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "heptabase"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "chanty-hi",
+  "sourceTextHash": "df1c5acfcf50d03a5466956ccae3962be4d4d1348a9cdabfc17d94cdc82eb3ad",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Chanty is a team-communication software developed by Chanty. AI-powered team chat with task management and Kanban boards.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "chanty"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

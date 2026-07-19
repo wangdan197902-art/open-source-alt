@@ -1,0 +1,22 @@
+{
+  "id": "lightwave-3d-nl",
+  "sourceTextHash": "c8196436ebc54de230195f6c3c5751fbf2622e232ae4e1ea24230ea08620395b",
+  "targetLang": "nl",
+  "translatedText": "[Mock Nederlands] LightWave 3D is a image-editing software developed by NewTek. 3D modeling and animation software for production pipelines.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "lightwave-3d"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

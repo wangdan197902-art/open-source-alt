@@ -1,20 +1,42 @@
-# Hugo build output
+# =============================================================================
+# OSSAF Local - .gitignore
+# =============================================================================
+
+# ---------- 三层凭证隔离（核心安全规则） ----------
+.env.local
+.env.mock.real
+secrets/
+*.pem
+*.key
+.envrc.local
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# ---------- Hugo ----------
 public/
 resources/
 .hugo_build.lock
 
-# Node
-node_modules/
-
-# macOS
+# ---------- OS ----------
 .DS_Store
+Thumbs.db
 
-# IDE
+# ---------- IDE ----------
 .vscode/
 .idea/
 
-# Env
-.env
-.env.local
-*.token
-*.key
+# ---------- 临时文件 ----------
+*.log
+*.tmp
+.cache/
+
+# ---------- Mock服务器运行时文件 ----------
+.mock.pid
+mock_server.log

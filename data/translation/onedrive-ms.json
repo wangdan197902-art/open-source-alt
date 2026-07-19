@@ -1,0 +1,22 @@
+{
+  "id": "onedrive-ms",
+  "sourceTextHash": "9eeb07bf8dc25c76d6cac9e5b68df27d416b06fac219295e865017c7fa813b2b",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Microsoft OneDrive is a office-suite software developed by Microsoft. Cloud storage integrated with Microsoft 365 and Windows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "onedrive"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

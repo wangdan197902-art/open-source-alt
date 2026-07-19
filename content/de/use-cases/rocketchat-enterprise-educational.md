@@ -1,0 +1,34 @@
+---
+title: "Bildungsszenarien für Rocket.Chat Enterprise"
+date: "2026-07-19"
+draft: false
+description: "Verwende Rocket.Chat Enterprise in Bildungsszenarien für Lerngruppen und Kurszusammenarbeit."
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "rocketchat-enterprise"
+scenario: "educational"
+type: "use-case"
+use-case:
+  - educational
+tags:
+  - rocketchat-enterprise
+  - educational
+  - Business Communication
+categories:
+  - Business Communication
+---
+
+# Bildungsszenarien für Rocket.Chat Enterprise
+
+**Verwende Rocket.Chat Enterprise in Bildungsszenarien für Lerngruppen und Kurszusammenarbeit.**
+
+## Use Case Details
+
+- **Industry**: Business Communication
+- **Users**: Student teams, online course groups, educators
+- **Workflow**: Group project coordination, study groups, class announcements
+- **Benefits**: Facilitates collaborative learning and group work coordination
+
+## Software
+
+View [Open Source Alternatives for rocketchat-enterprise](../../alternatives/rocketchat-enterprise/) and [Similar Software to rocketchat-enterprise](../../similar/rocketchat-enterprise/).

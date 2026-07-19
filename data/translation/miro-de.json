@@ -1,0 +1,22 @@
+{
+  "id": "miro-de",
+  "sourceTextHash": "acb8b8b323be2df9fa2249a4b4b31929bd416416460418272192a04a1153dc59",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Miro is a design-collaboration software developed by RealtimeBoard. Online whiteboard for brainstorming, mapping, and workshops.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "miro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

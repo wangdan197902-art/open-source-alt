@@ -1,0 +1,22 @@
+{
+  "id": "zoho-sheet-ko",
+  "sourceTextHash": "25958fc9262c89065781faae300ce3eedfaafc239cdf90049cdadb4f7c90e175",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] Zoho Sheet is a office-suite software developed by Zoho. Online spreadsheet with collaboration and data visualization.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zoho-sheet"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,34 @@
+---
+title: "Drift 個人使用例"
+date: "2026-07-19"
+draft: false
+description: "個人の生活で Drift を使って友人チャットとコミュニティ活動を行います。"
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "drift"
+scenario: "personal"
+type: "use-case"
+use-case:
+  - personal
+tags:
+  - drift
+  - personal
+  - Business Communication
+categories:
+  - Business Communication
+---
+
+# Drift 個人使用例
+
+**個人の生活で Drift を使って友人チャットとコミュニティ活動を行います。**
+
+## Use Case Details
+
+- **Industry**: Business Communication
+- **Users**: Friend groups, family chats, community organizers
+- **Workflow**: Group chats, event planning, community coordination
+- **Benefits**: Free tier supports personal group communication needs
+
+## Software
+
+View [Open Source Alternatives for drift](../../alternatives/drift/) and [Similar Software to drift](../../similar/drift/).

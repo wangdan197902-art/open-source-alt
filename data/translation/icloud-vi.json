@@ -1,0 +1,22 @@
+{
+  "id": "icloud-vi",
+  "sourceTextHash": "80c9eef68e5f22ac06cef887c7b34b9a8515e7e9822b69b34497bfc957bf9bf7",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] iCloud is a office-suite software developed by Apple. Apple cloud service for storage, photos, mail, and device backup.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "icloud"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

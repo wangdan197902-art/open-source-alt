@@ -1,0 +1,31 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="site-logo" href="{{ .Site.LanguagePrefix }}/">
+      <span class="logo-text">{{ .Site.Title }}</span>
+    </a>
+
+    <nav class="site-nav" aria-label="{{ i18n "main_nav" | default "主导航" }}">
+      <ul>
+        <li><a href="{{ .Site.LanguagePrefix }}/">{{ i18n "home" | default "首页" }}</a></li>
+        <li><a href="{{ .Site.LanguagePrefix }}/alternatives/">{{ i18n "alternatives" | default "商业软件替代方案" }}</a></li>
+      </ul>
+    </nav>
+
+    <div class="lang-switcher" aria-label="{{ i18n "language_switch" | default "语言切换" }}">
+      <button type="button" class="lang-toggle" aria-haspopup="true" aria-expanded="false">
+        🌐 {{ .Site.Language.LanguageName }} ▾
+      </button>
+      <ul class="lang-menu" role="menu">
+        {{ range .Site.Languages }}
+          {{ if eq .Lang $.Site.Language.Lang }}
+            <li role="menuitem" class="active">{{ .LanguageName }}</li>
+          {{ else }}
+            <li role="menuitem">
+              <a href='{{ (printf "/%s/" .Lang) | relLangURL }}'>{{ .LanguageName }}</a>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</header>

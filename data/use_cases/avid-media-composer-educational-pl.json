@@ -1,0 +1,29 @@
+{
+  "id": "avid-media-composer-educational-pl",
+  "softwareId": "avid-media-composer",
+  "scenario": "educational",
+  "lang": "pl",
+  "title": "Edukacyjne przypadki użycia programu Avid Media Composer",
+  "description": "Używaj programu Avid Media Composer w scenariuszach edukacyjnych do odtwarzanie materiałów edukacyjnych i nagrywanie wykładów.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Students, educators, training content creators",
+    "workflow": "Educational video playback, lecture recordings, training materials",
+    "benefits": "Supports diverse media formats for educational content delivery"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

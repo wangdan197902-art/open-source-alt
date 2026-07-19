@@ -1,0 +1,22 @@
+{
+  "id": "freeconference-com-tr",
+  "sourceTextHash": "e68d150fafd55f12e56901efe5a45fd6ffdef7a839ba8f0a8bafcec7472315c7",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] FreeConference.com is a video-conferencing software developed by FreeConference. Free online meetings with screen sharing and call-in numbers.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "freeconference-com"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

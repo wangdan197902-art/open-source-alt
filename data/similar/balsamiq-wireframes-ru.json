@@ -1,0 +1,49 @@
+{
+  "id": "balsamiq-wireframes-similar-ru",
+  "softwareId": "balsamiq-wireframes",
+  "lang": "ru",
+  "title": "Программное обеспечение, похожее на Balsamiq Wireframes",
+  "description": "Ниже приведен список программ, похожих на Balsamiq Wireframes.",
+  "similarSoftware": [
+    {
+      "id": "adobe-xd",
+      "name": "Adobe XD",
+      "similarity": 0.95
+    },
+    {
+      "id": "atomic-io",
+      "name": "Atomic",
+      "similarity": 0.89
+    },
+    {
+      "id": "axure-rp",
+      "name": "Axure RP",
+      "similarity": 0.82
+    },
+    {
+      "id": "ayoa",
+      "name": "Ayoa",
+      "similarity": 0.76
+    },
+    {
+      "id": "cacoo",
+      "name": "Cacoo",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

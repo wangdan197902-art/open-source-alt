@@ -1,0 +1,22 @@
+{
+  "id": "ipvanish-pt",
+  "sourceTextHash": "b46c08a79334ab6a2c46b82e0aca0a43ee0c458de9e9dd2e0637ba461031809a",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] IPVanish VPN is a security-software software developed by IPVanish. VPN with customizable apps and SOCKS5 proxy.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "ipvanish"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

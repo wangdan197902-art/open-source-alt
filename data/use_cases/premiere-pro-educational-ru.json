@@ -1,0 +1,29 @@
+{
+  "id": "premiere-pro-educational-ru",
+  "softwareId": "premiere-pro",
+  "scenario": "educational",
+  "lang": "ru",
+  "title": "Образовательные сценарии использования Adobe Premiere Pro",
+  "description": "Используйте Adobe Premiere Pro в образовательных сценариях для воспроизведение обучающих видео и запись лекций.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Students, educators, training content creators",
+    "workflow": "Educational video playback, lecture recordings, training materials",
+    "benefits": "Supports diverse media formats for educational content delivery"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

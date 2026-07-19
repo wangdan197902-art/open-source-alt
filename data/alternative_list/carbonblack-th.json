@@ -1,0 +1,54 @@
+{
+  "id": "carbonblack-alternatives-th",
+  "softwareId": "carbonblack",
+  "lang": "th",
+  "title": "ทางเลือกโอเพ่นซอร์สสำหรับ VMware Carbon Black Endpoint",
+  "description": "ด้านล่างนี้คือรายการทางเลือกโอเพ่นซอร์สสำหรับ VMware Carbon Black Endpoint ฟรีและมีชุมชนที่ใช้งานอยู่",
+  "alternatives": [
+    {
+      "opensourceId": "wazuh-4",
+      "opensourceName": "Wazuh",
+      "matchScore": 0.95,
+      "reason": "ทางเลือกโอเพ่นซอร์สที่แนะนำอย่างเป็นทางการ เข้ากันได้สูงกับ VMware Carbon Black Endpoint"
+    },
+    {
+      "opensourceId": "bitwarden",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.85,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "bitwarden-2",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.8,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "bitwarden-3",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.75,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "bitwarden-4",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.7,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

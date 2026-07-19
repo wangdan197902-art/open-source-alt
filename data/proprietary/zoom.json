@@ -1,0 +1,22 @@
+{
+  "id": "zoom",
+  "name": "Zoom",
+  "vendor": "Zoom Communications",
+  "category": "video-conferencing",
+  "officialUrl": "https://www.zoom.us",
+  "pricingModel": "freemium",
+  "platforms": ["Web", "Windows", "macOS", "Linux", "iOS", "Android"],
+  "trademarkStatus": "reviewed",
+  "reviewStatus": "approved",
+  "aiGenerated": false,
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19"
+  },
+  "_meta": {
+    "source": "official-website",
+    "schema_version": "1.0.0",
+    "unverified_fields": [],
+    "confidence": "high"
+  }
+}

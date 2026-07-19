@@ -1,0 +1,29 @@
+{
+  "id": "gotowebinar-educational-ja",
+  "softwareId": "gotowebinar",
+  "scenario": "educational",
+  "lang": "ja",
+  "title": "GoToWebinar 教育使用例",
+  "description": "教育現場で GoToWebinar を使ってオンライン授業とリモート教育を行います。",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Online students, remote educators, trainers",
+    "workflow": "Online classes, virtual office hours, remote tutoring",
+    "benefits": "Enables remote learning and global education access"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

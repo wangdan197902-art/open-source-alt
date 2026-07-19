@@ -1,0 +1,29 @@
+{
+  "id": "monday-com-professional-ar",
+  "softwareId": "monday-com",
+  "scenario": "professional",
+  "lang": "ar",
+  "title": "حالات الاستخدام المهنية لـ Monday.com",
+  "description": "استخدم Monday.com في العمل المهني لأجل تحرير الكود وتصحيحه والتحكم في الإصدارات.",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "Software engineers, devops teams, tech leads",
+    "workflow": "Code editing, debugging, version control, CI/CD pipeline integration",
+    "benefits": "Boosts developer productivity with intelligent tooling and integrations"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "insomnia-designer-professional-pt",
+  "softwareId": "insomnia-designer",
+  "scenario": "professional",
+  "lang": "pt",
+  "title": "Casos de uso profissional do Insomnia Designer",
+  "description": "Use o Insomnia Designer no trabalho profissional para edição de código, depuração e controle de versão.",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "Software engineers, devops teams, tech leads",
+    "workflow": "Code editing, debugging, version control, CI/CD pipeline integration",
+    "benefits": "Boosts developer productivity with intelligent tooling and integrations"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

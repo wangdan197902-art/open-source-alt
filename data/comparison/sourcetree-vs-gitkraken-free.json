@@ -1,0 +1,64 @@
+{
+  "id": "sourcetree-vs-gitkraken-free",
+  "proprietaryId": "sourcetree",
+  "openSourceId": "gitkraken-free",
+  "featureComparison": [
+    {
+      "feature": "核心功能",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "yes"
+    },
+    {
+      "feature": "高级功能",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "partial",
+      "notes": "GitKraken Free 在高级功能上弱于 Sourcetree"
+    },
+    {
+      "feature": "跨平台支持",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "yes"
+    }
+  ],
+  "pros": [
+    "GitKraken Free 完全开源免费",
+    "GitKraken Free 跨平台支持",
+    "无订阅费用",
+    "社区活跃"
+  ],
+  "cons": [
+    "GitKraken Free 学习曲线较陡",
+    "部分高级功能缺失",
+    "企业级支持有限"
+  ],
+  "migrationDifficulty": "medium",
+  "useCases": [
+    "个人用户",
+    "教育用途",
+    "预算有限的团队",
+    "开源爱好者"
+  ],
+  "aiGenerated": true,
+  "aiGeneratedDetails": {
+    "model": "agnes-2.0-flash-mock",
+    "generatedAt": "2026-07-19T02:19:40+00:00",
+    "promptHash": "sha256:d2e15642ca8374c7126b57b7b19386887b059e90b7ed821ed64b1a288b7fc8f8",
+    "tokensUsed": 200
+  },
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19",
+    "rawResponseLength": 0
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "pros",
+      "cons",
+      "featureComparison"
+    ],
+    "confidence": "medium"
+  }
+}

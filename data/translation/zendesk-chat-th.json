@@ -1,0 +1,22 @@
+{
+  "id": "zendesk-chat-th",
+  "sourceTextHash": "4cd0541aa91e4f515e1f539887231d69232fe227b48fae6f740c8b845c4637c1",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Zendesk Chat is a team-communication software developed by Zendesk. Live chat software integrated with Zendesk support suite.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zendesk-chat"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

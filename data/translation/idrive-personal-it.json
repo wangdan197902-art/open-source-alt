@@ -1,0 +1,22 @@
+{
+  "id": "idrive-personal-it",
+  "sourceTextHash": "081146a79a108c889445c409664a7138e40979d44dd7989cd4886ddb81343435",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] IDrive Personal is a system-utilities software developed by IDrive. Cloud backup for multiple devices with sync.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "idrive-personal"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

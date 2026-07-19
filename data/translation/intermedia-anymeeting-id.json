@@ -1,0 +1,22 @@
+{
+  "id": "intermedia-anymeeting-id",
+  "sourceTextHash": "a6760cdbdf05b2ab9708df1ef030654463a07c9e089d42988a452a144d30320a",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] Intermedia AnyMeeting is a video-conferencing software developed by Intermedia. Video conferencing and webinar software for SMBs.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "intermedia-anymeeting"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

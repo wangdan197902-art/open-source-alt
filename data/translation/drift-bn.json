@@ -1,0 +1,22 @@
+{
+  "id": "drift-bn",
+  "sourceTextHash": "28f773d4da79f336009834d8702bf3e90f1b89665bea7ded6fcf4bf0a3bea273",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Drift is a team-communication software developed by Drift. Conversational marketing and customer messaging platform.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "drift"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

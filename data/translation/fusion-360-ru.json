@@ -1,0 +1,22 @@
+{
+  "id": "fusion-360-ru",
+  "sourceTextHash": "1935f9b646d72ccadda5ba8e67952f2701afd3f6bd14358315c3aae8a8b3f31e",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Autodesk Fusion is a image-editing software developed by Autodesk. Cloud CAD, CAM, and CAE platform for product development.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "fusion-360"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

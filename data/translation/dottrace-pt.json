@@ -1,0 +1,22 @@
+{
+  "id": "dottrace-pt",
+  "sourceTextHash": "6a3d19b8c5e756c72f51d21491c9b8934a1fecb61bf185fa5f836dcfb2ae67d0",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] dotTrace is a development-tools software developed by JetBrains. Performance profiler for .NET applications.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "dottrace"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "postman-pro-fr",
+  "sourceTextHash": "1fa99e26b929f807cbfac6735e74f8be1ce0be5c44b8aeb79b3984b3ae5ce097",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] Postman Pro is a development-tools software developed by Postman. Paid API platform with collaboration and unlimited collections.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "postman-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

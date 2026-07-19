@@ -1,0 +1,54 @@
+{
+  "id": "zoho-connect-alternatives-ja",
+  "softwareId": "zoho-connect",
+  "lang": "ja",
+  "title": "Zoho Connect のオープンソース代替方案",
+  "description": "以下は Zoho Connect のオープンソース代替方案のリストです。無料で利用でき、コミュニティも活発です。",
+  "alternatives": [
+    {
+      "opensourceId": "mattermost-20",
+      "opensourceName": "Mattermost",
+      "matchScore": 0.95,
+      "reason": "公式推奨のオープンソース代替品で、Zoho Connect と機能が高度に一致"
+    },
+    {
+      "opensourceId": "chatwoot",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.85,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "chatwoot-2",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.8,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "chatwoot-3",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.75,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "chatwoot-4",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.7,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pixelmator-fr",
+  "sourceTextHash": "485b98d47f022227f553f2996f6c9cf807e0f10bf413f9a54cbbca7b6ff7fe73",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] Pixelmator is a image-editing software developed by Pixelmator. Layer-based image editor designed for the Mac and iOS.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "pixelmator"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,44 @@
+{{- /*
+   layouts/_default/list.json.json
+   合并 JSON 模板：输出当前语种所有商业软件的数据
+   用于 Fuse.js 客户端搜索
+   输出位置：public/{lang}/index.json
+
+   说明：
+   - 首页（home）输出 JSON，需要从 alternatives 区块获取所有商业软件页面
+   - 区块页（section）如 alternatives 直接使用 .Pages
+*/ -}}
+{{- $items := slice -}}
+{{- $pages := .Pages -}}
+
+{{- /* 首页情况下，从 alternatives 区块获取所有页面（与 layouts/index.html 保持一致） */ -}}
+{{- if .IsHome -}}
+  {{- with .Site.GetPage "section" "alternatives" -}}
+    {{- $pages = .Pages -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range $pages -}}
+  {{- $item := dict
+    "title" .Title
+    "permalink" .Permalink
+    "summary" (.Summary | plainify | truncate 200)
+    "content" (.Plain | plainify | truncate 500)
+    "vendor" (.Params.vendor | default "")
+    "category" (.Params.category | default "")
+    "openSourceAlternative" (.Params.openSourceAlternative | default "")
+    "license" (.Params.license | default "")
+    "categories" (delimit (.Params.categories | default slice) ", ")
+    "tags" (delimit (.Params.tags | default slice) ", ")
+  -}}
+  {{- $items = $items | append $item -}}
+{{- end -}}
+
+{{- $data := dict
+  "lang" .Language.Lang
+  "count" (len $items)
+  "generated" (now.Format "2006-01-02T15:04:05Z07:00")
+  "items" $items
+-}}
+
+{{- $data | jsonify (dict "indent" "  ") -}}

@@ -1,0 +1,22 @@
+{
+  "id": "lucidchart-tr",
+  "sourceTextHash": "82f695fe02046601cfca681833026ae1df52dfda3f276fb16501c813db2516b9",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] Lucidchart is a design-collaboration software developed by Lucid Software. Online diagramming tool for flowcharts, org charts, and floor plans.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "lucidchart"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

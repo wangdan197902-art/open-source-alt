@@ -1,0 +1,22 @@
+{
+  "id": "bear-nl",
+  "sourceTextHash": "dbcf3c101dbc68e26cd0841c35c53d2c17cdc6270ecc77148cac560018f831fd",
+  "targetLang": "nl",
+  "translatedText": "[Mock Nederlands] Bear is a note-taking software developed by Shiny Frog. Elegant Markdown note-taking app for Apple platforms.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "bear"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "apple-photos-tr",
+  "sourceTextHash": "f4a46d626a6282c2b5b1fd4ba4b70ccb5aa7c1872cab747c5eb3f0d518bd8c67",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] Apple Photos is a office-suite software developed by Apple. Photo management and editing app for Mac and iOS.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "apple-photos"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

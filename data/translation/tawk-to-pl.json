@@ -1,0 +1,22 @@
+{
+  "id": "tawk-to-pl",
+  "sourceTextHash": "0b7f920caa08c139ce2ec4132fb327a2c43563ffed06659a7f942517b995b6f1",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Tawk.to is a team-communication software developed by Tawk.to. Free live chat application for websites and apps.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "tawk-to"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

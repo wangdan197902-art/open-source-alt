@@ -1,0 +1,29 @@
+{
+  "id": "disk-drill-educational-ja",
+  "softwareId": "disk-drill",
+  "scenario": "educational",
+  "lang": "ja",
+  "title": "Disk Drill 教育使用例",
+  "description": "教育現場で Disk Drill を使ってシステム管理教育と演習を行います。",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "IT students, sysadmin trainees",
+    "workflow": "Learning system administration, lab environments",
+    "benefits": "Practical experience with industry-standard utilities"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

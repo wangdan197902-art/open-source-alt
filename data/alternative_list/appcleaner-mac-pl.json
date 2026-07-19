@@ -1,0 +1,54 @@
+{
+  "id": "appcleaner-mac-alternatives-pl",
+  "softwareId": "appcleaner-mac",
+  "lang": "pl",
+  "title": "Alternatywy open-source dla AppCleaner (Mac)",
+  "description": "Poniżej znajduje się lista alternatyw open-source dla AppCleaner (Mac), darmowych z aktywną społecznością.",
+  "alternatives": [
+    {
+      "opensourceId": "debris",
+      "opensourceName": "Debris",
+      "matchScore": 0.95,
+      "reason": "Oficjalnie polecana alternatywa open-source, wysoć zgodna z AppCleaner (Mac)"
+    },
+    {
+      "opensourceId": "albert",
+      "opensourceName": "Albert",
+      "matchScore": 0.85,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "albert-2",
+      "opensourceName": "Albert",
+      "matchScore": 0.8,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "albert-3",
+      "opensourceName": "Albert",
+      "matchScore": 0.75,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "baobab",
+      "opensourceName": "Baobab (Disk Usage Analyzer)",
+      "matchScore": 0.7,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

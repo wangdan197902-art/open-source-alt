@@ -1,0 +1,22 @@
+{
+  "id": "clickmeeting-it",
+  "sourceTextHash": "fb3db5dd4ae64ec65f45fa9fdbf4eaa8728503b74251dabd52e013dd75342fee",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] ClickMeeting is a video-conferencing software developed by ClickMeeting. Webinar platform for marketing, training, and team meetings.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "clickmeeting"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

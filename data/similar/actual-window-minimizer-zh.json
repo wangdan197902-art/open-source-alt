@@ -1,0 +1,49 @@
+{
+  "id": "actual-window-minimizer-similar-zh",
+  "softwareId": "actual-window-minimizer",
+  "lang": "zh",
+  "title": "类似 Actual Window Minimizer 的软件",
+  "description": "以下是与 Actual Window Minimizer 类似的软件推荐列表，供您参考选择。",
+  "similarSoftware": [
+    {
+      "id": "acronis-cyber-protect",
+      "name": "Acronis Cyber Protect Home Office",
+      "similarity": 0.95
+    },
+    {
+      "id": "advanced-systemcare-pro",
+      "name": "Advanced SystemCare Pro",
+      "similarity": 0.89
+    },
+    {
+      "id": "alfred-powerpack",
+      "name": "Alfred Powerpack",
+      "similarity": 0.82
+    },
+    {
+      "id": "anydesk-professional",
+      "name": "AnyDesk Professional",
+      "similarity": 0.76
+    },
+    {
+      "id": "appcleaner-mac",
+      "name": "AppCleaner (Mac)",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

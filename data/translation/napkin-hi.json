@@ -1,0 +1,22 @@
+{
+  "id": "napkin-hi",
+  "sourceTextHash": "3f5fd1e0328c1812301e01e024ebf1442a395873022d679493c83e0ce01577cb",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Napkin is a note-taking software developed by Napkin. Visual notes app surfacing related ideas as you write.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "napkin"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "discord-alternatives-tr",
+  "softwareId": "discord",
+  "lang": "tr",
+  "title": "Discord için açık kaynak alternatifler",
+  "description": "Aşağıda Discord için açık kaynak alternatiflerin bir listesi bulunmaktadır. Ücretsizdir ve aktif topluluğu vardır.",
+  "alternatives": [
+    {
+      "opensourceId": "element-2",
+      "opensourceName": "Element",
+      "matchScore": 0.95,
+      "reason": "Resmi olarak önerilen açık kaynak alternatifi, Discord ile高度 uyumlu"
+    },
+    {
+      "opensourceId": "chatwoot",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.85,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "chatwoot-2",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.8,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "chatwoot-3",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.75,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "chatwoot-4",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.7,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

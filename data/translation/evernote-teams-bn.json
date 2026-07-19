@@ -1,0 +1,22 @@
+{
+  "id": "evernote-teams-bn",
+  "sourceTextHash": "e4f663fd0ac6f9a32b432d0e150a1b7bde3dfe46c1ece2e564e569c3e1e4ef6a",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Evernote Teams is a note-taking software developed by Evernote Corporation. Team edition of Evernote with shared notebooks and admin controls.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "evernote-teams"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

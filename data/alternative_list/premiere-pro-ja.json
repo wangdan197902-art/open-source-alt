@@ -1,0 +1,54 @@
+{
+  "id": "premiere-pro-alternatives-ja",
+  "softwareId": "premiere-pro",
+  "lang": "ja",
+  "title": "Adobe Premiere Pro のオープンソース代替方案",
+  "description": "以下は Adobe Premiere Pro のオープンソース代替方案のリストです。無料で利用でき、コミュニティも活発です。",
+  "alternatives": [
+    {
+      "opensourceId": "kdenlive-2",
+      "opensourceName": "Kdenlive",
+      "matchScore": 0.95,
+      "reason": "公式推奨のオープンソース代替品で、Adobe Premiere Pro と機能が高度に一致"
+    },
+    {
+      "opensourceId": "ardour",
+      "opensourceName": "Ardour",
+      "matchScore": 0.85,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "ardour-2",
+      "opensourceName": "Ardour",
+      "matchScore": 0.8,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "ardour-3",
+      "opensourceName": "Ardour",
+      "matchScore": 0.75,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "ardour-4",
+      "opensourceName": "Ardour",
+      "matchScore": 0.7,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

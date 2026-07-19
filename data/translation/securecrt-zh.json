@@ -1,0 +1,22 @@
+{
+  "id": "securecrt-zh",
+  "sourceTextHash": "d7cd6e50df0fc7a23ff0957ce38ca2fb92835e947120ad61aec824f255ecf2da",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] SecureCRT is a development-tools software developed by VanDyke Software. Terminal emulation with secure SSH access and scripting.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "securecrt"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

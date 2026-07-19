@@ -1,0 +1,22 @@
+{
+  "id": "bigbluebutton",
+  "name": "BigBlueButton",
+  "license": "LGPL-3.0",
+  "repository": "https://github.com/bigbluebutton/bigbluebutton",
+  "category": "video-conferencing",
+  "platforms": ["Web"],
+  "maturityLevel": "mature",
+  "communitySize": "large",
+  "reviewStatus": "approved",
+  "aiGenerated": false,
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19"
+  },
+  "_meta": {
+    "source": "official-repository",
+    "schema_version": "1.0.0",
+    "unverified_fields": [],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "textmate-ru",
+  "sourceTextHash": "1034e80fd7c17f2d7949cb4bfdb13f1ae16441a7fd1bfa22c7011cfcfc46ec39",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] TextMate is a development-tools software developed by MacroMates. Mac text editor with bundles and snippets for coders.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "textmate"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

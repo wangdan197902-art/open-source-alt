@@ -1,0 +1,22 @@
+{
+  "id": "trello-ar",
+  "sourceTextHash": "b8f38a2295a9fd039a7308979e580b88004b6bfafdc9256d3648f7b313a1fdca",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Trello is a development-tools software developed by Atlassian. Visual Kanban board for task and project management.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "trello"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

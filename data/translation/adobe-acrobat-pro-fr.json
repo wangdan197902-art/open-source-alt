@@ -1,0 +1,22 @@
+{
+  "id": "adobe-acrobat-pro-fr",
+  "sourceTextHash": "f79e109a22eaf57e1acf80be09aa352b0974c2a917dda5f49ae9710999c586f3",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] Adobe Acrobat Pro is a office-suite software developed by Adobe. Advanced PDF editor with OCR, forms, and e-signature features.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "adobe-acrobat-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

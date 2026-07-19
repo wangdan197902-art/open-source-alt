@@ -1,0 +1,54 @@
+{
+  "id": "carbonblack-alternatives-es",
+  "softwareId": "carbonblack",
+  "lang": "es",
+  "title": "Alternativas de código abierto para VMware Carbon Black Endpoint",
+  "description": "A continuación se muestra una lista de alternativas de código abierto para VMware Carbon Black Endpoint, gratuitas y con comunidad activa.",
+  "alternatives": [
+    {
+      "opensourceId": "wazuh-4",
+      "opensourceName": "Wazuh",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código abierto recomendada oficialmente, altamente compatible con VMware Carbon Black Endpoint"
+    },
+    {
+      "opensourceId": "bitwarden",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.85,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "bitwarden-2",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.8,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "bitwarden-3",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.75,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "bitwarden-4",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.7,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

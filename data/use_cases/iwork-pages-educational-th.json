@@ -1,0 +1,29 @@
+{
+  "id": "iwork-pages-educational-th",
+  "softwareId": "iwork-pages",
+  "scenario": "educational",
+  "lang": "th",
+  "title": "กรณีการใช้งานด้านการศึกษาของ Apple Pages",
+  "description": "ใช้ Apple Pages ในสถานการณ์การศึกษาเพื่องานวิชาการและวัสดุการศึกษา",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Students, teachers, academic staff",
+    "workflow": "Assignments, lesson plans, academic papers",
+    "benefits": "Standard tools for academic document creation"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

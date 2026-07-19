@@ -1,0 +1,22 @@
+{
+  "id": "pexip-es",
+  "sourceTextHash": "1e342feec5baf5a17bb793df034da4d7d7e15b1c23f646e865c2ea1de3ed0b6d",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Pexip is a video-conferencing software developed by Pexip. Enterprise video conferencing platform with self-hosted options.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "pexip"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

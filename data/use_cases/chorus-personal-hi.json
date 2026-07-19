@@ -1,0 +1,29 @@
+{
+  "id": "chorus-personal-hi",
+  "softwareId": "chorus",
+  "scenario": "personal",
+  "lang": "hi",
+  "title": "Chorus के व्यक्तिगत उपयोग मामले",
+  "description": "व्यक्तिगत जीवन में पारिवारिक वीडियो कॉल और दोस्तों से मुलाकात के लिए Chorus का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Families, friends, community groups",
+    "workflow": "Family video calls, friend catch-ups, virtual events",
+    "benefits": "Free video calls keep personal connections strong across distances"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "handbrake-pro-cli-educational-tr",
+  "softwareId": "handbrake-pro-cli",
+  "scenario": "educational",
+  "lang": "tr",
+  "title": "HandBrake Pro (CLI) eğitim kullanım senaryoları",
+  "description": "Eğitim senaryolarında eğitim videosu oynatma ve ders kaydı için HandBrake Pro (CLI) kullanın.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Students, educators, training content creators",
+    "workflow": "Educational video playback, lecture recordings, training materials",
+    "benefits": "Supports diverse media formats for educational content delivery"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "media-player-classic-zh",
+  "sourceTextHash": "67908505fe77d0163e92d1c5aaa864eabe8ce96a72737b227e7c6e06818b7cce",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] Media Player Classic Home Cinema is a media-player software developed by clsid2. Classic-style media player with toolbar customization.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "media-player-classic"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

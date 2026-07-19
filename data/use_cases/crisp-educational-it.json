@@ -1,0 +1,29 @@
+{
+  "id": "crisp-educational-it",
+  "softwareId": "crisp",
+  "scenario": "educational",
+  "lang": "it",
+  "title": "Casi d'uso educativi di Crisp",
+  "description": "Usa Crisp in contesti educativi per gruppi di studio e collaborazione nei corsi.",
+  "useCaseDetails": {
+    "industry": "Business Communication",
+    "users": "Student teams, online course groups, educators",
+    "workflow": "Group project coordination, study groups, class announcements",
+    "benefits": "Facilitates collaborative learning and group work coordination"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

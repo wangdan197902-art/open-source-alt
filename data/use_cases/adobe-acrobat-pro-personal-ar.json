@@ -1,0 +1,29 @@
+{
+  "id": "adobe-acrobat-pro-personal-ar",
+  "softwareId": "adobe-acrobat-pro",
+  "scenario": "personal",
+  "lang": "ar",
+  "title": "حالات الاستخدام الشخصية لـ Adobe Acrobat Pro",
+  "description": "استخدم Adobe Acrobat Pro في الحياة الشخصية لأجل الشؤون المالية الشخصية والوثائق المنزلية.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Home users, personal finance managers",
+    "workflow": "Personal budgets, household documents, invitations",
+    "benefits": "Free alternatives for personal productivity tasks"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

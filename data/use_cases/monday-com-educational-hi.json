@@ -1,0 +1,29 @@
+{
+  "id": "monday-com-educational-hi",
+  "softwareId": "monday-com",
+  "scenario": "educational",
+  "lang": "hi",
+  "title": "Monday.com के शैक्षिक उपयोग मामले",
+  "description": "शैक्षिक परिदृश्यों में प्रोग्रामिंग शिक्षण और कोड अधिगम के लिए Monday.com का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "CS students, coding bootcamp learners, educators",
+    "workflow": "Learning programming, completing assignments, building portfolio projects",
+    "benefits": "Powerful learning environment with debugging and code completion"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

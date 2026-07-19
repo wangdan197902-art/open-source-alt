@@ -1,0 +1,22 @@
+{
+  "id": "editplus-hi",
+  "sourceTextHash": "80dd8d28148e20434d9e142fa766588a90dfdb724d831c15e409939bd4a3128d",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] EditPlus is a development-tools software developed by ES-Computing. Windows text editor with syntax highlighting and FTP support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "editplus"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-defender-for-endpoint-ko",
+  "sourceTextHash": "35d6701054973b7b5911912ccf342b328ce9646ed7666f1ae42e4979f44fa2eb",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] Microsoft Defender for Endpoint is a security-software software developed by Microsoft. Enterprise endpoint protection with threat and vulnerability mgmt.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "microsoft-defender-for-endpoint"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

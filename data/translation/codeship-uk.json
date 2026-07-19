@@ -1,0 +1,22 @@
+{
+  "id": "codeship-uk",
+  "sourceTextHash": "db44fc45be95b79b02ca280238fd4f33cdf9a4ae108f322803e7d63312b3a1c6",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Codeship is a development-tools software developed by CloudBees. Hosted CI/CD service for fast and reliable deployments.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "codeship"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

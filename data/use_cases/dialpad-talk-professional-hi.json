@@ -1,0 +1,29 @@
+{
+  "id": "dialpad-talk-professional-hi",
+  "softwareId": "dialpad-talk",
+  "scenario": "professional",
+  "lang": "hi",
+  "title": "Dialpad Talk के पेशेवर उपयोग मामले",
+  "description": "पेशेवर कार्य में वीडियो सम्मेलन और वेबिनार के लिए Dialpad Talk का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Remote teams, sales reps, consultants",
+    "workflow": "Video meetings, webinars, screen sharing, recording",
+    "benefits": "Enables remote work and global client communication"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

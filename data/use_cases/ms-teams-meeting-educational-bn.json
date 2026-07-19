@@ -1,0 +1,29 @@
+{
+  "id": "ms-teams-meeting-educational-bn",
+  "softwareId": "ms-teams-meeting",
+  "scenario": "educational",
+  "lang": "bn",
+  "title": "Microsoft Teams Meetings এর শিক্ষামূলক ব্যবহারের ক্ষেত্র",
+  "description": "শিক্ষামূলক পরিস্থিতিতে অনলাইন ক্লাস এবং দূরবর্তী শিক্ষা-এর জন্য Microsoft Teams Meetings ব্যবহার করুন।",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Online students, remote educators, trainers",
+    "workflow": "Online classes, virtual office hours, remote tutoring",
+    "benefits": "Enables remote learning and global education access"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

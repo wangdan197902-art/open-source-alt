@@ -1,0 +1,22 @@
+{
+  "id": "resharper-es",
+  "sourceTextHash": "c1c0153659bde90f53dfa73f568c1bb5a58d1d32ffe5391890fd67bc68a2de41",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] ReSharper is a development-tools software developed by JetBrains. Visual Studio extension for .NET code analysis and refactoring.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "resharper"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

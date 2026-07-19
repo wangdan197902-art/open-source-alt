@@ -1,0 +1,54 @@
+{
+  "id": "any-do-alternatives-ru",
+  "softwareId": "any-do",
+  "lang": "ru",
+  "title": "Открытые альтернативы для Any.do",
+  "description": "Ниже приведен список открытых альтернатив для Any.do, бесплатных и с активным сообществом.",
+  "alternatives": [
+    {
+      "opensourceId": "tasks-org",
+      "opensourceName": "Tasks.org",
+      "matchScore": 0.95,
+      "reason": "Официально рекомендованная открытая альтернатива, высоко совместимая с Any.do"
+    },
+    {
+      "opensourceId": "affine",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "anytype",
+      "opensourceName": "Anytype",
+      "matchScore": 0.8,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "appflowy",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.75,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "appflowy-2",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.7,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

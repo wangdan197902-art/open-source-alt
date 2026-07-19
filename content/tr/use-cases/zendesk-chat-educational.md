@@ -1,0 +1,34 @@
+---
+title: "Zendesk Chat eğitim kullanım senaryoları"
+date: "2026-07-19"
+draft: false
+description: "Eğitim senaryolarında çalışma grupları ve kurs işbirliği için Zendesk Chat kullanın."
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "zendesk-chat"
+scenario: "educational"
+type: "use-case"
+use-case:
+  - educational
+tags:
+  - zendesk-chat
+  - educational
+  - Business Communication
+categories:
+  - Business Communication
+---
+
+# Zendesk Chat eğitim kullanım senaryoları
+
+**Eğitim senaryolarında çalışma grupları ve kurs işbirliği için Zendesk Chat kullanın.**
+
+## Use Case Details
+
+- **Industry**: Business Communication
+- **Users**: Student teams, online course groups, educators
+- **Workflow**: Group project coordination, study groups, class announcements
+- **Benefits**: Facilitates collaborative learning and group work coordination
+
+## Software
+
+View [Open Source Alternatives for zendesk-chat](../../alternatives/zendesk-chat/) and [Similar Software to zendesk-chat](../../similar/zendesk-chat/).

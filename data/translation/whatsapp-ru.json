@@ -1,0 +1,22 @@
+{
+  "id": "whatsapp-ru",
+  "sourceTextHash": "fda6b95ee38b832529444c3851f0008c54d0fc807f0d6283f7c02461d985238e",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] WhatsApp is a team-communication software developed by Meta. End-to-end encrypted messaging with voice and video calls.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "whatsapp"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

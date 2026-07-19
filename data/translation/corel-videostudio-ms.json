@@ -1,0 +1,22 @@
+{
+  "id": "corel-videostudio-ms",
+  "sourceTextHash": "e44d8df790108c07afa1270fc2d7aee5693f2b48ac200cf8ae5338d3df8b6246",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Corel VideoStudio is a media-player software developed by Corel. Video editing software with creative effects.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "corel-videostudio"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

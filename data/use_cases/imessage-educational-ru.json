@@ -1,0 +1,29 @@
+{
+  "id": "imessage-educational-ru",
+  "softwareId": "imessage",
+  "scenario": "educational",
+  "lang": "ru",
+  "title": "Образовательные сценарии использования iMessage",
+  "description": "Используйте iMessage в образовательных сценариях для учебные группы и сотрудничество на курсах.",
+  "useCaseDetails": {
+    "industry": "Business Communication",
+    "users": "Student teams, online course groups, educators",
+    "workflow": "Group project coordination, study groups, class announcements",
+    "benefits": "Facilitates collaborative learning and group work coordination"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

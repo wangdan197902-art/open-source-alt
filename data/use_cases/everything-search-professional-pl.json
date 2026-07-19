@@ -1,0 +1,29 @@
+{
+  "id": "everything-search-professional-pl",
+  "softwareId": "everything-search",
+  "scenario": "professional",
+  "lang": "pl",
+  "title": "Profesjonalne przypadki użycia programu Everything (Power Toys)",
+  "description": "Używaj programu Everything (Power Toys) w pracy profesjonalnej do monitorowanie systemu i zarządzanie plikami.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "System admins, IT operations, DevOps engineers",
+    "workflow": "System monitoring, file management, automation scripts",
+    "benefits": "Streamlines system administration and operational efficiency"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

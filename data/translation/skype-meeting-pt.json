@@ -1,0 +1,22 @@
+{
+  "id": "skype-meeting-pt",
+  "sourceTextHash": "f0a3258677e20830bff0aff540af4970a47a60c213c170a1d7731d152a05a5bd",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] Skype is a video-conferencing software developed by Microsoft. Video calling and instant messaging for personal and business use.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "skype-meeting"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

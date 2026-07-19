@@ -1,0 +1,29 @@
+{
+  "id": "expressvpn-educational-ru",
+  "softwareId": "expressvpn",
+  "scenario": "educational",
+  "lang": "ru",
+  "title": "Образовательные сценарии использования ExpressVPN",
+  "description": "Используйте ExpressVPN в образовательных сценариях для обучение безопасности и практические занятия.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Cybersecurity students, security trainees",
+    "workflow": "Security training, lab exercises, certification prep",
+    "benefits": "Hands-on practice with industry-standard security tools"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

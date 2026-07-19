@@ -1,0 +1,22 @@
+{
+  "id": "ringcentral-meetings-uk",
+  "sourceTextHash": "095ddd65ddb0fa85b5ab2742764b5c95f4e2d9a549d162ea2a045778889fb511",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] RingCentral Meetings is a video-conferencing software developed by RingCentral. Cloud video meetings with team messaging and phone integration.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "ringcentral-meetings"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

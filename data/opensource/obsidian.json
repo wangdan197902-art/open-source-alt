@@ -1,0 +1,23 @@
+{
+  "id": "obsidian",
+  "name": "Obsidian",
+  "license": "MIT",
+  "repository": "https://github.com/obsidianmd/obsidian-api",
+  "category": "productivity-notes",
+  "platforms": ["Windows", "macOS", "Linux", "iOS", "Android"],
+  "maturityLevel": "stable",
+  "communitySize": "large",
+  "reviewStatus": "approved",
+  "aiGenerated": false,
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19",
+    "licenseNote": "Obsidian core is proprietary; MIT applies to the public plugin API used for this seed entry"
+  },
+  "_meta": {
+    "source": "official-repository",
+    "schema_version": "1.0.0",
+    "unverified_fields": ["license", "repository"],
+    "confidence": "medium"
+  }
+}

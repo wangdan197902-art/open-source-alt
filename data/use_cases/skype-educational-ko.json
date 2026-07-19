@@ -1,0 +1,29 @@
+{
+  "id": "skype-educational-ko",
+  "softwareId": "skype",
+  "scenario": "educational",
+  "lang": "ko",
+  "title": "Skype 교육 사용 사례",
+  "description": "교육 현장에서 Skype을(를) 사용하여 학습 그룹 및 코스 협업 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Business Communication",
+    "users": "Student teams, online course groups, educators",
+    "workflow": "Group project coordination, study groups, class announcements",
+    "benefits": "Facilitates collaborative learning and group work coordination"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

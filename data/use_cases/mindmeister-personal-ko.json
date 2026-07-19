@@ -1,0 +1,29 @@
+{
+  "id": "mindmeister-personal-ko",
+  "softwareId": "mindmeister",
+  "scenario": "personal",
+  "lang": "ko",
+  "title": "MindMeister 개인 사용 사례",
+  "description": "개인 생활에서 MindMeister을(를) 사용하여 개인 포트폴리오 및 프리랜서 디자인 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Design & Product",
+    "users": "Freelance designers, side-project creators",
+    "workflow": "Personal portfolio design, side project mockups, freelance client work",
+    "benefits": "Free tier supports personal creative work and portfolio building"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "blink-shell-educational-bn",
+  "softwareId": "blink-shell",
+  "scenario": "educational",
+  "lang": "bn",
+  "title": "Blink Shell এর শিক্ষামূলক ব্যবহারের ক্ষেত্র",
+  "description": "শিক্ষামূলক পরিস্থিতিতে প্রোগ্রামিং শিক্ষা এবং কোড শেখা-এর জন্য Blink Shell ব্যবহার করুন।",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "CS students, coding bootcamp learners, educators",
+    "workflow": "Learning programming, completing assignments, building portfolio projects",
+    "benefits": "Powerful learning environment with debugging and code completion"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

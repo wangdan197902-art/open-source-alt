@@ -1,0 +1,22 @@
+{
+  "id": "expressvpn-it",
+  "sourceTextHash": "91b4f3eb26d86cc8413f2a7ab7a28b7bff063133ffcf22a9907a743637a945cc",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] ExpressVPN is a security-software software developed by Express VPN International. High-speed VPN with servers in 94 countries.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "expressvpn"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

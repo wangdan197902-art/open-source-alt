@@ -1,0 +1,54 @@
+{
+  "id": "uberconference-alternatives-pl",
+  "softwareId": "uberconference",
+  "lang": "pl",
+  "title": "Alternatywy open-source dla UberConference",
+  "description": "Poniżej znajduje się lista alternatyw open-source dla UberConference, darmowych z aktywną społecznością.",
+  "alternatives": [
+    {
+      "opensourceId": "jitsi-meet-12",
+      "opensourceName": "Jitsi Meet",
+      "matchScore": 0.95,
+      "reason": "Oficjalnie polecana alternatywa open-source, wysoć zgodna z UberConference"
+    },
+    {
+      "opensourceId": "bigbluebutton",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.85,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "bigbluebutton-10",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.8,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "bigbluebutton-11",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.75,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "bigbluebutton-12",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.7,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

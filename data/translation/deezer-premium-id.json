@@ -1,0 +1,22 @@
+{
+  "id": "deezer-premium-id",
+  "sourceTextHash": "3b0e46197daab042b55362957592c743b7ee6f714fc247a9b25e01e434aa7aef",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] Deezer Premium is a media-player software developed by Deezer. Music streaming with HiFi quality and offline listening.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "deezer-premium"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

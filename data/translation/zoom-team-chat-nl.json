@@ -1,0 +1,22 @@
+{
+  "id": "zoom-team-chat-nl",
+  "sourceTextHash": "e4db5652296e64efb9e731305c71e379cba3d73e4359633356bddcf2070daa8e",
+  "targetLang": "nl",
+  "translatedText": "[Mock Nederlands] Zoom Team Chat is a team-communication software developed by Zoom. Channel-based chat integrated with Zoom meetings and phone.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zoom-team-chat"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

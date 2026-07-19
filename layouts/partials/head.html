@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="generator" content="Hugo {{ hugo.Version }}">
+  {{ $env := os.Getenv "HUGO_ENV" | default (.Site.Params.env | default "development") }}
+  {{ if eq $env "production" }}
+  <meta name="robots" content="index, follow">
+  {{ else }}
+  <meta name="robots" content="noindex, nofollow">
+  {{ end }}
+
+  {{ if .Site.Params.aiDisclosure }}
+  <meta name="ai-content-disclosure" content="本站内容由AI辅助生成，已通过人工审核">
+  {{ end }}
+
+  <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/search.css" | relURL }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}'>
+</head>

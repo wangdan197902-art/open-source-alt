@@ -1,0 +1,22 @@
+{
+  "id": "principle-vi",
+  "sourceTextHash": "94290a86c037c079cbf2d30d8bbb8b0fa8b7cefad5dad844499a56bd0cb0a882",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Principle is a design-collaboration software developed by Daniel Hooper. Mac animation tool for designing interactive prototypes.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "principle"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

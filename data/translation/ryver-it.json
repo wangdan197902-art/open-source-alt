@@ -1,0 +1,22 @@
+{
+  "id": "ryver-it",
+  "sourceTextHash": "c611f45530f3c173a7b5cb2c450e2d1d2cfde27290a75c965a1b7a2654050408",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Ryver is a team-communication software developed by Ryver. Team chat with built-in task management and workflow automation.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "ryver"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

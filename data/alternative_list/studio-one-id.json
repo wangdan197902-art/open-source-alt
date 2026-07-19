@@ -1,0 +1,54 @@
+{
+  "id": "studio-one-alternatives-id",
+  "softwareId": "studio-one",
+  "lang": "id",
+  "title": "Alternatif open-source untuk Studio One",
+  "description": "Berikut adalah daftar alternatif open-source untuk Studio One, gratis dengan komunitas aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "ardour-3",
+      "opensourceName": "Ardour",
+      "matchScore": 0.95,
+      "reason": "Alternatif open-source yang direkomendasikan secara resmi, sangat kompatibel dengan Studio One"
+    },
+    {
+      "opensourceId": "ardour",
+      "opensourceName": "Ardour",
+      "matchScore": 0.85,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "ardour-2",
+      "opensourceName": "Ardour",
+      "matchScore": 0.8,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "ardour-4",
+      "opensourceName": "Ardour",
+      "matchScore": 0.75,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "audacious",
+      "opensourceName": "Audacious",
+      "matchScore": 0.7,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

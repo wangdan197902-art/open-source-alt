@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-excel-zh",
+  "sourceTextHash": "a57206b086a30e4a5df337ddb3d21d6bf76e6e9ab28de98e9acb743ee1e1265d",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] Microsoft Excel is a office-suite software developed by Microsoft. Spreadsheet software for data analysis, charts, and models.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "microsoft-excel"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

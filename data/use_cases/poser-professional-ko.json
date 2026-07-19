@@ -1,0 +1,29 @@
+{
+  "id": "poser-professional-ko",
+  "softwareId": "poser",
+  "scenario": "professional",
+  "lang": "ko",
+  "title": "Poser 전문 사용 사례",
+  "description": "전문 작업에서 Poser을(를) 사용하여 이미지 편집, 그래픽 디자인, 디지털 아트 창작 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Graphic designers, photographers, digital artists",
+    "workflow": "Image retouching, compositing, digital painting, asset preparation for print/web",
+    "benefits": "Industry-standard toolset for high-quality visual output and client deliverables"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

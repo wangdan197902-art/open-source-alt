@@ -1,0 +1,54 @@
+{
+  "id": "teamcity-alternatives-es",
+  "softwareId": "teamcity",
+  "lang": "es",
+  "title": "Alternativas de código abierto para TeamCity",
+  "description": "A continuación se muestra una lista de alternativas de código abierto para TeamCity, gratuitas y con comunidad activa.",
+  "alternatives": [
+    {
+      "opensourceId": "jenkins-5",
+      "opensourceName": "Jenkins",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código abierto recomendada oficialmente, altamente compatible con TeamCity"
+    },
+    {
+      "opensourceId": "dbeaver",
+      "opensourceName": "DBeaver",
+      "matchScore": 0.85,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "gitea",
+      "opensourceName": "Gitea",
+      "matchScore": 0.8,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "gitea-2",
+      "opensourceName": "Gitea",
+      "matchScore": 0.75,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "gitea-3",
+      "opensourceName": "Gitea",
+      "matchScore": 0.7,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

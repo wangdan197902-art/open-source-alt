@@ -1,0 +1,22 @@
+{
+  "id": "poser-uk",
+  "sourceTextHash": "5508c59782cdd7fa3761483a6b3f85b5bd02359a1a37f945375007e3c63d021e",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Poser is a image-editing software developed by Bondware. 3D figure design and animation software for character art.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "poser"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

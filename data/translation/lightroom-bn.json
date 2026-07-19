@@ -1,0 +1,22 @@
+{
+  "id": "lightroom-bn",
+  "sourceTextHash": "eae11051ceabb205458e8a5afaff064c0af94d287c22c43bda4e633841f40aff",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Adobe Lightroom is a image-editing software developed by Adobe. Cloud-based photo management and editing application for photographers.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "lightroom"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

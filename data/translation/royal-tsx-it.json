@@ -1,0 +1,22 @@
+{
+  "id": "royal-tsx-it",
+  "sourceTextHash": "35659f0fcc56d71eea08f0654f5f77d8faf75bd88dfd37ab3700c5b41f0dfa11",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Royal TSX is a development-tools software developed by Royal Apps. Mac remote management tool for SSH, RDP, VNC, and more.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "royal-tsx"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

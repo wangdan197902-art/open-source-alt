@@ -1,0 +1,22 @@
+{
+  "id": "nordvpn-ko",
+  "sourceTextHash": "7a4e34137f3c5c30d04476bef1aedb95b65cb3a73841bc97054a82de9ce96724",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] NordVPN is a security-software software developed by Nord Security. VPN service with strong encryption and threat protection.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "nordvpn"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "davinci-resolve-studio-professional-ar",
+  "softwareId": "davinci-resolve-studio",
+  "scenario": "professional",
+  "lang": "ar",
+  "title": "حالات الاستخدام المهنية لـ DaVinci Resolve Studio",
+  "description": "استخدم DaVinci Resolve Studio في العمل المهني لأجل تشغيل الوسائط ومعاينة المحتوى المهني.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Video editors, content producers, broadcasters",
+    "workflow": "Media playback, preview, quality control, content review",
+    "benefits": "Reliable playback for professional media production workflows"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

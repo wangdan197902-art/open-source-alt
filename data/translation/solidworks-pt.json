@@ -1,0 +1,22 @@
+{
+  "id": "solidworks-pt",
+  "sourceTextHash": "15902b9442711e82ea338df9ac7bd31933e2f119a4047af5174ee81ffb0a12a9",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] SOLIDWORKS is a image-editing software developed by Dassault Systèmes. 3D parametric CAD software for mechanical design and simulation.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "solidworks"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

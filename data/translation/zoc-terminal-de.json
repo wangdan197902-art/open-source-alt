@@ -1,0 +1,22 @@
+{
+  "id": "zoc-terminal-de",
+  "sourceTextHash": "8dd4e5e2e0e4a8b3f8ee04cd66d95edadc38373de62335178f0d649efb644824",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] ZOC Terminal is a development-tools software developed by Markus Schmidt. Professional terminal emulator and SSH client for power users.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zoc-terminal"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

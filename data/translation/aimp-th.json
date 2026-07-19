@@ -1,0 +1,22 @@
+{
+  "id": "aimp-th",
+  "sourceTextHash": "cf5afc541f63d94d94a44a4cc7e399ac4691f3c55bf07542cafdf3742265321e",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] AIMP is a media-player software developed by AIMP DevTeam. Free audio player for Windows with tag editor and converter.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "aimp"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

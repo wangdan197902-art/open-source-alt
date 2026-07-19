@@ -1,0 +1,22 @@
+{
+  "id": "flock-ja",
+  "sourceTextHash": "809f6635359423de8c2fb17b7b21162c48f65cae8a7c908f4e35b921f218d292",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Flock is a team-communication software developed by Flock. Team messaging app with channels, video, and productivity tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "flock"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

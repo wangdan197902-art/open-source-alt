@@ -1,0 +1,54 @@
+{
+  "id": "clion-alternatives-hi",
+  "softwareId": "clion",
+  "lang": "hi",
+  "title": "CLion के लिए ओपन-सोर्स विकल्प",
+  "description": "नीचे CLion के लिए ओपन-सोर्स विकल्पों की सूची दी गई है, निःशुल्क और सक्रिय समुदाय के साथ।",
+  "alternatives": [
+    {
+      "opensourceId": "vscodium-4",
+      "opensourceName": "VSCodium",
+      "matchScore": 0.95,
+      "reason": "आधिकारिक रूप से अनुशंसित ओपन-सोर्स विकल्प, CLion के साथ अत्यधिक संगत"
+    },
+    {
+      "opensourceId": "dbeaver",
+      "opensourceName": "DBeaver",
+      "matchScore": 0.85,
+      "reason": "समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध"
+    },
+    {
+      "opensourceId": "gitea",
+      "opensourceName": "Gitea",
+      "matchScore": 0.8,
+      "reason": "समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध"
+    },
+    {
+      "opensourceId": "gitea-2",
+      "opensourceName": "Gitea",
+      "matchScore": 0.75,
+      "reason": "समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध"
+    },
+    {
+      "opensourceId": "gitea-3",
+      "opensourceName": "Gitea",
+      "matchScore": 0.7,
+      "reason": "समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

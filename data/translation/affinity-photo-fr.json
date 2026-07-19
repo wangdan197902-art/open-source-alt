@@ -1,0 +1,22 @@
+{
+  "id": "affinity-photo-fr",
+  "sourceTextHash": "f43e1a81ce143c18f7ed1a0ecb847ab521f92fb5d8179e3a4fe0f73035d9ee79",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] Affinity Photo is a image-editing software developed by Serif. Fast professional photo editing software with non-destructive workflow.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "affinity-photo"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

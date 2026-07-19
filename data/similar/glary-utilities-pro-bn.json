@@ -1,0 +1,49 @@
+{
+  "id": "glary-utilities-pro-similar-bn",
+  "softwareId": "glary-utilities-pro",
+  "lang": "bn",
+  "title": "Glary Utilities Pro এর অনুরূপ সফ্টওয়্যার",
+  "description": "নিচে Glary Utilities Pro এর অনুরূপ সফ্টওয়্যারের একটি তালিকা দেওয়া হলো।",
+  "similarSoftware": [
+    {
+      "id": "acronis-cyber-protect",
+      "name": "Acronis Cyber Protect Home Office",
+      "similarity": 0.95
+    },
+    {
+      "id": "actual-window-minimizer",
+      "name": "Actual Window Minimizer",
+      "similarity": 0.89
+    },
+    {
+      "id": "advanced-systemcare-pro",
+      "name": "Advanced SystemCare Pro",
+      "similarity": 0.82
+    },
+    {
+      "id": "alfred-powerpack",
+      "name": "Alfred Powerpack",
+      "similarity": 0.76
+    },
+    {
+      "id": "anydesk-professional",
+      "name": "AnyDesk Professional",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

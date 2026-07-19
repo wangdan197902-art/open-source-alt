@@ -1,0 +1,22 @@
+{
+  "id": "nomachine-ja",
+  "sourceTextHash": "30acee7d805c57c8b24a05291371c91aa5826c86de944acacbc960682e7c0f72",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] NoMachine is a video-conferencing software developed by NoMachine. Remote desktop software for accessing computers over networks.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "nomachine"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

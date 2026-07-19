@@ -1,0 +1,22 @@
+{
+  "id": "hubspot-chat-hi",
+  "sourceTextHash": "8bcb7450621046f628598a1b21a681ba30d2a534e79408ffe6aac78a21737813",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] HubSpot Chat is a team-communication software developed by HubSpot. Live chat and bot builder integrated with HubSpot CRM.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "hubspot-chat"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

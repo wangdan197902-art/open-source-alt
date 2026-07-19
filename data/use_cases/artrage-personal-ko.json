@@ -1,0 +1,29 @@
+{
+  "id": "artrage-personal-ko",
+  "softwareId": "artrage",
+  "scenario": "personal",
+  "lang": "ko",
+  "title": "ArtRage 개인 사용 사례",
+  "description": "개인 생활에서 ArtRage을(를) 사용하여 개인 사진 편집 및 소셜 미디어 콘텐츠 제작 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Hobbyists, social media enthusiasts",
+    "workflow": "Photo retouching, creative projects, social media content creation",
+    "benefits": "Easy photo enhancement for personal memories and online sharing"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

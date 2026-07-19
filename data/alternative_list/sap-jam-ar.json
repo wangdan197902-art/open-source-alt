@@ -1,0 +1,54 @@
+{
+  "id": "sap-jam-alternatives-ar",
+  "softwareId": "sap-jam",
+  "lang": "ar",
+  "title": "بدائل مفتوحة المصدر لـ SAP Jam",
+  "description": "فيما يلي قائمة بالبدائل مفتوحة المصدر لـ SAP Jam، مجانية ومجتمع نشط.",
+  "alternatives": [
+    {
+      "opensourceId": "mattermost-19",
+      "opensourceName": "Mattermost",
+      "matchScore": 0.95,
+      "reason": "بديل مفتوح المصدر موصى به رسميًا، متوافق تمامًا مع SAP Jam"
+    },
+    {
+      "opensourceId": "chatwoot",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.85,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    },
+    {
+      "opensourceId": "chatwoot-2",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.8,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    },
+    {
+      "opensourceId": "chatwoot-3",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.75,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    },
+    {
+      "opensourceId": "chatwoot-4",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.7,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

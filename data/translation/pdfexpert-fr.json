@@ -1,0 +1,22 @@
+{
+  "id": "pdfexpert-fr",
+  "sourceTextHash": "c5a1b8d7a12737cb5b67d4f2cb26ddab10a6bbce799cc505242af3f317e6d207",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] PDF Expert is a office-suite software developed by Readdle. Mac PDF editor with annotation, editing, and form filling.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "pdfexpert"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

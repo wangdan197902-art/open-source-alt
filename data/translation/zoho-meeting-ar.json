@@ -1,0 +1,22 @@
+{
+  "id": "zoho-meeting-ar",
+  "sourceTextHash": "5cb218f3e40bc8a40c3f362da016e3d96a62eee69011d4939979deafe2367127",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Zoho Meeting is a video-conferencing software developed by Zoho. Online meeting and webinar solution for businesses.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zoho-meeting"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

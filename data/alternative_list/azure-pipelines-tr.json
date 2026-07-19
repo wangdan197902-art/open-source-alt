@@ -1,0 +1,54 @@
+{
+  "id": "azure-pipelines-alternatives-tr",
+  "softwareId": "azure-pipelines",
+  "lang": "tr",
+  "title": "Azure Pipelines için açık kaynak alternatifler",
+  "description": "Aşağıda Azure Pipelines için açık kaynak alternatiflerin bir listesi bulunmaktadır. Ücretsizdir ve aktif topluluğu vardır.",
+  "alternatives": [
+    {
+      "opensourceId": "jenkins",
+      "opensourceName": "Jenkins",
+      "matchScore": 0.95,
+      "reason": "Resmi olarak önerilen açık kaynak alternatifi, Azure Pipelines ile高度 uyumlu"
+    },
+    {
+      "opensourceId": "dbeaver",
+      "opensourceName": "DBeaver",
+      "matchScore": 0.85,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "gitea",
+      "opensourceName": "Gitea",
+      "matchScore": 0.8,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "gitea-2",
+      "opensourceName": "Gitea",
+      "matchScore": 0.75,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "gitea-3",
+      "opensourceName": "Gitea",
+      "matchScore": 0.7,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "zonealarm-es",
+  "sourceTextHash": "3cde87737186136c4de30bf6b281a4c77507749283b2b17e48d7589e748e7590",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] ZoneAlarm Anti-Antivirus is a security-software software developed by Check Point. Antivirus and firewall combo for Windows PCs.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zonealarm"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

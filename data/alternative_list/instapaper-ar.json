@@ -1,0 +1,54 @@
+{
+  "id": "instapaper-alternatives-ar",
+  "softwareId": "instapaper",
+  "lang": "ar",
+  "title": "بدائل مفتوحة المصدر لـ Instapaper",
+  "description": "فيما يلي قائمة بالبدائل مفتوحة المصدر لـ Instapaper، مجانية ومجتمع نشط.",
+  "alternatives": [
+    {
+      "opensourceId": "wallabag-2",
+      "opensourceName": "Wallabag",
+      "matchScore": 0.95,
+      "reason": "بديل مفتوح المصدر موصى به رسميًا، متوافق تمامًا مع Instapaper"
+    },
+    {
+      "opensourceId": "affine",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    },
+    {
+      "opensourceId": "anytype",
+      "opensourceName": "Anytype",
+      "matchScore": 0.8,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    },
+    {
+      "opensourceId": "appflowy",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.75,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    },
+    {
+      "opensourceId": "appflowy-2",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.7,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

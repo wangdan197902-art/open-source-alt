@@ -1,0 +1,22 @@
+{
+  "id": "sourcetree-it",
+  "sourceTextHash": "37eff1626722fd4c01cff09ea8c388a2f3e4ecb2e88ad0cec53922763bac563e",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Sourcetree is a development-tools software developed by Atlassian. Free Git GUI client for Mac and Windows with branch visualization.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "sourcetree"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

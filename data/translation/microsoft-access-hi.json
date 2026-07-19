@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-access-hi",
+  "sourceTextHash": "436d92c0cfe3dd17a2fcb77807848407aa9613bc31005b7daed02ebf2a347aad",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Microsoft Access is a office-suite software developed by Microsoft. Desktop database management system with forms and reports.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "microsoft-access"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

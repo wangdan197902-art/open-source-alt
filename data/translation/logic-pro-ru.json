@@ -1,0 +1,22 @@
+{
+  "id": "logic-pro-ru",
+  "sourceTextHash": "2d161262a3a08db8acc60af74b8746b8ccc1cc59fd7469d3cc7faeffa6c7a909",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Logic Pro is a media-player software developed by Apple. Mac-only professional music production software.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "logic-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

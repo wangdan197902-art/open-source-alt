@@ -1,0 +1,49 @@
+{
+  "id": "flinto-similar-th",
+  "softwareId": "flinto",
+  "lang": "th",
+  "title": "ซอฟต์แวร์ที่คล้ายกับ Flinto",
+  "description": "ด้านล่างนี้คือรายการซอฟต์แวร์ที่คล้ายกับ Flinto",
+  "similarSoftware": [
+    {
+      "id": "adobe-xd",
+      "name": "Adobe XD",
+      "similarity": 0.95
+    },
+    {
+      "id": "atomic-io",
+      "name": "Atomic",
+      "similarity": 0.89
+    },
+    {
+      "id": "axure-rp",
+      "name": "Axure RP",
+      "similarity": 0.82
+    },
+    {
+      "id": "ayoa",
+      "name": "Ayoa",
+      "similarity": 0.76
+    },
+    {
+      "id": "balsamiq-wireframes",
+      "name": "Balsamiq Wireframes",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

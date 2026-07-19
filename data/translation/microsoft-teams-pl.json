@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-teams-pl",
+  "sourceTextHash": "52b9d8cd6371cb3ca925a69364b691c1e583db3dc93c4984e70af8bd43c9a5bc",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Microsoft Teams is a team-communication software developed by Microsoft. Chat, meetings, and collaboration hub for Microsoft 365.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "microsoft-teams"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

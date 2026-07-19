@@ -1,0 +1,54 @@
+{
+  "id": "citavi-alternatives-pt",
+  "softwareId": "citavi",
+  "lang": "pt",
+  "title": "Alternativas de código aberto para Citavi",
+  "description": "Abaixo está uma lista de alternativas de código aberto para Citavi, gratuitas e com comunidade ativa.",
+  "alternatives": [
+    {
+      "opensourceId": "jabref-5",
+      "opensourceName": "JabRef",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código aberto oficialmente recomendada, altamente compatível com Citavi"
+    },
+    {
+      "opensourceId": "affine",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "anytype",
+      "opensourceName": "Anytype",
+      "matchScore": 0.8,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "appflowy",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.75,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "appflowy-2",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.7,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

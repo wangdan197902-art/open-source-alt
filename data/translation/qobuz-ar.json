@@ -1,0 +1,22 @@
+{
+  "id": "qobuz-ar",
+  "sourceTextHash": "5f72c25ee7a2e4351d1609d5de4ba8b64b2fa51ac91cc20628029d3a2b3d27e5",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Qobuz is a media-player software developed by Qobuz. Hi-res music streaming with extensive classical catalog.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "qobuz"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

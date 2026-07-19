@@ -1,0 +1,22 @@
+{
+  "id": "autocad-it",
+  "sourceTextHash": "d8b02246f1ca3ac7550630b51141f4bc812b29d3c94de3fb923dd474ed330868",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] AutoCAD is a image-editing software developed by Autodesk. 2D and 3D CAD software for drafting and documentation.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "autocad"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

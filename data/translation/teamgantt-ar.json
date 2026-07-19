@@ -1,0 +1,22 @@
+{
+  "id": "teamgantt-ar",
+  "sourceTextHash": "840955d0e2a83ccb6dc160e4901f9a3c38628d577136c8da9ea08a17c6be7531",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] TeamGantt is a development-tools software developed by TeamGantt. Online Gantt chart software for project scheduling.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "teamgantt"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

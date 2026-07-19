@@ -1,0 +1,54 @@
+{
+  "id": "slickedit-alternatives-uk",
+  "softwareId": "slickedit",
+  "lang": "uk",
+  "title": "Відкриті альтернативи для SlickEdit",
+  "description": "Нижче наведено список відкритих альтернатив для SlickEdit, безкоштовних з активною спільнотою.",
+  "alternatives": [
+    {
+      "opensourceId": "vscodium-15",
+      "opensourceName": "VSCodium",
+      "matchScore": 0.95,
+      "reason": "Офіційно рекомендована відкрита альтернатива, високо сумісна з SlickEdit"
+    },
+    {
+      "opensourceId": "dbeaver",
+      "opensourceName": "DBeaver",
+      "matchScore": 0.85,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "gitea",
+      "opensourceName": "Gitea",
+      "matchScore": 0.8,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "gitea-2",
+      "opensourceName": "Gitea",
+      "matchScore": 0.75,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "gitea-3",
+      "opensourceName": "Gitea",
+      "matchScore": 0.7,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "paintshop-pro-alternatives-it",
+  "softwareId": "paintshop-pro",
+  "lang": "it",
+  "title": "Alternative open source per Corel PaintShop Pro",
+  "description": "Di seguito è riportato un elenco di alternative open source per Corel PaintShop Pro, gratuite e con community attiva.",
+  "alternatives": [
+    {
+      "opensourceId": "gimp-4",
+      "opensourceName": "GIMP",
+      "matchScore": 0.95,
+      "reason": "Alternativa open source ufficialmente consigliata, altamente compatibile con Corel PaintShop Pro"
+    },
+    {
+      "opensourceId": "armorpaint",
+      "opensourceName": "ArmorPaint",
+      "matchScore": 0.85,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "blender",
+      "opensourceName": "Blender",
+      "matchScore": 0.8,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "blender-10",
+      "opensourceName": "Blender",
+      "matchScore": 0.75,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "blender-11",
+      "opensourceName": "Blender",
+      "matchScore": 0.7,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

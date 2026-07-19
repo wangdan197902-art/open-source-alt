@@ -1,0 +1,54 @@
+{
+  "id": "icloud-alternatives-id",
+  "softwareId": "icloud",
+  "lang": "id",
+  "title": "Alternatif open-source untuk iCloud",
+  "description": "Berikut adalah daftar alternatif open-source untuk iCloud, gratis dengan komunitas aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "nextcloud-8",
+      "opensourceName": "Nextcloud",
+      "matchScore": 0.95,
+      "reason": "Alternatif open-source yang direkomendasikan secara resmi, sangat kompatibel dengan iCloud"
+    },
+    {
+      "opensourceId": "affine-2",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "appflowy-5",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.8,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "calibre",
+      "opensourceName": "Calibre",
+      "matchScore": 0.75,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "collabora-online",
+      "opensourceName": "Collabora Online",
+      "matchScore": 0.7,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

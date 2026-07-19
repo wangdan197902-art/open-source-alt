@@ -1,0 +1,22 @@
+{
+  "id": "pdfelement-ko",
+  "sourceTextHash": "7bbd2c9c9408a85765b5c36642033dbdd76c8cfa1fb66bf13d1a8be788f13b05",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] Wondershare PDFelement is a office-suite software developed by Wondershare. PDF editor with OCR, conversion, and form creation tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "pdfelement"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

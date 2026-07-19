@@ -1,0 +1,29 @@
+{
+  "id": "camtasia-personal-bn",
+  "softwareId": "camtasia",
+  "scenario": "personal",
+  "lang": "bn",
+  "title": "Camtasia এর ব্যক্তিগত ব্যবহারের ক্ষেত্র",
+  "description": "ব্যক্তিগত জীবনে ব্যক্তিগত মিডিয়া লাইব্রেরি এবং বিনোদন-এর জন্য Camtasia ব্যবহার করুন।",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "General consumers, movie enthusiasts",
+    "workflow": "Personal media library, movie watching, music playback",
+    "benefits": "Free high-quality media playback for personal entertainment"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

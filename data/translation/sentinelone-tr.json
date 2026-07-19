@@ -1,0 +1,22 @@
+{
+  "id": "sentinelone-tr",
+  "sourceTextHash": "5e6b76b6e28ad9c4a6e19dc38bf3597679bb02bcb50b00c16255f9acd6c8ccae",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] SentinelOne Singularity is a security-software software developed by SentinelOne. Autonomous endpoint protection with storyline tracking.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "sentinelone"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

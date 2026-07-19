@@ -1,0 +1,22 @@
+{
+  "id": "appcode-uk",
+  "sourceTextHash": "69a904e1ca6d126158be00d1fe1f3cbe9b63de9e771535c585aaa391903d70be",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] AppCode is a development-tools software developed by JetBrains. iOS/macOS IDE for Objective-C, Swift, and C++ development.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "appcode"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

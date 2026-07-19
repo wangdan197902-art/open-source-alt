@@ -1,0 +1,29 @@
+{
+  "id": "foxit-phantompdf-educational-it",
+  "softwareId": "foxit-phantompdf",
+  "scenario": "educational",
+  "lang": "it",
+  "title": "Casi d'uso educativi di Foxit PDF Editor",
+  "description": "Usa Foxit PDF Editor in contesti educativi per lavori accademici e materiali educativi.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Students, teachers, academic staff",
+    "workflow": "Assignments, lesson plans, academic papers",
+    "benefits": "Standard tools for academic document creation"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

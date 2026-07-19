@@ -1,0 +1,22 @@
+{
+  "id": "craft-th",
+  "sourceTextHash": "9e50c05ca371165605340e55da93e1501553c3dfbee6d20fc3e88de31f14a9c8",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Craft is a note-taking software developed by Luki Labs. Document editor with blocks, cards, and native Mac experience.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "craft"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

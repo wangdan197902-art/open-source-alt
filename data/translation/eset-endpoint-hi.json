@@ -1,0 +1,22 @@
+{
+  "id": "eset-endpoint-hi",
+  "sourceTextHash": "1d2301f3b361b0c70246128a12a8ed53efea3165ba3b9776e461aa7df665d737",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] ESET Endpoint Security is a security-software software developed by ESET. Business antivirus with layered protection.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "eset-endpoint"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

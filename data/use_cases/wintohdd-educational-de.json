@@ -1,0 +1,29 @@
+{
+  "id": "wintohdd-educational-de",
+  "softwareId": "wintohdd",
+  "scenario": "educational",
+  "lang": "de",
+  "title": "Bildungsszenarien für WinToHDD",
+  "description": "Verwende WinToHDD in Bildungsszenarien für Systemverwaltungsunterricht und Labore.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "IT students, sysadmin trainees",
+    "workflow": "Learning system administration, lab environments",
+    "benefits": "Practical experience with industry-standard utilities"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

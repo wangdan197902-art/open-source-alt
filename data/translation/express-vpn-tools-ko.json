@@ -1,0 +1,22 @@
+{
+  "id": "express-vpn-tools-ko",
+  "sourceTextHash": "d22f5b68a39f73599cd95872716966a82e0004d38c007ceb0390cbf4c9a910bc",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] HideMyAss VPN Tools is a system-utilities software developed by HMA. VPN with system optimization utilities.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "express-vpn-tools"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

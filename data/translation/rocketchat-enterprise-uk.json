@@ -1,0 +1,22 @@
+{
+  "id": "rocketchat-enterprise-uk",
+  "sourceTextHash": "77654a4403c79a4de242d61e268887d3adb5a0eccddf618cb0cf47b25de93852",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Rocket.Chat Enterprise is a team-communication software developed by Rocket.Chat. Enterprise edition of Rocket.Chat with omnichannel features.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "rocketchat-enterprise"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

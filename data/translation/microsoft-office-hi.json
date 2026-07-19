@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-office-hi",
+  "sourceTextHash": "c4c6127985701ad8bb1718194ba2670601d8a510386b1941c275d67407221bf7",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Microsoft Office 2021 is a office-suite software developed by Microsoft. Perpetual license Office suite for Word, Excel, and PowerPoint.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "microsoft-office"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

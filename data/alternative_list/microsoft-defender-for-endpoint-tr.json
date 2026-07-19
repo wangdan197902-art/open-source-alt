@@ -1,0 +1,54 @@
+{
+  "id": "microsoft-defender-for-endpoint-alternatives-tr",
+  "softwareId": "microsoft-defender-for-endpoint",
+  "lang": "tr",
+  "title": "Microsoft Defender for Endpoint için açık kaynak alternatifler",
+  "description": "Aşağıda Microsoft Defender for Endpoint için açık kaynak alternatiflerin bir listesi bulunmaktadır. Ücretsizdir ve aktif topluluğu vardır.",
+  "alternatives": [
+    {
+      "opensourceId": "wazuh",
+      "opensourceName": "Wazuh",
+      "matchScore": 0.95,
+      "reason": "Resmi olarak önerilen açık kaynak alternatifi, Microsoft Defender for Endpoint ile高度 uyumlu"
+    },
+    {
+      "opensourceId": "bitwarden",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.85,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "bitwarden-2",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.8,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "bitwarden-3",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.75,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "bitwarden-4",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.7,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

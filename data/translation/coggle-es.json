@@ -1,0 +1,22 @@
+{
+  "id": "coggle-es",
+  "sourceTextHash": "2ae0e9a0cf8a74ca68d74c5ea65a5822b8134555749b770506c702bc137c23f0",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Coggle is a design-collaboration software developed by Coggle. Web app for collaborative mind maps and structured notes.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "coggle"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

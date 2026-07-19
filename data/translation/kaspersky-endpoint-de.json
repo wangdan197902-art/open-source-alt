@@ -1,0 +1,22 @@
+{
+  "id": "kaspersky-endpoint-de",
+  "sourceTextHash": "f42797aae5abccee8c7d4ced5cb261a4bd1c568e4d1c9cf8bef5e906d5bc65d5",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Kaspersky Endpoint Security is a security-software software developed by Kaspersky. Business endpoint security with cloud console.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "kaspersky-endpoint"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

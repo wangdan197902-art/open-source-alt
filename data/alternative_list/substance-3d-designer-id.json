@@ -1,0 +1,54 @@
+{
+  "id": "substance-3d-designer-alternatives-id",
+  "softwareId": "substance-3d-designer",
+  "lang": "id",
+  "title": "Alternatif open-source untuk Substance 3D Designer",
+  "description": "Berikut adalah daftar alternatif open-source untuk Substance 3D Designer, gratis dengan komunitas aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "material-maker-2",
+      "opensourceName": "Material Maker",
+      "matchScore": 0.95,
+      "reason": "Alternatif open-source yang direkomendasikan secara resmi, sangat kompatibel dengan Substance 3D Designer"
+    },
+    {
+      "opensourceId": "armorpaint",
+      "opensourceName": "ArmorPaint",
+      "matchScore": 0.85,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "blender",
+      "opensourceName": "Blender",
+      "matchScore": 0.8,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "blender-10",
+      "opensourceName": "Blender",
+      "matchScore": 0.75,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "blender-11",
+      "opensourceName": "Blender",
+      "matchScore": 0.7,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

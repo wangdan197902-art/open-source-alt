@@ -1,0 +1,22 @@
+{
+  "id": "zoho-show-pl",
+  "sourceTextHash": "8382e0ff7bdfd4422074dcd5ebf7a1169e713d6255a92b515c7747d496e25981",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Zoho Show is a office-suite software developed by Zoho. Online presentation app with collaboration and broadcast features.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zoho-show"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

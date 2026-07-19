@@ -1,0 +1,54 @@
+{
+  "id": "lightwave-3d-alternatives-uk",
+  "softwareId": "lightwave-3d",
+  "lang": "uk",
+  "title": "Відкриті альтернативи для LightWave 3D",
+  "description": "Нижче наведено список відкритих альтернатив для LightWave 3D, безкоштовних з активною спільнотою.",
+  "alternatives": [
+    {
+      "opensourceId": "blender-5",
+      "opensourceName": "Blender",
+      "matchScore": 0.95,
+      "reason": "Офіційно рекомендована відкрита альтернатива, високо сумісна з LightWave 3D"
+    },
+    {
+      "opensourceId": "armorpaint",
+      "opensourceName": "ArmorPaint",
+      "matchScore": 0.85,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "blender",
+      "opensourceName": "Blender",
+      "matchScore": 0.8,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "blender-10",
+      "opensourceName": "Blender",
+      "matchScore": 0.75,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "blender-11",
+      "opensourceName": "Blender",
+      "matchScore": 0.7,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "acronis-cyber-protect-id",
+  "sourceTextHash": "5064a55186e070775f674ca97024cd27e2bedbd9ee694903bf5e247510d103ee",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] Acronis Cyber Protect Home Office is a system-utilities software developed by Acronis. Backup and antivirus in one solution.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "acronis-cyber-protect"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

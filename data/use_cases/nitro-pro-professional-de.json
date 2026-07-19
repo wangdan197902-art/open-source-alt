@@ -1,0 +1,29 @@
+{
+  "id": "nitro-pro-professional-de",
+  "softwareId": "nitro-pro",
+  "scenario": "professional",
+  "lang": "de",
+  "title": "Professionelle Anwendungsfälle für Nitro PDF Pro",
+  "description": "Verwende Nitro PDF Pro bei der professionellen Arbeit für Office-Dokumente und Tabellenkalkulation.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Business professionals, analysts, administrators",
+    "workflow": "Document creation, spreadsheet analysis, presentations",
+    "benefits": "Standard productivity suite for business document workflows"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

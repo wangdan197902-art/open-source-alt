@@ -1,0 +1,22 @@
+{
+  "id": "wechat-uk",
+  "sourceTextHash": "ad0e4aa825ae3992fc24641f0a647b96bab3937d9ff948dfce0c312bf5db6bb5",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] WeChat is a team-communication software developed by Tencent. Chinese super-app for messaging, payments, and mini-programs.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "wechat"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "confluence-ar",
+  "sourceTextHash": "96bc48f90a7fd0daf10b8cbcb16352848859c9140087cb6d1d500f083aadb80a",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Confluence is a note-taking software developed by Atlassian. Team wiki and documentation platform for knowledge sharing.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "confluence"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

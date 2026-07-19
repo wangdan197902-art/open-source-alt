@@ -1,0 +1,22 @@
+{
+  "id": "mymind-it",
+  "sourceTextHash": "abc56d8c99b4e5b12646fde0f365b1b41fdba6698b9f2f73cff202251f2b60d6",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] mymind is a note-taking software developed by mymind. Private visual bookmarking and notes app with AI tagging.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mymind"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

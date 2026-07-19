@@ -1,0 +1,22 @@
+{
+  "id": "onenote-2016-ms",
+  "sourceTextHash": "ab3c8e55db8f602906bc89e1a9029f2c32f3ca588b80178dbd01471ca77e5b21",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] OneNote 2016 is a note-taking software developed by Microsoft. Desktop version of OneNote with full notebook management.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "onenote-2016"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

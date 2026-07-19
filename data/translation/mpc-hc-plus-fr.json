@@ -1,0 +1,22 @@
+{
+  "id": "mpc-hc-plus-fr",
+  "sourceTextHash": "18d8de43eb914f8f4548e3b50caa92b6526dbbd0dc3cdd43ed653ab12cd2fe94",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] MPC-HC Plus is a media-player software developed by MPC-HC Team. Lightweight Windows media player with extended features.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mpc-hc-plus"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,58 @@
+{{ partial "head.html" . }}
+<body>
+{{ partial "dev-preview-banner.html" . }}
+{{ partial "header.html" . }}
+
+<main class="container main-content">
+  <article class="single-article">
+    <header class="article-header">
+      <p class="breadcrumb">
+        <a href="{{ .Site.LanguagePrefix }}/">{{ i18n "home" | default "首页" }}</a>
+        &nbsp;/&nbsp;
+        <a href="{{ .Site.LanguagePrefix }}/use-cases/">{{ i18n "use_cases" | default "使用场景" }}</a>
+      </p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+
+      <ul class="meta-list">
+        {{ with .Params.softwareId }}<li><strong>{{ i18n "software_id" | default "软件 ID" }}:</strong> {{ . }}</li>{{ end }}
+        {{ with .Params.scenario }}<li><strong>{{ i18n "scenario" | default "场景" }}:</strong> {{ . }}</li>{{ end }}
+        {{ with .Params.reviewStatus }}<li><strong>{{ i18n "review_status" | default "审核状态" }}:</strong> {{ . }}</li>{{ end }}
+      </ul>
+    </header>
+
+    {{ partial "ai-disclosure.html" . }}
+
+    <div class="article-body">
+      {{ .Content }}
+
+      {{ with .Params.softwareId }}
+      <section class="related-links">
+        <h2>{{ i18n "related_links" | default "相关链接" }}</h2>
+        <ul>
+          <li><a href="{{ "../../alternatives/" | relLangURL }}{{ . }}/">{{ i18n "view_alternatives" | default "查看开源替代方案" }}</a></li>
+          <li><a href="{{ "../../similar/" | relLangURL }}{{ . }}/">{{ i18n "view_similar" | default "查看类似软件" }}</a></li>
+        </ul>
+      </section>
+      {{ end }}
+    </div>
+
+    {{ if .Site.Params.aiDisclosure }}
+    <aside class="ai-disclosure ai-disclosure-footer" aria-label="AI Content Disclosure">
+      <p><small>{{ i18n "ai_disclosure_text" | default "This content was generated with AI assistance. Please verify critical information." }}</small></p>
+    </aside>
+    {{ end }}
+
+    <footer class="article-footer">
+      {{ if .Params.aiGenerated }}
+      <p class="ai-footer-note">
+        📋 {{ i18n "ai_footer_note" | default "本页面内容由AI辅助生成，已通过人工审核。请批判性参考。" }}
+      </p>
+      {{ end }}
+    </footer>
+  </article>
+</main>
+
+{{ partial "footer.html" . }}
+</body>
+</html>

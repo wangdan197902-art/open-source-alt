@@ -1,0 +1,29 @@
+{
+  "id": "trend-micro-business-professional-ko",
+  "softwareId": "trend-micro-business",
+  "scenario": "professional",
+  "lang": "ko",
+  "title": "Trend Micro Apex One 전문 사용 사례",
+  "description": "전문 작업에서 Trend Micro Apex One을(를) 사용하여 위협 탐지 및 취약점 스캔 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Security analysts, IT admins, compliance officers",
+    "workflow": "Threat detection, vulnerability scanning, compliance auditing",
+    "benefits": "Enterprise-grade security for protecting organizational assets"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

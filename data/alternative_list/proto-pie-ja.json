@@ -1,0 +1,54 @@
+{
+  "id": "proto-pie-alternatives-ja",
+  "softwareId": "proto-pie",
+  "lang": "ja",
+  "title": "ProtoPie のオープンソース代替方案",
+  "description": "以下は ProtoPie のオープンソース代替方案のリストです。無料で利用でき、コミュニティも活発です。",
+  "alternatives": [
+    {
+      "opensourceId": "penpot-14",
+      "opensourceName": "Penpot",
+      "matchScore": 0.95,
+      "reason": "公式推奨のオープンソース代替品で、ProtoPie と機能が高度に一致"
+    },
+    {
+      "opensourceId": "drawio",
+      "opensourceName": "draw.io",
+      "matchScore": 0.85,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "drawio-2",
+      "opensourceName": "draw.io",
+      "matchScore": 0.8,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "drawio-3",
+      "opensourceName": "draw.io",
+      "matchScore": 0.75,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "drawio-4",
+      "opensourceName": "draw.io",
+      "matchScore": 0.7,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

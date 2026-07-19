@@ -1,0 +1,22 @@
+{
+  "id": "highfive-nl",
+  "sourceTextHash": "45f97702796ae63b507e80cf353f9a439c365db543dd8de08f48385e8d41230d",
+  "targetLang": "nl",
+  "translatedText": "[Mock Nederlands] Highfive is a video-conferencing software developed by Dialpad. Video conferencing solution with hardware for meeting rooms.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "highfive"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

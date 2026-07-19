@@ -1,0 +1,22 @@
+{
+  "id": "cisco-webex-suite-nl",
+  "sourceTextHash": "336547b93ea103d6b454958d169c179c7587507bdc26d45ca83510519063e277",
+  "targetLang": "nl",
+  "translatedText": "[Mock Nederlands] Cisco Webex Suite is a video-conferencing software developed by Cisco. All-in-one suite of Webex meetings, messaging, and calling.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "cisco-webex-suite"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

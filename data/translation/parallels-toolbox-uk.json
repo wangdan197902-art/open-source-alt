@@ -1,0 +1,22 @@
+{
+  "id": "parallels-toolbox-uk",
+  "sourceTextHash": "1e04dfa73ecdc39f22c35c282567a6fa269bb075a1c0a6dfb08abc9ffc7deb56",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Parallels Toolbox is a system-utilities software developed by Parallels. Suite of 30+ tools for Mac and Windows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "parallels-toolbox"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

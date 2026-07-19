@@ -1,0 +1,29 @@
+{
+  "id": "slack-enterprise-grid-educational-pl",
+  "softwareId": "slack-enterprise-grid",
+  "scenario": "educational",
+  "lang": "pl",
+  "title": "Edukacyjne przypadki użycia programu Slack Enterprise Grid",
+  "description": "Używaj programu Slack Enterprise Grid w scenariuszach edukacyjnych do grupy studyjne i współpraca na kursach.",
+  "useCaseDetails": {
+    "industry": "Business Communication",
+    "users": "Student teams, online course groups, educators",
+    "workflow": "Group project coordination, study groups, class announcements",
+    "benefits": "Facilitates collaborative learning and group work coordination"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

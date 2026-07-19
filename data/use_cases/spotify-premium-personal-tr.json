@@ -1,0 +1,29 @@
+{
+  "id": "spotify-premium-personal-tr",
+  "softwareId": "spotify-premium",
+  "scenario": "personal",
+  "lang": "tr",
+  "title": "Spotify Premium kişisel kullanım senaryoları",
+  "description": "Kişisel yaşamda kişisel medya kütüphanesi ve eğlence için Spotify Premium kullanın.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "General consumers, movie enthusiasts",
+    "workflow": "Personal media library, movie watching, music playback",
+    "benefits": "Free high-quality media playback for personal entertainment"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

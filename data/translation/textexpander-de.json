@@ -1,0 +1,22 @@
+{
+  "id": "textexpander-de",
+  "sourceTextHash": "d54b8c799bec20a003fe6907ff12965552824890d06899ee99d0811d50d6d02c",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] TextExpander is a system-utilities software developed by Smile. Text expansion tool for productivity.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "textexpander"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

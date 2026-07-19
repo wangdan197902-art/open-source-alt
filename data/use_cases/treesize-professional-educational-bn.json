@@ -1,0 +1,29 @@
+{
+  "id": "treesize-professional-educational-bn",
+  "softwareId": "treesize-professional",
+  "scenario": "educational",
+  "lang": "bn",
+  "title": "TreeSize Professional এর শিক্ষামূলক ব্যবহারের ক্ষেত্র",
+  "description": "শিক্ষামূলক পরিস্থিতিতে সিস্টেম প্রশাসন শিক্ষা এবং ল্যাব-এর জন্য TreeSize Professional ব্যবহার করুন।",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "IT students, sysadmin trainees",
+    "workflow": "Learning system administration, lab environments",
+    "benefits": "Practical experience with industry-standard utilities"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

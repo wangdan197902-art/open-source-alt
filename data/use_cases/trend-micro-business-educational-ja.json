@@ -1,0 +1,29 @@
+{
+  "id": "trend-micro-business-educational-ja",
+  "softwareId": "trend-micro-business",
+  "scenario": "educational",
+  "lang": "ja",
+  "title": "Trend Micro Apex One 教育使用例",
+  "description": "教育現場で Trend Micro Apex One を使ってセキュリティ教育と演習を行います。",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Cybersecurity students, security trainees",
+    "workflow": "Security training, lab exercises, certification prep",
+    "benefits": "Hands-on practice with industry-standard security tools"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

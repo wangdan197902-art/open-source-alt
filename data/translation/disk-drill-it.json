@@ -1,0 +1,22 @@
+{
+  "id": "disk-drill-it",
+  "sourceTextHash": "51e71c626e20ef799398f53680c62232c0ff80565572f5d9a2c09dc658686286",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Disk Drill is a system-utilities software developed by CleverFiles. Data recovery software for Mac and Windows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "disk-drill"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

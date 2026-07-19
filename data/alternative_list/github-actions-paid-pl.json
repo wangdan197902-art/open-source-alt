@@ -1,0 +1,54 @@
+{
+  "id": "github-actions-paid-alternatives-pl",
+  "softwareId": "github-actions-paid",
+  "lang": "pl",
+  "title": "Alternatywy open-source dla GitHub Actions (Paid)",
+  "description": "Poniżej znajduje się lista alternatyw open-source dla GitHub Actions (Paid), darmowych z aktywną społecznością.",
+  "alternatives": [
+    {
+      "opensourceId": "woodpecker-ci",
+      "opensourceName": "Woodpecker CI",
+      "matchScore": 0.95,
+      "reason": "Oficjalnie polecana alternatywa open-source, wysoć zgodna z GitHub Actions (Paid)"
+    },
+    {
+      "opensourceId": "dbeaver",
+      "opensourceName": "DBeaver",
+      "matchScore": 0.85,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "gitea",
+      "opensourceName": "Gitea",
+      "matchScore": 0.8,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "gitea-2",
+      "opensourceName": "Gitea",
+      "matchScore": 0.75,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "gitea-3",
+      "opensourceName": "Gitea",
+      "matchScore": 0.7,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

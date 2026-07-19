@@ -1,0 +1,22 @@
+{
+  "id": "camtasia-th",
+  "sourceTextHash": "d55784e742e35062329fdca74ff175ed0c8e755b359573e4a6f960fea069ae62",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Camtasia is a media-player software developed by TechSmith. Screen recording and video editing for tutorials.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "camtasia"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

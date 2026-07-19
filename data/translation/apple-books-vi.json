@@ -1,0 +1,22 @@
+{
+  "id": "apple-books-vi",
+  "sourceTextHash": "8596f36cfd2cd3d68d1c1407733e5c05811fb56e9eb82f942f52e226c4643cab",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Apple Books is a office-suite software developed by Apple. E-book reader and store app for Mac and iOS devices.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "apple-books"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

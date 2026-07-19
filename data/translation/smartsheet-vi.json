@@ -1,0 +1,22 @@
+{
+  "id": "smartsheet-vi",
+  "sourceTextHash": "a238b2f0f0d136e9360cb76b8f05af6d9c6eed819f7710e1b6cbd6ebf43dd884",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Smartsheet is a office-suite software developed by Smartsheet. Spreadsheet-driven work execution and project management platform.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "smartsheet"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

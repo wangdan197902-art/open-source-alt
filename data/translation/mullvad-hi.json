@@ -1,0 +1,22 @@
+{
+  "id": "mullvad-hi",
+  "sourceTextHash": "06b0a10c06637408f457a0d5540c3a3890a976617c1298af32b5e4c905ed474e",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Mullvad VPN is a security-software software developed by Mullvad. Privacy-first VPN with anonymous account numbers.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mullvad"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

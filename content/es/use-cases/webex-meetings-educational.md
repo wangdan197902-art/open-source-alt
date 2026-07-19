@@ -1,0 +1,34 @@
+---
+title: "Casos de uso educativo de Cisco Webex Meetings"
+date: "2026-07-19"
+draft: false
+description: "Usa Cisco Webex Meetings en entornos educativos para clases en línea y educación a distancia."
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "webex-meetings"
+scenario: "educational"
+type: "use-case"
+use-case:
+  - educational
+tags:
+  - webex-meetings
+  - educational
+  - Communication & Collaboration
+categories:
+  - Communication & Collaboration
+---
+
+# Casos de uso educativo de Cisco Webex Meetings
+
+**Usa Cisco Webex Meetings en entornos educativos para clases en línea y educación a distancia.**
+
+## Use Case Details
+
+- **Industry**: Communication & Collaboration
+- **Users**: Online students, remote educators, trainers
+- **Workflow**: Online classes, virtual office hours, remote tutoring
+- **Benefits**: Enables remote learning and global education access
+
+## Software
+
+View [Open Source Alternatives for webex-meetings](../../alternatives/webex-meetings/) and [Similar Software to webex-meetings](../../similar/webex-meetings/).

@@ -1,0 +1,27 @@
+{
+  "id": "phraseexpress-pro-screenshot",
+  "type": "screenshot",
+  "prompt": "PhraseExpress Pro 工作界面截图，展示主要功能与操作面板（Mock 生成）",
+  "modelUsed": "agnes-2.0-flash-mock",
+  "url": "https://ossaf.local/images/screenshots/phraseexpress-pro.png",
+  "altText": "PhraseExpress Pro 界面截图",
+  "licenseInfo": "fair-use-for-comparison",
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "width": 1920,
+    "height": 1080,
+    "softwareId": "phraseexpress-pro",
+    "actualImageGenerated": false
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "url",
+      "modelUsed"
+    ],
+    "confidence": "medium"
+  }
+}

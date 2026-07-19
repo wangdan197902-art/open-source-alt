@@ -1,0 +1,29 @@
+{
+  "id": "vnc-connect-educational-es",
+  "softwareId": "vnc-connect",
+  "scenario": "educational",
+  "lang": "es",
+  "title": "Casos de uso educativo de VNC Connect",
+  "description": "Usa VNC Connect en entornos educativos para clases en línea y educación a distancia.",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Online students, remote educators, trainers",
+    "workflow": "Online classes, virtual office hours, remote tutoring",
+    "benefits": "Enables remote learning and global education access"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

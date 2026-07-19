@@ -1,0 +1,22 @@
+{
+  "id": "splashtop-business-es",
+  "sourceTextHash": "d3401145f8cead4573da6c6994d020c7a03fd7c6c482e6f802d94d42a65383b7",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Splashtop Business Pro is a system-utilities software developed by Splashtop. Remote access with multi-monitor support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "splashtop-business"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

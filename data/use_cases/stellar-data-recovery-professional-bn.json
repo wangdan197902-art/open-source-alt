@@ -1,0 +1,29 @@
+{
+  "id": "stellar-data-recovery-professional-bn",
+  "softwareId": "stellar-data-recovery",
+  "scenario": "professional",
+  "lang": "bn",
+  "title": "Stellar Data Recovery এর পেশাদার ব্যবহারের ক্ষেত্র",
+  "description": "পেশাদার কাজে সিস্টেম মনিটরিং এবং ফাইল ব্যবস্থাপনা-এর জন্য Stellar Data Recovery ব্যবহার করুন।",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "System admins, IT operations, DevOps engineers",
+    "workflow": "System monitoring, file management, automation scripts",
+    "benefits": "Streamlines system administration and operational efficiency"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

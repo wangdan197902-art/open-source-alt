@@ -1,0 +1,22 @@
+{
+  "id": "sap-jam-uk",
+  "sourceTextHash": "463f61189ed286d31c96b56197d52f7fb3a266e61dba9fe5401ab45872429963",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] SAP Jam is a team-communication software developed by SAP. Enterprise social collaboration integrated with SAP business apps.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "sap-jam"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

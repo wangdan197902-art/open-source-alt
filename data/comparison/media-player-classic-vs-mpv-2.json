@@ -1,0 +1,64 @@
+{
+  "id": "media-player-classic-vs-mpv-2",
+  "proprietaryId": "media-player-classic",
+  "openSourceId": "mpv-2",
+  "featureComparison": [
+    {
+      "feature": "核心功能",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "yes"
+    },
+    {
+      "feature": "高级功能",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "partial",
+      "notes": "mpv 在高级功能上弱于 Media Player Classic Home Cinema"
+    },
+    {
+      "feature": "跨平台支持",
+      "proprietarySupport": "yes",
+      "openSourceSupport": "yes"
+    }
+  ],
+  "pros": [
+    "mpv 完全开源免费",
+    "mpv 跨平台支持",
+    "无订阅费用",
+    "社区活跃"
+  ],
+  "cons": [
+    "mpv 学习曲线较陡",
+    "部分高级功能缺失",
+    "企业级支持有限"
+  ],
+  "migrationDifficulty": "medium",
+  "useCases": [
+    "个人用户",
+    "教育用途",
+    "预算有限的团队",
+    "开源爱好者"
+  ],
+  "aiGenerated": true,
+  "aiGeneratedDetails": {
+    "model": "agnes-2.0-flash-mock",
+    "generatedAt": "2026-07-19T02:19:40+00:00",
+    "promptHash": "sha256:5b21edf13e10307d3732b5298cf77ec639ddbe5f3b2c35bbb9e30af30ed69265",
+    "tokensUsed": 200
+  },
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19",
+    "rawResponseLength": 0
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "pros",
+      "cons",
+      "featureComparison"
+    ],
+    "confidence": "medium"
+  }
+}

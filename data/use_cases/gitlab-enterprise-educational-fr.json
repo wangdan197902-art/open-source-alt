@@ -1,0 +1,29 @@
+{
+  "id": "gitlab-enterprise-educational-fr",
+  "softwareId": "gitlab-enterprise",
+  "scenario": "educational",
+  "lang": "fr",
+  "title": "Cas d'usage éducatif de GitLab Enterprise",
+  "description": "Utilisez GitLab Enterprise dans un cadre éducatif pour enseignement de la programmation et apprentissage du code.",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "CS students, coding bootcamp learners, educators",
+    "workflow": "Learning programming, completing assignments, building portfolio projects",
+    "benefits": "Powerful learning environment with debugging and code completion"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

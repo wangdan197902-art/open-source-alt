@@ -1,0 +1,29 @@
+{
+  "id": "ayoa-professional-ar",
+  "softwareId": "ayoa",
+  "scenario": "professional",
+  "lang": "ar",
+  "title": "حالات الاستخدام المهنية لـ Ayoa",
+  "description": "استخدم Ayoa في العمل المهني لأجل تصميم الواجهات الجماعي والتعاون.",
+  "useCaseDetails": {
+    "industry": "Design & Product",
+    "users": "UI/UX designers, product teams, design leads",
+    "workflow": "Collaborative interface design, design system management, handoff to engineering",
+    "benefits": "Real-time collaboration reduces review cycles and improves design-to-dev handoff"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gotomypc-vi",
+  "sourceTextHash": "394655692e7c86086046ef763ef48232b6b57b5721cc3a18d7bf61e3e123f134",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] GoToMyPC is a video-conferencing software developed by GoTo. Remote desktop access for individuals and small businesses.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "gotomypc"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

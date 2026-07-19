@@ -1,0 +1,22 @@
+{
+  "id": "iwork-pages-it",
+  "sourceTextHash": "8c32b5dfdbfc10517341fc5aeabf6cd75e4f92d048a068f89f8c0412ff993522",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Apple Pages is a office-suite software developed by Apple. Mac word processor with templates and design tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "iwork-pages"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

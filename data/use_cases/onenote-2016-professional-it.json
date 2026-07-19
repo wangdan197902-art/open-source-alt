@@ -1,0 +1,29 @@
+{
+  "id": "onenote-2016-professional-it",
+  "softwareId": "onenote-2016",
+  "scenario": "professional",
+  "lang": "it",
+  "title": "Casi d'uso professionali di OneNote 2016",
+  "description": "Usa OneNote 2016 nel lavoro professionale per organizzazione di note e gestione dei progetti.",
+  "useCaseDetails": {
+    "industry": "Knowledge Work",
+    "users": "Knowledge workers, project managers, researchers",
+    "workflow": "Note organization, project documentation, knowledge bases",
+    "benefits": "Centralizes knowledge and improves information retrieval"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "lightroom-classic-ms",
+  "sourceTextHash": "27f7457426977c78722414b0730d2d69916864d8824d4016532cab9e5f451aa4",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Adobe Lightroom Classic is a image-editing software developed by Adobe. Desktop-first photo workflow centered around local catalogs.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "lightroom-classic"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

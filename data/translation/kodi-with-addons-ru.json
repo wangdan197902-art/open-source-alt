@@ -1,0 +1,22 @@
+{
+  "id": "kodi-with-addons-ru",
+  "sourceTextHash": "9b5836358cb3e5ff1af50b9294ef7dc7b7b927a864c08094c42e3667901668bb",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Kodi with Premium Add-ons is a media-player software developed by XBMC Foundation. Media center with third-party premium addon support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "kodi-with-addons"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

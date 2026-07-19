@@ -1,0 +1,22 @@
+{
+  "id": "bundle-notes-fr",
+  "sourceTextHash": "49811cfc53d314ca60d79a8c03cbf7bf24e6dacfc4571a5c5e766081136340ae",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] Bundle Notes is a note-taking software developed by Bundle. Workspace combining notes, tasks, and wikis in one app.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "bundle-notes"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

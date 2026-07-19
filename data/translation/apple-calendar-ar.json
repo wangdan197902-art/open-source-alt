@@ -1,0 +1,22 @@
+{
+  "id": "apple-calendar-ar",
+  "sourceTextHash": "a722af6e4416a3814422b3631237f3c749fc286164c931cb396036f7429d890c",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Apple Calendar is a office-suite software developed by Apple. Default calendar app for Mac and iOS with iCloud sync.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "apple-calendar"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

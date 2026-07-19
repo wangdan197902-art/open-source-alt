@@ -1,0 +1,28 @@
+---
+title: "Open-source alternatieven voor OneNote 2016"
+date: "2026-07-19"
+draft: false
+description: "Hieronder staat een lijst met open-source alternatieven voor OneNote 2016, gratis en met actieve community."
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "onenote-2016"
+type: "alternative-list"
+---
+
+# Open-source alternatieven voor OneNote 2016
+
+**Hieronder staat een lijst met open-source alternatieven voor OneNote 2016, gratis en met actieve community.**
+
+## Open Source Alternatives
+
+| Open Source Software | Match Score | Reason |
+|---------------------|-------------|--------|
+| Xournal++ | 95% | Officieel aanbevolen open-source alternatief, sterk compatibel met OneNote 2016 |
+| AFFiNE | 85% | Open-source software van dezelfde categorie, beschikbaar als alternatief |
+| Anytype | 80% | Open-source software van dezelfde categorie, beschikbaar als alternatief |
+| AppFlowy | 75% | Open-source software van dezelfde categorie, beschikbaar als alternatief |
+| AppFlowy | 70% | Open-source software van dezelfde categorie, beschikbaar als alternatief |
+
+## Related Pages
+
+- [Similar Software to onenote-2016](../../similar/onenote-2016/)

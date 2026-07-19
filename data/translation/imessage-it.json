@@ -1,0 +1,22 @@
+{
+  "id": "imessage-it",
+  "sourceTextHash": "838d44e9214da1e882da206a92ebe776c7de6d868c13d92856c4777c9005917d",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] iMessage is a team-communication software developed by Apple. Apple's built-in messaging service with end-to-end encryption.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "imessage"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

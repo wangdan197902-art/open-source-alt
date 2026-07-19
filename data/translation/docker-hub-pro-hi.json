@@ -1,0 +1,22 @@
+{
+  "id": "docker-hub-pro-hi",
+  "sourceTextHash": "70c032d7e9d83a6a6e7ef3d06c4d2ba8645a666ec4dd5acb8a421e0abe091887",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Docker Hub Pro is a development-tools software developed by Docker. Paid Docker Hub plan with private repos and unlimited pulls.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "docker-hub-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

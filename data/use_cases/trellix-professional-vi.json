@@ -1,0 +1,29 @@
+{
+  "id": "trellix-professional-vi",
+  "softwareId": "trellix",
+  "scenario": "professional",
+  "lang": "vi",
+  "title": "Tình huống sử dụng chuyên nghiệp của Trellix Endpoint Security",
+  "description": "Sử dụng Trellix Endpoint Security trong công việc chuyên nghiệp để phát hiện mối đe dọa và quét lỗ hổng.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Security analysts, IT admins, compliance officers",
+    "workflow": "Threat detection, vulnerability scanning, compliance auditing",
+    "benefits": "Enterprise-grade security for protecting organizational assets"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

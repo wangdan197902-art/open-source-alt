@@ -1,0 +1,22 @@
+{
+  "id": "handbrake-pro-cli-de",
+  "sourceTextHash": "e5d4209f642746114d6be9b2518cbcfea8647e9eedb8a051c034ef4727880a36",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] HandBrake Pro (CLI) is a media-player software developed by HandBrake. Paid video transcoding tool with batch processing.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "handbrake-pro-cli"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

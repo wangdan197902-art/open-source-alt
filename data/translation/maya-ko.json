@@ -1,0 +1,22 @@
+{
+  "id": "maya-ko",
+  "sourceTextHash": "a7de4cb220592465c40985d8b517a13bb606da1d388139277f5a2826e25a0926",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] Autodesk Maya is a image-editing software developed by Autodesk. 3D animation, modeling, simulation, and rendering software.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "maya"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

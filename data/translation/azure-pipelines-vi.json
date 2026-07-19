@@ -1,0 +1,22 @@
+{
+  "id": "azure-pipelines-vi",
+  "sourceTextHash": "b874a629393d56457ebc0a1ab47ee3ced029aaeb90195155944f43ae27bb2886",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Azure Pipelines is a development-tools software developed by Microsoft. Cloud CI/CD service for building, testing, and deploying apps.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "azure-pipelines"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

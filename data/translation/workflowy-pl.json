@@ -1,0 +1,22 @@
+{
+  "id": "workflowy-pl",
+  "sourceTextHash": "2334fe143b42ee9ce90eb69e5471dec4c366c1120f03e96c1b2364cd39b01a48",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Workflowy is a note-taking software developed by Workflowy. Fractal outliner for lists, notes, and team collaboration.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "workflowy"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

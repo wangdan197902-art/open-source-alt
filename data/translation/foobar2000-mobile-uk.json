@@ -1,0 +1,22 @@
+{
+  "id": "foobar2000-mobile-uk",
+  "sourceTextHash": "28dc862eb7bea40004ecd4f418807fb7fa204bc72b001dc48ec0d600c9ce2055",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] foobar2000 Mobile Pro is a media-player software developed by foobar2000. Advanced mobile audio player with format conversion.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "foobar2000-mobile"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ringcentral-app-id",
+  "sourceTextHash": "b7c3895e92e5f25e0e13d66a7feed66b2ded333afda065d5669a681f3828a274",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] RingCentral App is a team-communication software developed by RingCentral. Team messaging, video, and phone in one collaboration app.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "ringcentral-app"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

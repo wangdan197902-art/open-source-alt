@@ -1,0 +1,22 @@
+{
+  "id": "iwork-numbers-th",
+  "sourceTextHash": "4d260af43f476e9fbfa316ff1d9cf9326c6dba1a9546abfd2382ddff9e65ed6a",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Apple Numbers is a office-suite software developed by Apple. Mac spreadsheet app with templates and interactive charts.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "iwork-numbers"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

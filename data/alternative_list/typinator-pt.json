@@ -1,0 +1,54 @@
+{
+  "id": "typinator-alternatives-pt",
+  "softwareId": "typinator",
+  "lang": "pt",
+  "title": "Alternativas de código aberto para Typinator",
+  "description": "Abaixo está uma lista de alternativas de código aberto para Typinator, gratuitas e com comunidade ativa.",
+  "alternatives": [
+    {
+      "opensourceId": "espanso-2",
+      "opensourceName": "espanso",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código aberto oficialmente recomendada, altamente compatível com Typinator"
+    },
+    {
+      "opensourceId": "albert",
+      "opensourceName": "Albert",
+      "matchScore": 0.85,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "albert-2",
+      "opensourceName": "Albert",
+      "matchScore": 0.8,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "albert-3",
+      "opensourceName": "Albert",
+      "matchScore": 0.75,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "baobab",
+      "opensourceName": "Baobab (Disk Usage Analyzer)",
+      "matchScore": 0.7,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

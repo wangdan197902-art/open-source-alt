@@ -1,0 +1,22 @@
+{
+  "id": "anydesk-nl",
+  "sourceTextHash": "86b83e6016f9c1ae279c37ecb4bb5f63df0a2574022b23a8a9890d9dfc246a4f",
+  "targetLang": "nl",
+  "translatedText": "[Mock Nederlands] AnyDesk is a video-conferencing software developed by AnyDesk Software. Lightweight remote desktop software with low latency.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "anydesk"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

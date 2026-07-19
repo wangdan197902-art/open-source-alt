@@ -1,0 +1,22 @@
+{
+  "id": "zoho-workspace-ko",
+  "sourceTextHash": "a37c677a43ae278ac5dbadbb40884034e756dc9cad6647c74ba386787bd15e5b",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] Zoho Workplace is a office-suite software developed by Zoho. Office suite with email, docs, and collaboration tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zoho-workspace"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

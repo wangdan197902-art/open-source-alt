@@ -1,0 +1,22 @@
+{
+  "id": "premiere-rush-ru",
+  "sourceTextHash": "32abb9b41883a7a18f67ee8cf963681dcdde7e1dbe026e38c1d56d9ae148796f",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Adobe Premiere Rush is a media-player software developed by Adobe. Simplified video editor for social media content.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "premiere-rush"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

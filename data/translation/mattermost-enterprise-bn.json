@@ -1,0 +1,22 @@
+{
+  "id": "mattermost-enterprise-bn",
+  "sourceTextHash": "fe8a02944cc6bb012ea8040a548eb8c1c64c69cdb1f4a8f4ed42e245c1a4847e",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Mattermost Enterprise is a team-communication software developed by Mattermost. Enterprise edition of Mattermost with advanced security and compliance.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mattermost-enterprise"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "beyond-compare-fr",
+  "sourceTextHash": "8811fc871ae817cb4c41fc54b6f509beacd55e68c33c7209ca9be3d2b6db857b",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] Beyond Compare is a development-tools software developed by Scooter Software. File and folder comparison tool with merge support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "beyond-compare"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

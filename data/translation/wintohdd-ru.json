@@ -1,0 +1,22 @@
+{
+  "id": "wintohdd-ru",
+  "sourceTextHash": "96502561c18048ae8430d0ad0bbef822df8b4dbc81c6cba4f0e7e584ea1f76bb",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] WinToHDD is a system-utilities software developed by Hasleo Software. Reinstall Windows without CD/DVD or USB.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "wintohdd"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "alfred-powerpack-ms",
+  "sourceTextHash": "b036f6e1cc651be83e11b810c25936721df3e936ba152a4c5fdaaae9ada6e09e",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Alfred Powerpack is a system-utilities software developed by Running with Crayons. Premium Mac launcher with workflows and clipboard.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "alfred-powerpack"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

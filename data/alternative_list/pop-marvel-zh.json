@@ -1,0 +1,54 @@
+{
+  "id": "pop-marvel-alternatives-zh",
+  "softwareId": "pop-marvel",
+  "lang": "zh",
+  "title": "POP by Marvel 的开源替代方案",
+  "description": "以下是 POP by Marvel 的开源替代方案列表，可免费使用且社区活跃。",
+  "alternatives": [
+    {
+      "opensourceId": "penpot-15",
+      "opensourceName": "Penpot",
+      "matchScore": 0.95,
+      "reason": "官方推荐的开源替代品，功能与 POP by Marvel 高度匹配"
+    },
+    {
+      "opensourceId": "drawio",
+      "opensourceName": "draw.io",
+      "matchScore": 0.85,
+      "reason": "同类开源软件，可作为备选方案"
+    },
+    {
+      "opensourceId": "drawio-2",
+      "opensourceName": "draw.io",
+      "matchScore": 0.8,
+      "reason": "同类开源软件，可作为备选方案"
+    },
+    {
+      "opensourceId": "drawio-3",
+      "opensourceName": "draw.io",
+      "matchScore": 0.75,
+      "reason": "同类开源软件，可作为备选方案"
+    },
+    {
+      "opensourceId": "drawio-4",
+      "opensourceName": "draw.io",
+      "matchScore": 0.7,
+      "reason": "同类开源软件，可作为备选方案"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

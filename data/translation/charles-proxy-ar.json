@@ -1,0 +1,22 @@
+{
+  "id": "charles-proxy-ar",
+  "sourceTextHash": "42e10140ebe7a8cf242f3b26e9a0dece0f0446d25fce2b46732d83a920f0499e",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Charles Proxy is a development-tools software developed by XK72. Web debugging proxy for HTTP/HTTPS traffic inspection.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "charles-proxy"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

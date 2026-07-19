@@ -1,0 +1,22 @@
+{
+  "id": "justinmind-es",
+  "sourceTextHash": "14dbf12717f1b78f60f2ecf5f84fe6b84df2bafd6ce5efc7f561a3aa6c0bf8a8",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Justinmind is a design-collaboration software developed by Justinmind. Prototyping tool for web and mobile apps with rich interactions.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "justinmind"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

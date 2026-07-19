@@ -1,0 +1,22 @@
+{
+  "id": "vnc-connect-bn",
+  "sourceTextHash": "4a7eacc498cce6d9a61c50d2f0a0a9e88202abab2d0141210f624a7b9cc782ab",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] VNC Connect is a video-conferencing software developed by RealVNC. VNC-based remote access with cloud connectivity and security.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "vnc-connect"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

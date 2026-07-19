@@ -1,0 +1,22 @@
+{
+  "id": "asana-ja",
+  "sourceTextHash": "1161d2060517e8b6a87e560a1a74b19f378a0c510451c1054b6202b096e31266",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Asana is a development-tools software developed by Asana. Work management platform for tracking tasks and projects.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "asana"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

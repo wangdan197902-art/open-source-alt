@@ -1,0 +1,22 @@
+{
+  "id": "norton-360-ja",
+  "sourceTextHash": "ed47fffe248899f0aa62240dcd14a13f8d1ea15da37b81441bff6794074d5dc1",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Norton 360 is a security-software software developed by NortonLifeLock. All-in-one antivirus with VPN, cloud backup, and password manager.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "norton-360"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

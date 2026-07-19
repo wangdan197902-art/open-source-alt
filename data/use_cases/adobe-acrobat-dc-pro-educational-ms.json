@@ -1,0 +1,29 @@
+{
+  "id": "adobe-acrobat-dc-pro-educational-ms",
+  "softwareId": "adobe-acrobat-dc-pro",
+  "scenario": "educational",
+  "lang": "ms",
+  "title": "Kes penggunaan pendidikan Adobe Acrobat Pro DC (Redaction)",
+  "description": "Gunakan Adobe Acrobat Pro DC (Redaction) dalam senario pendidikan untuk latihan keselamatan dan latihan makmal.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Cybersecurity students, security trainees",
+    "workflow": "Security training, lab exercises, certification prep",
+    "benefits": "Hands-on practice with industry-standard security tools"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

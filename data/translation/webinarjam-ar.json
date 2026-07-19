@@ -1,0 +1,22 @@
+{
+  "id": "webinarjam-ar",
+  "sourceTextHash": "26163cd805fb282f0b59b604c95df3e3ec15429dab1a441b652c35501542a878",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] WebinarJam is a video-conferencing software developed by WebinarJam. Live webinar platform with broadcasts and interactive features.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "webinarjam"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

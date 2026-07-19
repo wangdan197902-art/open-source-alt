@@ -1,0 +1,22 @@
+{
+  "id": "adobe-connect-es",
+  "sourceTextHash": "55c41f1b813e412d06b14824552ac004b0fd8409b0ed73b622800f47e874fd99",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Adobe Connect is a video-conferencing software developed by Adobe. Web conferencing for online training, webinars, and meetings.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "adobe-connect"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

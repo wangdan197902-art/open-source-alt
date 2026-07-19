@@ -1,0 +1,22 @@
+{
+  "id": "textpad-de",
+  "sourceTextHash": "a596b5bce3eea3f7db7466e1def5e38e9ab19036231c7beec408920347c808d3",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] TextPad is a development-tools software developed by Helios Software Solutions. Windows text editor for programmers with macros and tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "textpad"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

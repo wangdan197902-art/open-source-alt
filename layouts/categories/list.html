@@ -1,0 +1,43 @@
+{{ partial "head.html" . }}
+<body>
+{{ partial "dev-preview-banner.html" . }}
+{{ partial "header.html" . }}
+
+<main class="container main-content">
+  <section class="list-section">
+    <header class="list-header">
+      <h1>{{ .Title | default "Categories" }}</h1>
+      {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+    </header>
+
+    {{ .Content }}
+
+    {{ if .Data.Terms }}
+    {{/* Taxonomy 根页面：列出所有 term（不分页，因 term 数量有限） */}}
+    <ul class="category-list">
+      {{ range .Data.Terms.Alphabetical }}
+      <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+      {{ end }}
+    </ul>
+    {{ else if .Pages }}
+    {{/* Term 详情页：列出该 category 关联的所有页面（启用分页） */}}
+    <p class="result-count">
+      {{ i18n "total_results" | default "共" }} {{ .Paginator.TotalNumberOfElements }} {{ i18n "items" | default "条" }}
+    </p>
+
+    <div class="card-grid">
+      {{ range .Paginator.Pages }}
+        {{ partial "alternative-card.html" . }}
+      {{ end }}
+    </div>
+
+    {{ template "_default/pagination.html" . }}
+    {{ else }}
+    <p>{{ i18n "no_alternatives" | default "暂无收录内容" }}</p>
+    {{ end }}
+  </section>
+</main>
+
+{{ partial "footer.html" . }}
+</body>
+</html>

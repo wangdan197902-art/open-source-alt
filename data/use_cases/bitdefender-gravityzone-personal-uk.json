@@ -1,0 +1,29 @@
+{
+  "id": "bitdefender-gravityzone-personal-uk",
+  "softwareId": "bitdefender-gravityzone",
+  "scenario": "personal",
+  "lang": "uk",
+  "title": "Особисті сценарії використання Bitdefender GravityZone",
+  "description": "Використовуйте Bitdefender GravityZone в особистому житті для захист особистих пристроїв та безпеку конфіденційності.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Home users, privacy-conscious individuals",
+    "workflow": "Personal device protection, privacy tools, secure browsing",
+    "benefits": "Protects personal data and online privacy"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

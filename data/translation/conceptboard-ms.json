@@ -1,0 +1,22 @@
+{
+  "id": "conceptboard-ms",
+  "sourceTextHash": "405456f8732f73d4a2355896dbca3f1424ac6e6156190c0e618e638fb0d7f396",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Conceptboard is a design-collaboration software developed by Conceptboard. Visual collaboration platform for teams and creative workflows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "conceptboard"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

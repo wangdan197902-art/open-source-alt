@@ -1,0 +1,54 @@
+{
+  "id": "zoom-webinar-alternatives-es",
+  "softwareId": "zoom-webinar",
+  "lang": "es",
+  "title": "Alternativas de código abierto para Zoom Webinars",
+  "description": "A continuación se muestra una lista de alternativas de código abierto para Zoom Webinars, gratuitas y con comunidad activa.",
+  "alternatives": [
+    {
+      "opensourceId": "bigbluebutton-4",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código abierto recomendada oficialmente, altamente compatible con Zoom Webinars"
+    },
+    {
+      "opensourceId": "bigbluebutton",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.85,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "bigbluebutton-10",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.8,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "bigbluebutton-11",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.75,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "bigbluebutton-12",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.7,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

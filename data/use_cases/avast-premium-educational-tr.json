@@ -1,0 +1,29 @@
+{
+  "id": "avast-premium-educational-tr",
+  "softwareId": "avast-premium",
+  "scenario": "educational",
+  "lang": "tr",
+  "title": "Avast Premium Security eğitim kullanım senaryoları",
+  "description": "Eğitim senaryolarında güvenlik eğitimi ve laboratuvar alıştırmaları için Avast Premium Security kullanın.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Cybersecurity students, security trainees",
+    "workflow": "Security training, lab exercises, certification prep",
+    "benefits": "Hands-on practice with industry-standard security tools"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

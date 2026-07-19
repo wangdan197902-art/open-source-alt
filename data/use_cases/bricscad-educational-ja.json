@@ -1,0 +1,29 @@
+{
+  "id": "bricscad-educational-ja",
+  "softwareId": "bricscad",
+  "scenario": "educational",
+  "lang": "ja",
+  "title": "BricsCAD 教育使用例",
+  "description": "教育現場で BricsCAD を使って画像処理の教育と学習を行います。",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Design students, educators, beginners",
+    "workflow": "Learning image editing fundamentals, classroom demonstrations, assignments",
+    "benefits": "Build foundational skills for design careers and creative projects"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

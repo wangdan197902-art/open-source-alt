@@ -1,0 +1,22 @@
+{
+  "id": "devonthink-fr",
+  "sourceTextHash": "f65862ed67eaddc13796f183109d7c33df71cbabb46162b0511d76fe9584dc67",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] DEVONthink is a note-taking software developed by DEVONtechnologies. Document management and AI-assisted knowledge base for Mac.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "devonthink"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

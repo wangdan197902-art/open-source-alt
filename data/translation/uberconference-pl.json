@@ -1,0 +1,22 @@
+{
+  "id": "uberconference-pl",
+  "sourceTextHash": "71256ff5acb90a98870fc3efedeccb7b784b4d9cdec35eed54e60f0d4207b609",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] UberConference is a video-conferencing software developed by Dialpad. Free conference call service with screen sharing and PIN-less entry.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "uberconference"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

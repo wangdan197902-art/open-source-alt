@@ -1,0 +1,54 @@
+{
+  "id": "final-cut-pro-alternatives-de",
+  "softwareId": "final-cut-pro",
+  "lang": "de",
+  "title": "Open-Source-Alternativen zu Final Cut Pro",
+  "description": "Nachfolgend finden Sie eine Liste von Open-Source-Alternativen zu Final Cut Pro, die kostenlos sind und eine aktive Community haben.",
+  "alternatives": [
+    {
+      "opensourceId": "kdenlive",
+      "opensourceName": "Kdenlive",
+      "matchScore": 0.95,
+      "reason": "Offiziell empfohlene Open-Source-Alternative, stark kompatibel mit Final Cut Pro"
+    },
+    {
+      "opensourceId": "ardour",
+      "opensourceName": "Ardour",
+      "matchScore": 0.85,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "ardour-2",
+      "opensourceName": "Ardour",
+      "matchScore": 0.8,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "ardour-3",
+      "opensourceName": "Ardour",
+      "matchScore": 0.75,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "ardour-4",
+      "opensourceName": "Ardour",
+      "matchScore": 0.7,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

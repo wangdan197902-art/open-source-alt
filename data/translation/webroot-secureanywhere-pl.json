@@ -1,0 +1,22 @@
+{
+  "id": "webroot-secureanywhere-pl",
+  "sourceTextHash": "531dd41ed3ffaaa55e17745f9ce50a9cf0aac7731b1c7b1c65bacee5d5d1a6ce",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Webroot SecureAnywhere is a security-software software developed by Webroot. Lightweight cloud-based antivirus with fast scans.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "webroot-secureanywhere"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

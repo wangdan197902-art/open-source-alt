@@ -1,0 +1,22 @@
+{
+  "id": "everything-search-zh",
+  "sourceTextHash": "dc5b318722497707be01e407af28d73a8eb6358a3222abbf5545825a38e98cb0",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] Everything (Power Toys) is a system-utilities software developed by voidtools. Instant file search for Windows with index.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "everything-search"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

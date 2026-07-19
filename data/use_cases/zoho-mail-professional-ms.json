@@ -1,0 +1,29 @@
+{
+  "id": "zoho-mail-professional-ms",
+  "softwareId": "zoho-mail",
+  "scenario": "professional",
+  "lang": "ms",
+  "title": "Kes penggunaan profesional Zoho Mail",
+  "description": "Gunakan Zoho Mail dalam kerja profesional untuk dokumen pejabat dan hamparan.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Business professionals, analysts, administrators",
+    "workflow": "Document creation, spreadsheet analysis, presentations",
+    "benefits": "Standard productivity suite for business document workflows"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

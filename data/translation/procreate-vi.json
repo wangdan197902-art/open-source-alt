@@ -1,0 +1,22 @@
+{
+  "id": "procreate-vi",
+  "sourceTextHash": "90f5ea6472cee9d6cb0d6265c0d5bfaa838b0bb4e2ee68425d02d4e3948fb2fc",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Procreate is a image-editing software developed by Savage Interactive. iPad painting and illustration app with brush studio.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "procreate"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

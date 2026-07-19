@@ -1,0 +1,22 @@
+{
+  "id": "dxo-pureraw-ms",
+  "sourceTextHash": "3a21d4fc7be25c43161bc332abb5f6321b6eb113913d9ca2237d2445a2baed8d",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] DxO PureRAW is a image-editing software developed by DxO Labs. RAW preprocessing tool for noise reduction and lens correction.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "dxo-pureraw"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

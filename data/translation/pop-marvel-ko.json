@@ -1,0 +1,22 @@
+{
+  "id": "pop-marvel-ko",
+  "sourceTextHash": "98545a4dd3b289dcacdd7621cb66db749c103627107625ee8799e206474ed967",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] POP by Marvel is a design-collaboration software developed by Marvel Prototyping. Turn paper sketches into interactive prototypes with the phone.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "pop-marvel"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

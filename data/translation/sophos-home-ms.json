@@ -1,0 +1,22 @@
+{
+  "id": "sophos-home-ms",
+  "sourceTextHash": "ec1a053df894d130a2b60e555f0b04973b7bb42604dffd9caebf7593daba090b",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Sophos Home Premium is a security-software software developed by Sophos. Business-grade antivirus with AI threat detection.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "sophos-home"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "everwebinar-similar-nl",
+  "softwareId": "everwebinar",
+  "lang": "nl",
+  "title": "Software vergelijkbaar met EverWebinar",
+  "description": "Hieronder staat een lijst met software vergelijkbaar met EverWebinar.",
+  "similarSoftware": [
+    {
+      "id": "8x8-meet",
+      "name": "8x8 Meet",
+      "similarity": 0.95
+    },
+    {
+      "id": "adobe-connect",
+      "name": "Adobe Connect",
+      "similarity": 0.89
+    },
+    {
+      "id": "anydesk",
+      "name": "AnyDesk",
+      "similarity": 0.82
+    },
+    {
+      "id": "appear-in",
+      "name": "appear.in",
+      "similarity": 0.76
+    },
+    {
+      "id": "around",
+      "name": "Around",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

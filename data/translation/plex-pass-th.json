@@ -1,0 +1,22 @@
+{
+  "id": "plex-pass-th",
+  "sourceTextHash": "d2bf925420b75b9bcd6aad017ae259160d542d0a900ea97d5a094d88d6b741ff",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Plex Pass is a media-player software developed by Plex. Premium media server with hardware transcoding and DVR.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "plex-pass"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

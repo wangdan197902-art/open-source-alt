@@ -1,0 +1,22 @@
+{
+  "id": "axure-rp-it",
+  "sourceTextHash": "e4e71796d17f18e0fd9312fb82c8eedda0bef534aeb886f0bce28d0d837a4d69",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Axure RP is a design-collaboration software developed by Axure Software Solutions. Wireframe and prototype tool with documentation and specs.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "axure-rp"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

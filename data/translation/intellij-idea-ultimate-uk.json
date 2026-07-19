@@ -1,0 +1,22 @@
+{
+  "id": "intellij-idea-ultimate-uk",
+  "sourceTextHash": "dc70e17e4dfc07abaf695c0e6fc335c4dd115e135ad29c893cb58417c0ae3414",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] IntelliJ IDEA Ultimate is a development-tools software developed by JetBrains. Commercial Java IDE with web and enterprise frameworks support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "intellij-idea-ultimate"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

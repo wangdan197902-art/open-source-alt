@@ -1,0 +1,22 @@
+{
+  "id": "google-meet-ru",
+  "sourceTextHash": "31047dc43bcf34df2ac699a5fe23b6bdc193f0d5c3921fb161c3d73d4bf8e87d",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Google Meet is a video-conferencing software developed by Google. Video meeting service integrated with Google Workspace.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-meet"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,24 @@
+{{- /*
+   layouts/partials/search.html
+   搜索组件 partial
+   在需要搜索功能的页面引入：{{ partial "search.html" . }}
+   依赖：static/js/fuse.basic.min.js、static/js/search.js、static/css/search.css
+*/ -}}
+<div class="search-container" id="search-container">
+  <div class="search-box">
+    <span class="search-icon" aria-hidden="true">🔍</span>
+    <input
+      type="text"
+      id="search-input"
+      class="search-input"
+      placeholder="{{ i18n "search_placeholder" | default "搜索商业软件或开源替代方案..." }}"
+      autocomplete="off"
+      aria-label="{{ i18n "search_label" | default "搜索" }}"
+    >
+    <button class="search-clear" id="search-clear" type="button" aria-label="{{ i18n "search_clear" | default "清除搜索" }}" style="display:none;">×</button>
+  </div>
+  <div class="search-results" id="search-results" role="listbox" aria-label="{{ i18n "search_results" | default "搜索结果" }}"></div>
+</div>
+
+<script src="{{ "js/fuse.basic.min.js" | relURL }}"></script>
+<script src="{{ "js/search.js" | relURL }}"></script>

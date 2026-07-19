@@ -1,0 +1,49 @@
+{
+  "id": "8x8-meet-similar-ar",
+  "softwareId": "8x8-meet",
+  "lang": "ar",
+  "title": "برامج مشابهة لـ 8x8 Meet",
+  "description": "فيما يلي قائمة بالبرامج المشابهة لـ 8x8 Meet.",
+  "similarSoftware": [
+    {
+      "id": "adobe-connect",
+      "name": "Adobe Connect",
+      "similarity": 0.95
+    },
+    {
+      "id": "anydesk",
+      "name": "AnyDesk",
+      "similarity": 0.89
+    },
+    {
+      "id": "appear-in",
+      "name": "appear.in",
+      "similarity": 0.82
+    },
+    {
+      "id": "around",
+      "name": "Around",
+      "similarity": 0.76
+    },
+    {
+      "id": "blackboard-collaborate",
+      "name": "Blackboard Collaborate",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

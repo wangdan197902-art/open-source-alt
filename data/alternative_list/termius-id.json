@@ -1,0 +1,54 @@
+{
+  "id": "termius-alternatives-id",
+  "softwareId": "termius",
+  "lang": "id",
+  "title": "Alternatif open-source untuk Termius",
+  "description": "Berikut adalah daftar alternatif open-source untuk Termius, gratis dengan komunitas aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "openssh-2",
+      "opensourceName": "OpenSSH",
+      "matchScore": 0.95,
+      "reason": "Alternatif open-source yang direkomendasikan secara resmi, sangat kompatibel dengan Termius"
+    },
+    {
+      "opensourceId": "dbeaver",
+      "opensourceName": "DBeaver",
+      "matchScore": 0.85,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "gitea",
+      "opensourceName": "Gitea",
+      "matchScore": 0.8,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "gitea-2",
+      "opensourceName": "Gitea",
+      "matchScore": 0.75,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "gitea-3",
+      "opensourceName": "Gitea",
+      "matchScore": 0.7,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

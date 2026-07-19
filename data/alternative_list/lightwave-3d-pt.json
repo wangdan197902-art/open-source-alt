@@ -1,0 +1,54 @@
+{
+  "id": "lightwave-3d-alternatives-pt",
+  "softwareId": "lightwave-3d",
+  "lang": "pt",
+  "title": "Alternativas de código aberto para LightWave 3D",
+  "description": "Abaixo está uma lista de alternativas de código aberto para LightWave 3D, gratuitas e com comunidade ativa.",
+  "alternatives": [
+    {
+      "opensourceId": "blender-5",
+      "opensourceName": "Blender",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código aberto oficialmente recomendada, altamente compatível com LightWave 3D"
+    },
+    {
+      "opensourceId": "armorpaint",
+      "opensourceName": "ArmorPaint",
+      "matchScore": 0.85,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "blender",
+      "opensourceName": "Blender",
+      "matchScore": 0.8,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "blender-10",
+      "opensourceName": "Blender",
+      "matchScore": 0.75,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "blender-11",
+      "opensourceName": "Blender",
+      "matchScore": 0.7,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "corel-videostudio-alternatives-fr",
+  "softwareId": "corel-videostudio",
+  "lang": "fr",
+  "title": "Alternatives open-source pour Corel VideoStudio",
+  "description": "Voici une liste d'alternatives open-source pour Corel VideoStudio, gratuites avec une communauté active.",
+  "alternatives": [
+    {
+      "opensourceId": "kdenlive-5",
+      "opensourceName": "Kdenlive",
+      "matchScore": 0.95,
+      "reason": "Alternative open-source officiellement recommandée, hautement compatible avec Corel VideoStudio"
+    },
+    {
+      "opensourceId": "ardour",
+      "opensourceName": "Ardour",
+      "matchScore": 0.85,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "ardour-2",
+      "opensourceName": "Ardour",
+      "matchScore": 0.8,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "ardour-3",
+      "opensourceName": "Ardour",
+      "matchScore": 0.75,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "ardour-4",
+      "opensourceName": "Ardour",
+      "matchScore": 0.7,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

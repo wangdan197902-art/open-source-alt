@@ -1,0 +1,54 @@
+{
+  "id": "kodi-with-addons-alternatives-pl",
+  "softwareId": "kodi-with-addons",
+  "lang": "pl",
+  "title": "Alternatywy open-source dla Kodi with Premium Add-ons",
+  "description": "Poniżej znajduje się lista alternatyw open-source dla Kodi with Premium Add-ons, darmowych z aktywną społecznością.",
+  "alternatives": [
+    {
+      "opensourceId": "kodi-2",
+      "opensourceName": "Kodi",
+      "matchScore": 0.95,
+      "reason": "Oficjalnie polecana alternatywa open-source, wysoć zgodna z Kodi with Premium Add-ons"
+    },
+    {
+      "opensourceId": "ardour",
+      "opensourceName": "Ardour",
+      "matchScore": 0.85,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "ardour-2",
+      "opensourceName": "Ardour",
+      "matchScore": 0.8,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "ardour-3",
+      "opensourceName": "Ardour",
+      "matchScore": 0.75,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "ardour-4",
+      "opensourceName": "Ardour",
+      "matchScore": 0.7,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

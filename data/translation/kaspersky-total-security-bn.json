@@ -1,0 +1,22 @@
+{
+  "id": "kaspersky-total-security-bn",
+  "sourceTextHash": "30b4cc739dcbf6f651ac480b4dcf4f79f07e202c062c2c255e6d4c628ac43e94",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Kaspersky Total Security is a security-software software developed by Kaspersky. Multi-device security suite with parental controls and VPN.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "kaspersky-total-security"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

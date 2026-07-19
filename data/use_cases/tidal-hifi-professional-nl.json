@@ -1,0 +1,29 @@
+{
+  "id": "tidal-hifi-professional-nl",
+  "softwareId": "tidal-hifi",
+  "scenario": "professional",
+  "lang": "nl",
+  "title": "Professionele gebruikssituaties voor TIDAL HiFi",
+  "description": "Gebruik TIDAL HiFi in professioneel werk voor mediaweergave en professionele contentvoorvertoning.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Video editors, content producers, broadcasters",
+    "workflow": "Media playback, preview, quality control, content review",
+    "benefits": "Reliable playback for professional media production workflows"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

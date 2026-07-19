@@ -1,0 +1,54 @@
+{
+  "id": "3ds-max-alternatives-id",
+  "softwareId": "3ds-max",
+  "lang": "id",
+  "title": "Alternatif open-source untuk Autodesk 3ds Max",
+  "description": "Berikut adalah daftar alternatif open-source untuk Autodesk 3ds Max, gratis dengan komunitas aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "blender-2",
+      "opensourceName": "Blender",
+      "matchScore": 0.95,
+      "reason": "Alternatif open-source yang direkomendasikan secara resmi, sangat kompatibel dengan Autodesk 3ds Max"
+    },
+    {
+      "opensourceId": "armorpaint",
+      "opensourceName": "ArmorPaint",
+      "matchScore": 0.85,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "blender",
+      "opensourceName": "Blender",
+      "matchScore": 0.8,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "blender-10",
+      "opensourceName": "Blender",
+      "matchScore": 0.75,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "blender-11",
+      "opensourceName": "Blender",
+      "matchScore": 0.7,
+      "reason": "Perangkat lunak open-source dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

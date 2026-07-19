@@ -1,0 +1,22 @@
+{
+  "id": "carbon-copy-cloner-fr",
+  "sourceTextHash": "dcc879c38d98c531466c08381906d8cf5da869985049c3bab492e7a55fb98359",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] Carbon Copy Cloner is a system-utilities software developed by Bombich Software. Mac backup software with bootable clones.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "carbon-copy-cloner"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

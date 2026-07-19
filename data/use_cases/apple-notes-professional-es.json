@@ -1,0 +1,29 @@
+{
+  "id": "apple-notes-professional-es",
+  "softwareId": "apple-notes",
+  "scenario": "professional",
+  "lang": "es",
+  "title": "Casos de uso profesional de Apple Notes",
+  "description": "Usa Apple Notes en el trabajo profesional para organización de notas y gestión de proyectos.",
+  "useCaseDetails": {
+    "industry": "Knowledge Work",
+    "users": "Knowledge workers, project managers, researchers",
+    "workflow": "Note organization, project documentation, knowledge bases",
+    "benefits": "Centralizes knowledge and improves information retrieval"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

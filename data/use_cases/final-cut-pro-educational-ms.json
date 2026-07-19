@@ -1,0 +1,29 @@
+{
+  "id": "final-cut-pro-educational-ms",
+  "softwareId": "final-cut-pro",
+  "scenario": "educational",
+  "lang": "ms",
+  "title": "Kes penggunaan pendidikan Final Cut Pro",
+  "description": "Gunakan Final Cut Pro dalam senario pendidikan untuk main semula video pendidikan dan rakaman kuliah.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Students, educators, training content creators",
+    "workflow": "Educational video playback, lecture recordings, training materials",
+    "benefits": "Supports diverse media formats for educational content delivery"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

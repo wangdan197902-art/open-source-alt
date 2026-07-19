@@ -1,0 +1,22 @@
+{
+  "id": "dropbox-paper-docs-hi",
+  "sourceTextHash": "ecf94572437dbbba0479defe261b89f1e29e23643045189e12e1b6ac2d9c35f1",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Dropbox Paper (Docs) is a office-suite software developed by Dropbox. Collaborative document editor with rich media and embeds.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "dropbox-paper-docs"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

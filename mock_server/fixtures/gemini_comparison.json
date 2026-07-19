@@ -1,0 +1,21 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "# Photoshop vs GIMP 对比分析\n\n## 功能对比\n\n| 功能 | Photoshop | GIMP | 备注 |\n|------|-----------|------|------|\n| 图层编辑 | 支持 | 支持 | GIMP支持基本图层但缺少高级混合模式 |\n| CMYK色彩模式 | 支持 | 部分支持 | GIMP需要插件支持CMYK |\n| 非破坏性编辑 | 支持 | 部分支持 | GIMP 3.0开始改进 |\n| RAW处理 | 支持 | 部分支持 | 通过RawTherapee集成 |\n| 内容识别填充 | 支持 | 不支持 | GIMP可通过Resynthesizer插件近似实现 |\n| 矢量蒙版 | 支持 | 部分支持 | GIMP路径工具功能较弱 |\n\n## GIMP 的优势\n- 完全免费开源（GPL-3.0 协议）\n- 跨平台支持（Linux / Windows / macOS）\n- 庞大的社区和插件生态\n- 可通过 Script-Fu / Python-Fu 编写脚本扩展\n- 无需订阅，无许可证成本\n\n## GIMP 的劣势\n- UI 界面不够现代化\n- 缺少原生 CMYK 色彩模式支持\n- 部分专业打印工作流支持不足\n- 学习曲线较陡（与 Photoshop 习惯差异大）\n\n## 迁移难度\n中等（medium）\n\n## 适用场景\n- 个人用户日常图像编辑\n- 教育用途（学校教学）\n- 开源爱好者与 Linux 用户\n- 预算有限的小型工作室\n- Web 图像处理（无需 CMYK 输出）\n\n## 总结\nGIMP 是 Photoshop 最知名的开源替代品，覆盖大多数日常图像编辑需求。对于专业印刷、高级合成等场景，仍存在差距。"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 156,
+    "candidatesTokenCount": 412,
+    "totalTokenCount": 568
+  }
+}

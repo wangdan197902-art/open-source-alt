@@ -1,0 +1,22 @@
+{
+  "id": "iobit-uninstaller-pro-id",
+  "sourceTextHash": "c10c9b66ac7ee6d6d0c6b8ed271c6be734fdcecbff8e2616c179c47d8b58a1db",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] IObit Uninstaller Pro is a system-utilities software developed by IObit. Batch uninstaller with deep clean features.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "iobit-uninstaller-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

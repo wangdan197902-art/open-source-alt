@@ -1,0 +1,29 @@
+{
+  "id": "mymind-personal-ru",
+  "softwareId": "mymind",
+  "scenario": "personal",
+  "lang": "ru",
+  "title": "Личные сценарии использования mymind",
+  "description": "Используйте mymind в личной жизни для личный дневник и запись жизни.",
+  "useCaseDetails": {
+    "industry": "Knowledge Work",
+    "users": "Personal knowledge managers, journalers",
+    "workflow": "Personal journaling, life organization, idea capture",
+    "benefits": "Helps organize personal thoughts and life admin in one place"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

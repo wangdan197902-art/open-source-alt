@@ -1,0 +1,22 @@
+{
+  "id": "rider-zh",
+  "sourceTextHash": "6a37d30d987d5b37dd95053ea97bd3bd0e9dd20228702cbf0773c7e166417d8e",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] JetBrains Rider is a development-tools software developed by JetBrains. Cross-platform .NET IDE based on IntelliJ and ReSharper.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "rider"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

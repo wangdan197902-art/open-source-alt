@@ -1,0 +1,54 @@
+{
+  "id": "apple-books-alternatives-ms",
+  "softwareId": "apple-books",
+  "lang": "ms",
+  "title": "Alternatif sumber terbuka untuk Apple Books",
+  "description": "Berikut ialah senarai alternatif sumber terbuka untuk Apple Books, percuma dengan komuniti aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "calibre",
+      "opensourceName": "Calibre",
+      "matchScore": 0.95,
+      "reason": "Alternatif sumber terbuka yang disyorkan secara rasmi, serasi tinggi dengan Apple Books"
+    },
+    {
+      "opensourceId": "affine-2",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "appflowy-5",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.8,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "collabora-online",
+      "opensourceName": "Collabora Online",
+      "matchScore": 0.75,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "cryptpad",
+      "opensourceName": "CryptPad",
+      "matchScore": 0.7,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

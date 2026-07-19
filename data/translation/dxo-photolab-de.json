@@ -1,0 +1,22 @@
+{
+  "id": "dxo-photolab-de",
+  "sourceTextHash": "439c65a88eabc7e7e0b2aa5455caf01eb524485578d6d3f83ebcc5e5b6882386",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] DxO PhotoLab is a image-editing software developed by DxO Labs. RAW processing software with lens correction and denoising technology.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "dxo-photolab"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

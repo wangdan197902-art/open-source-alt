@@ -1,0 +1,29 @@
+{
+  "id": "microsoft-office-professional-ms",
+  "softwareId": "microsoft-office",
+  "scenario": "professional",
+  "lang": "ms",
+  "title": "Kes penggunaan profesional Microsoft Office 2021",
+  "description": "Gunakan Microsoft Office 2021 dalam kerja profesional untuk dokumen pejabat dan hamparan.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Business professionals, analysts, administrators",
+    "workflow": "Document creation, spreadsheet analysis, presentations",
+    "benefits": "Standard productivity suite for business document workflows"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

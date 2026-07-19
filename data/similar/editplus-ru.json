@@ -1,0 +1,49 @@
+{
+  "id": "editplus-similar-ru",
+  "softwareId": "editplus",
+  "lang": "ru",
+  "title": "Программное обеспечение, похожее на EditPlus",
+  "description": "Ниже приведен список программ, похожих на EditPlus.",
+  "similarSoftware": [
+    {
+      "id": "appcode",
+      "name": "AppCode",
+      "similarity": 0.95
+    },
+    {
+      "id": "asana",
+      "name": "Asana",
+      "similarity": 0.89
+    },
+    {
+      "id": "atom",
+      "name": "Atom",
+      "similarity": 0.82
+    },
+    {
+      "id": "azure-devops",
+      "name": "Azure DevOps",
+      "similarity": 0.76
+    },
+    {
+      "id": "azure-pipelines",
+      "name": "Azure Pipelines",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

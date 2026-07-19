@@ -1,0 +1,29 @@
+{
+  "id": "azure-pipelines-professional-zh",
+  "softwareId": "azure-pipelines",
+  "scenario": "professional",
+  "lang": "zh",
+  "title": "Azure Pipelines 专业使用场景",
+  "description": "在专业工作中使用 Azure Pipelines 进行代码编辑、调试和版本控制。",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "Software engineers, devops teams, tech leads",
+    "workflow": "Code editing, debugging, version control, CI/CD pipeline integration",
+    "benefits": "Boosts developer productivity with intelligent tooling and integrations"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

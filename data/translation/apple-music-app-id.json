@@ -1,0 +1,22 @@
+{
+  "id": "apple-music-app-id",
+  "sourceTextHash": "18f9349638d49894bbf1d4aa16b293e857b7556054d650559ac3b136f3b4ba14",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] Apple Music is a media-player software developed by Apple. Streaming music service with curated playlists and lossless audio.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "apple-music-app"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

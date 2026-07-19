@@ -1,0 +1,22 @@
+{
+  "id": "3ds-max-uk",
+  "sourceTextHash": "34df541fa25435e1bd84833fde535660b3d6ca68652603a5b0adf46cbfd49419",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Autodesk 3ds Max is a image-editing software developed by Autodesk. 3D modeling and rendering software for games and visualization.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "3ds-max"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

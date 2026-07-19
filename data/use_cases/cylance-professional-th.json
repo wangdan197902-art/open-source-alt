@@ -1,0 +1,29 @@
+{
+  "id": "cylance-professional-th",
+  "softwareId": "cylance",
+  "scenario": "professional",
+  "lang": "th",
+  "title": "กรณีการใช้งานระดับมืออาชีพของ CylancePROTECT",
+  "description": "ใช้ CylancePROTECT ในงานระดับมืออาชีพเพื่อการตรวจจับภัยคุกคามและการสแกนช่องโหว่",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Security analysts, IT admins, compliance officers",
+    "workflow": "Threat detection, vulnerability scanning, compliance auditing",
+    "benefits": "Enterprise-grade security for protecting organizational assets"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

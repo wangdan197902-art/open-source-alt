@@ -1,0 +1,22 @@
+{
+  "id": "surfshark-ar",
+  "sourceTextHash": "beaf6695cbe9ffe800d44179cefdbd9cf3925f29975540646f4c1fb0542057d2",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Surfshark VPN is a security-software software developed by Surfshark. Affordable VPN with unlimited device connections.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "surfshark"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

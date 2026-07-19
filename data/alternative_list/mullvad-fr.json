@@ -1,0 +1,54 @@
+{
+  "id": "mullvad-alternatives-fr",
+  "softwareId": "mullvad",
+  "lang": "fr",
+  "title": "Alternatives open-source pour Mullvad VPN",
+  "description": "Voici une liste d'alternatives open-source pour Mullvad VPN, gratuites avec une communauté active.",
+  "alternatives": [
+    {
+      "opensourceId": "openvpn-7",
+      "opensourceName": "OpenVPN",
+      "matchScore": 0.95,
+      "reason": "Alternative open-source officiellement recommandée, hautement compatible avec Mullvad VPN"
+    },
+    {
+      "opensourceId": "bitwarden",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.85,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "bitwarden-2",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.8,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "bitwarden-3",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.75,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "bitwarden-4",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.7,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

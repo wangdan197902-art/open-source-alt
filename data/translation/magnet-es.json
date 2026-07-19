@@ -1,0 +1,22 @@
+{
+  "id": "magnet-es",
+  "sourceTextHash": "7f3d046e94f0118ef2906e41e81b518350c3d002ffc6080cf3837e5997f9abdd",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Magnet is a system-utilities software developed by CrowdCafé. Mac window manager for snapping and tiling.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "magnet"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

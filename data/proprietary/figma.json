@@ -1,0 +1,22 @@
+{
+  "id": "figma",
+  "name": "Figma",
+  "vendor": "Figma Inc.",
+  "category": "design-collaboration",
+  "officialUrl": "https://www.figma.com",
+  "pricingModel": "freemium",
+  "platforms": ["Web", "Windows", "macOS"],
+  "trademarkStatus": "reviewed",
+  "reviewStatus": "approved",
+  "aiGenerated": false,
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19"
+  },
+  "_meta": {
+    "source": "official-website",
+    "schema_version": "1.0.0",
+    "unverified_fields": [],
+    "confidence": "high"
+  }
+}

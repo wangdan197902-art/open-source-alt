@@ -1,0 +1,22 @@
+{
+  "id": "protools-id",
+  "sourceTextHash": "5fff0ec0da7f1205333d35ab5be2181b6042ea73eea10b3c7042dee02d57ac03",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] Pro Tools is a media-player software developed by Avid. Industry-standard DAW for recording and post-production.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "protools"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

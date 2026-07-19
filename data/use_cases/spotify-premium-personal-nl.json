@@ -1,0 +1,29 @@
+{
+  "id": "spotify-premium-personal-nl",
+  "softwareId": "spotify-premium",
+  "scenario": "personal",
+  "lang": "nl",
+  "title": "Persoonlijke gebruikssituaties voor Spotify Premium",
+  "description": "Gebruik Spotify Premium in het persoonlijke leven voor persoonlijke mediabibliotheek en entertainment.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "General consumers, movie enthusiasts",
+    "workflow": "Personal media library, movie watching, music playback",
+    "benefits": "Free high-quality media playback for personal entertainment"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "crowdstrike-falcon-ms",
+  "sourceTextHash": "f4cc3b4f16f19859a60bf5004fe6eb979dfad2bfcdd49abc31f8aa43cfe2f36f",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] CrowdStrike Falcon is a security-software software developed by CrowdStrike. Cloud-native endpoint protection with AI threat detection.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "crowdstrike-falcon"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

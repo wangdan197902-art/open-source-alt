@@ -1,0 +1,22 @@
+{
+  "id": "rhino-3d-vi",
+  "sourceTextHash": "a327775d62331df90ac6d0aa47c04d616c1268ef460af784400834a6b641b82d",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Rhinoceros 3D is a image-editing software developed by Robert McNeel & Associates. NURBS-based 3D modeling software for design and engineering.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "rhino-3d"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

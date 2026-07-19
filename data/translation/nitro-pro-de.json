@@ -1,0 +1,22 @@
+{
+  "id": "nitro-pro-de",
+  "sourceTextHash": "61e0c4c917411d3c892a2494918a192c89c96ffa707a97ec7a40c89d7f116551",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Nitro PDF Pro is a office-suite software developed by Nitro Software. PDF editor with creation, conversion, and e-signature features.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "nitro-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

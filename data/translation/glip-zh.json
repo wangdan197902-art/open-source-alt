@@ -1,0 +1,22 @@
+{
+  "id": "glip-zh",
+  "sourceTextHash": "a7e1cfb8f694d1b12b7d8b246525d1a3b0c32020cdb2ee71212050c087e4d7e1",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] RingCentral Glip is a team-communication software developed by RingCentral. Team messaging with tasks, calendar, and file sharing.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "glip"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

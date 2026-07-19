@@ -1,0 +1,22 @@
+{
+  "id": "screenflow-vi",
+  "sourceTextHash": "6ad7821bd382b86e903bd65d608205d444870a19f778998c57830957cff578ef",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] ScreenFlow is a media-player software developed by Telestream. Mac screen recording and video editing software.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "screenflow"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

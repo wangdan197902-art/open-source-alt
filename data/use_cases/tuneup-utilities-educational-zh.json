@@ -1,0 +1,29 @@
+{
+  "id": "tuneup-utilities-educational-zh",
+  "softwareId": "tuneup-utilities",
+  "scenario": "educational",
+  "lang": "zh",
+  "title": "AVG TuneUp 教育使用场景",
+  "description": "在教学场景中使用 AVG TuneUp 进行系统管理教学和实验。",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "IT students, sysadmin trainees",
+    "workflow": "Learning system administration, lab environments",
+    "benefits": "Practical experience with industry-standard utilities"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

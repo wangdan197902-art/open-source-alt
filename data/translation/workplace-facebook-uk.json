@@ -1,0 +1,22 @@
+{
+  "id": "workplace-facebook-uk",
+  "sourceTextHash": "eda36597d1b65b8beaa41b6f3b059303b2dd3eeb98dcf924c4e89a1ee67f0568",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Workplace by Meta is a team-communication software developed by Meta. Enterprise social network connecting everyone in the organization.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "workplace-facebook"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

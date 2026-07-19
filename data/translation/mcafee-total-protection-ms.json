@@ -1,0 +1,22 @@
+{
+  "id": "mcafee-total-protection-ms",
+  "sourceTextHash": "52cfe31f31b7bfc3c1f9d0578babb63778221ba757e8915a5a96714b9a5f327b",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] McAfee Total Protection is a security-software software developed by McAfee. Antivirus suite with identity monitoring and safe web browsing.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mcafee-total-protection"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

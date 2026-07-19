@@ -1,0 +1,22 @@
+{
+  "id": "gravit-designer-ja",
+  "sourceTextHash": "51337c18493cb16ec3df662ed663279882e6e2bc87afb4dfa9e007eb5d55318a",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Gravit Designer is a design-collaboration software developed by Corel. Vector design tool for icons, illustrations, and print.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "gravit-designer"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

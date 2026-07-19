@@ -1,0 +1,29 @@
+{
+  "id": "editplus-professional-ko",
+  "softwareId": "editplus",
+  "scenario": "professional",
+  "lang": "ko",
+  "title": "EditPlus 전문 사용 사례",
+  "description": "전문 작업에서 EditPlus을(를) 사용하여 코드 편집, 디버깅, 버전 관리 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "Software engineers, devops teams, tech leads",
+    "workflow": "Code editing, debugging, version control, CI/CD pipeline integration",
+    "benefits": "Boosts developer productivity with intelligent tooling and integrations"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

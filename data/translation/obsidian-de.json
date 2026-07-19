@@ -1,0 +1,22 @@
+{
+  "id": "obsidian-de",
+  "sourceTextHash": "8158433b5624ba35ce2a78946d2695c3efe176b43d9becf3dec71f3e2117168f",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Obsidian is a note-taking software developed by Dynalist Inc.. Markdown-based knowledge management app with backlinks and graphs.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "obsidian"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

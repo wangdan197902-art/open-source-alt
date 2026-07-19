@@ -1,0 +1,54 @@
+{
+  "id": "foxit-reader-alternatives-tr",
+  "softwareId": "foxit-reader",
+  "lang": "tr",
+  "title": "Foxit PDF Reader için açık kaynak alternatifler",
+  "description": "Aşağıda Foxit PDF Reader için açık kaynak alternatiflerin bir listesi bulunmaktadır. Ücretsizdir ve aktif topluluğu vardır.",
+  "alternatives": [
+    {
+      "opensourceId": "okular-2",
+      "opensourceName": "Okular",
+      "matchScore": 0.95,
+      "reason": "Resmi olarak önerilen açık kaynak alternatifi, Foxit PDF Reader ile高度 uyumlu"
+    },
+    {
+      "opensourceId": "affine-2",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "appflowy-5",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.8,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "calibre",
+      "opensourceName": "Calibre",
+      "matchScore": 0.75,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "collabora-online",
+      "opensourceName": "Collabora Online",
+      "matchScore": 0.7,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

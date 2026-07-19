@@ -1,0 +1,54 @@
+{
+  "id": "dialpad-talk-alternatives-tr",
+  "softwareId": "dialpad-talk",
+  "lang": "tr",
+  "title": "Dialpad Talk için açık kaynak alternatifler",
+  "description": "Aşağıda Dialpad Talk için açık kaynak alternatiflerin bir listesi bulunmaktadır. Ücretsizdir ve aktif topluluğu vardır.",
+  "alternatives": [
+    {
+      "opensourceId": "jitsi-meet-9",
+      "opensourceName": "Jitsi Meet",
+      "matchScore": 0.95,
+      "reason": "Resmi olarak önerilen açık kaynak alternatifi, Dialpad Talk ile高度 uyumlu"
+    },
+    {
+      "opensourceId": "bigbluebutton",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.85,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "bigbluebutton-10",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.8,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "bigbluebutton-11",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.75,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    },
+    {
+      "opensourceId": "bigbluebutton-12",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.7,
+      "reason": "Aynı kategorideki açık kaynak yazılım, alternatif olarak kullanılabilir"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

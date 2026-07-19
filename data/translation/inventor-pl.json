@@ -1,0 +1,22 @@
+{
+  "id": "inventor-pl",
+  "sourceTextHash": "658d84aad57234641a5078e86e75550d7146104f8378fe319dd62bcbd88e9323",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Autodesk Inventor is a image-editing software developed by Autodesk. 3D mechanical CAD software for product design and simulation.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "inventor"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

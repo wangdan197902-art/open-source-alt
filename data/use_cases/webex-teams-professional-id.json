@@ -1,0 +1,29 @@
+{
+  "id": "webex-teams-professional-id",
+  "softwareId": "webex-teams",
+  "scenario": "professional",
+  "lang": "id",
+  "title": "Kasus penggunaan profesional Webex App",
+  "description": "Gunakan Webex App dalam pekerjaan profesional untuk komunikasi tim dan manajemen proyek.",
+  "useCaseDetails": {
+    "industry": "Business Communication",
+    "users": "Distributed teams, project managers, executives",
+    "workflow": "Channel-based messaging, video calls, file sharing, integrations",
+    "benefits": "Reduces email overload and accelerates team decision-making"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

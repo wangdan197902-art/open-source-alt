@@ -1,0 +1,29 @@
+{
+  "id": "carbonblack-personal-pt",
+  "softwareId": "carbonblack",
+  "scenario": "personal",
+  "lang": "pt",
+  "title": "Casos de uso pessoal do VMware Carbon Black Endpoint",
+  "description": "Use o VMware Carbon Black Endpoint na vida pessoal para proteção de dispositivos pessoais e segurança de privacidade.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Home users, privacy-conscious individuals",
+    "workflow": "Personal device protection, privacy tools, secure browsing",
+    "benefits": "Protects personal data and online privacy"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

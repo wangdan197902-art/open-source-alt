@@ -1,0 +1,49 @@
+{
+  "id": "airtable-similar-es",
+  "softwareId": "airtable",
+  "lang": "es",
+  "title": "Software similar a Airtable",
+  "description": "A continuación se muestra una lista de software similar a Airtable.",
+  "similarSoftware": [
+    {
+      "id": "any-do",
+      "name": "Any.do",
+      "similarity": 0.95
+    },
+    {
+      "id": "apple-notes",
+      "name": "Apple Notes",
+      "similarity": 0.89
+    },
+    {
+      "id": "bear",
+      "name": "Bear",
+      "similarity": 0.82
+    },
+    {
+      "id": "bundle-notes",
+      "name": "Bundle Notes",
+      "similarity": 0.76
+    },
+    {
+      "id": "capacities",
+      "name": "Capacities",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

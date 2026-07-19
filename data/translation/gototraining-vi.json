@@ -1,0 +1,22 @@
+{
+  "id": "gototraining-vi",
+  "sourceTextHash": "8ba70143cebb9bcc53acf25df15992c7143db53d37d1f9e1d609facac352c324",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] GoToTraining is a video-conferencing software developed by GoTo. Online training software for interactive learning sessions.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "gototraining"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

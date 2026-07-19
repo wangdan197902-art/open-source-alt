@@ -1,0 +1,22 @@
+{
+  "id": "figma-ar",
+  "sourceTextHash": "e518e3441d42789d98525eb0060f75e49baa44662a4c51c353ff913ab0c0aea4",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Figma is a design-collaboration software developed by Figma Inc.. Collaborative interface design tool with prototyping and Dev Mode.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "figma"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

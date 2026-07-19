@@ -1,0 +1,22 @@
+{
+  "id": "edrawmax-it",
+  "sourceTextHash": "c95f2327cd3b3990c3e63b3b9e56c776a9b37f9969bf2e3425f15d684b9bd7b6",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] EdrawMax is a design-collaboration software developed by Wondershare. All-in-one diagram software with templates for 280+ diagram types.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "edrawmax"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

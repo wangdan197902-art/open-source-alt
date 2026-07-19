@@ -1,0 +1,22 @@
+{
+  "id": "glary-utilities-pro-pl",
+  "sourceTextHash": "d52685b9923af7dce4641fe26f9163e753c66b8006c31356d3963237dddec42d",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Glary Utilities Pro is a system-utilities software developed by Glarysoft. All-in-one system utilities for PC maintenance.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "glary-utilities-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

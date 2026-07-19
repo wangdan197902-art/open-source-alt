@@ -1,0 +1,29 @@
+{
+  "id": "things-personal-fr",
+  "softwareId": "things",
+  "scenario": "personal",
+  "lang": "fr",
+  "title": "Cas d'usage personnel de Things",
+  "description": "Utilisez Things dans la vie personnelle pour journal personnel et enregistrement de vie.",
+  "useCaseDetails": {
+    "industry": "Knowledge Work",
+    "users": "Personal knowledge managers, journalers",
+    "workflow": "Personal journaling, life organization, idea capture",
+    "benefits": "Helps organize personal thoughts and life admin in one place"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

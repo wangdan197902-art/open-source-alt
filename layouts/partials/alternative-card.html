@@ -1,0 +1,38 @@
+{{ $title := .Title | default (i18n "untitled") }}
+{{ $vendor := .Params.vendor | default "—" }}
+{{ $category := .Params.category | default "—" }}
+{{ $alt := .Params.openSourceAlternative | default "—" }}
+{{ $desc := .Description | default "" }}
+{{ $reviewStatus := .Params.reviewStatus | default "draft" }}
+
+<article class="alt-card" data-category="{{ $category }}">
+  <div class="alt-card-header">
+    <h3 class="alt-card-title">
+      <a href="{{ .RelPermalink }}">{{ $title }}</a>
+    </h3>
+    {{ if eq $reviewStatus "approved" }}
+      <span class="badge badge-approved">{{ i18n "review_approved" | default "已审核" }}</span>
+    {{ else if eq $reviewStatus "draft" }}
+      <span class="badge badge-draft">{{ i18n "review_draft" | default "草稿" }}</span>
+    {{ else }}
+      <span class="badge">{{ $reviewStatus }}</span>
+    {{ end }}
+  </div>
+
+  {{ with $desc }}
+  <p class="alt-card-desc">{{ . }}</p>
+  {{ end }}
+
+  <dl class="alt-card-meta">
+    <dt>{{ i18n "vendor" | default "厂商" }}</dt>
+    <dd>{{ $vendor }}</dd>
+    <dt>{{ i18n "category" | default "分类" }}</dt>
+    <dd>{{ $category }}</dd>
+    <dt>{{ i18n "oss_alternative" | default "开源替代" }}</dt>
+    <dd><strong class="alt-name">{{ $alt }}</strong></dd>
+  </dl>
+
+  <a class="alt-card-link" href="{{ .RelPermalink }}">
+    {{ i18n "view_detail" | default "查看详情" }} →
+  </a>
+</article>

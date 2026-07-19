@@ -1,0 +1,22 @@
+{
+  "id": "wondershare-filmora-it",
+  "sourceTextHash": "7c2968d7b51512e9528656fcd12b7e8cb11bc2895958045926305e0b3128a874",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Wondershare Filmora is a media-player software developed by Wondershare. Consumer-friendly video editor with effects library.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "wondershare-filmora"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

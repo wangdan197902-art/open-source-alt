@@ -1,0 +1,29 @@
+{
+  "id": "emby-premiere-educational-hi",
+  "softwareId": "emby-premiere",
+  "scenario": "educational",
+  "lang": "hi",
+  "title": "Emby Premiere के शैक्षिक उपयोग मामले",
+  "description": "शैक्षिक परिदृश्यों में शैक्षिक वीडियो प्लेबैक और व्याख्यान रिकॉर्डिंग के लिए Emby Premiere का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Students, educators, training content creators",
+    "workflow": "Educational video playback, lecture recordings, training materials",
+    "benefits": "Supports diverse media formats for educational content delivery"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mindomo-hi",
+  "sourceTextHash": "d043c3d3e82489e6d09261d49b3b786535904c7056ffe9211e94fb092e759957",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Mindomo is a design-collaboration software developed by Expert Software Applications. Mind mapping, concept mapping, and outlining tool.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mindomo"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

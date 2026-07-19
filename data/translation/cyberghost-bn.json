@@ -1,0 +1,22 @@
+{
+  "id": "cyberghost-bn",
+  "sourceTextHash": "98193044ab3299f07ae4683e6d756fa602f56912acf718fae8c3fe3020673c1a",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] CyberGhost VPN is a security-software software developed by Kape Technologies. User-friendly VPN with specialized streaming servers.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "cyberghost"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

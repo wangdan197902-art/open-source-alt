@@ -1,0 +1,54 @@
+{
+  "id": "eset-smart-security-alternatives-nl",
+  "softwareId": "eset-smart-security",
+  "lang": "nl",
+  "title": "Open-source alternatieven voor ESET Smart Security Premium",
+  "description": "Hieronder staat een lijst met open-source alternatieven voor ESET Smart Security Premium, gratis en met actieve community.",
+  "alternatives": [
+    {
+      "opensourceId": "clamav-5",
+      "opensourceName": "ClamAV",
+      "matchScore": 0.95,
+      "reason": "Officieel aanbevolen open-source alternatief, sterk compatibel met ESET Smart Security Premium"
+    },
+    {
+      "opensourceId": "bitwarden",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.85,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "bitwarden-2",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.8,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "bitwarden-3",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.75,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "bitwarden-4",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.7,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ccleaner-professional-personal-nl",
+  "softwareId": "ccleaner-professional",
+  "scenario": "personal",
+  "lang": "nl",
+  "title": "Persoonlijke gebruikssituaties voor CCleaner Professional",
+  "description": "Gebruik CCleaner Professional in het persoonlijke leven voor persoonlijk computeronderhoud en bestandsorganisatie.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "Power users, home lab enthusiasts",
+    "workflow": "Personal computer maintenance, file organization, system tweaks",
+    "benefits": "Free utilities for keeping personal systems running smoothly"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

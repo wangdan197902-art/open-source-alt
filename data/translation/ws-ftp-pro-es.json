@@ -1,0 +1,22 @@
+{
+  "id": "ws-ftp-pro-es",
+  "sourceTextHash": "7535518a8abde8cf3dec00ce633c311e16bc95f08a65ce88cc97f7ccb3819480",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] WS_FTP Professional is a system-utilities software developed by Progress. Windows FTP client with encryption.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "ws-ftp-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

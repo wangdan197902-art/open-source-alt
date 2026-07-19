@@ -1,0 +1,29 @@
+{
+  "id": "media-player-classic-educational-uk",
+  "softwareId": "media-player-classic",
+  "scenario": "educational",
+  "lang": "uk",
+  "title": "Освітні сценарії використання Media Player Classic Home Cinema",
+  "description": "Використовуйте Media Player Classic Home Cinema в освітніх сценаріях для відтворення навчальних відео та запис лекцій.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Students, educators, training content creators",
+    "workflow": "Educational video playback, lecture recordings, training materials",
+    "benefits": "Supports diverse media formats for educational content delivery"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

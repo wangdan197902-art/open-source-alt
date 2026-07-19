@@ -1,0 +1,22 @@
+{
+  "id": "omni-focus-th",
+  "sourceTextHash": "abf615511cbb8f9f40e3cd6d34009e098d867dce1813cbcb042d5ef231041442",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] OmniFocus is a note-taking software developed by Omni Group. GTD-style task manager for Apple platforms.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "omni-focus"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

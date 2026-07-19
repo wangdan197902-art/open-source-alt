@@ -1,0 +1,22 @@
+{
+  "id": "blackboard-collaborate-ar",
+  "sourceTextHash": "0fc8b13707f56aa1e3aa8bae09fdb5d2c02b5d9cd399af9a09086ca456c7c45c",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Blackboard Collaborate is a video-conferencing software developed by Blackboard. Virtual classroom web conferencing for education.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "blackboard-collaborate"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

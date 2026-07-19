@@ -1,0 +1,22 @@
+{
+  "id": "slack-enterprise-grid-ar",
+  "sourceTextHash": "4ca9a978ca44f46f38e8d9899f815a8e4e56ce03dfbaa611ad82971e19ac8256",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Slack Enterprise Grid is a team-communication software developed by Salesforce. Slack for large enterprises with org-wide connectivity and security.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "slack-enterprise-grid"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

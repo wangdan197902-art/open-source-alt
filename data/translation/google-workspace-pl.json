@@ -1,0 +1,22 @@
+{
+  "id": "google-workspace-pl",
+  "sourceTextHash": "ff5c06993c6c936f59ba67b3fb9ba2a507a6068ba14fe786e7244f8d1c0ffca2",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Google Workspace is a office-suite software developed by Google. Cloud productivity suite with Gmail, Drive, Docs, Sheets, and Meet.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-workspace"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

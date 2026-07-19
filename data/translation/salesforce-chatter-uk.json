@@ -1,0 +1,22 @@
+{
+  "id": "salesforce-chatter-uk",
+  "sourceTextHash": "26241cccdbaff691ba44f6b318749dc56c142e9fefc083a31eaed63a763d5f41",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Salesforce Chatter is a team-communication software developed by Salesforce. Enterprise social collaboration integrated with Salesforce CRM.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "salesforce-chatter"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

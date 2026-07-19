@@ -1,0 +1,29 @@
+{
+  "id": "photoshop-elements-personal-uk",
+  "softwareId": "photoshop-elements",
+  "scenario": "personal",
+  "lang": "uk",
+  "title": "Особисті сценарії використання Adobe Photoshop Elements",
+  "description": "Використовуйте Adobe Photoshop Elements в особистому житті для особисте редагування фото та створення контенту для соцмереж.",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Hobbyists, social media enthusiasts",
+    "workflow": "Photo retouching, creative projects, social media content creation",
+    "benefits": "Easy photo enhancement for personal memories and online sharing"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

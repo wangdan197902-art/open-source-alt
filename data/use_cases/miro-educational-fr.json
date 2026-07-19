@@ -1,0 +1,29 @@
+{
+  "id": "miro-educational-fr",
+  "softwareId": "miro",
+  "scenario": "educational",
+  "lang": "fr",
+  "title": "Cas d'usage éducatif de Miro",
+  "description": "Utilisez Miro dans un cadre éducatif pour enseignement du design collaboratif et projets d'équipe.",
+  "useCaseDetails": {
+    "industry": "Design & Product",
+    "users": "Design students, bootcamp participants, educators",
+    "workflow": "Learning collaborative design, group projects, design critique sessions",
+    "benefits": "Develop teamwork skills essential for modern product design careers"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

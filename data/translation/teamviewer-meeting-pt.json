@@ -1,0 +1,22 @@
+{
+  "id": "teamviewer-meeting-pt",
+  "sourceTextHash": "6e2c53c8eca838ff6d16fc4addc8e01f4a261482f4ac39614359c8ea219d44d9",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] TeamViewer Meeting is a video-conferencing software developed by TeamViewer. Online meeting and video conferencing for teams.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "teamviewer-meeting"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

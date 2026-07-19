@@ -1,0 +1,29 @@
+{
+  "id": "vue-3d-educational-pt",
+  "softwareId": "vue-3d",
+  "scenario": "educational",
+  "lang": "pt",
+  "title": "Casos de uso educacional do Vue",
+  "description": "Use o Vue em ambientes educacionais para ensino e aprendizado de processamento de imagens.",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Design students, educators, beginners",
+    "workflow": "Learning image editing fundamentals, classroom demonstrations, assignments",
+    "benefits": "Build foundational skills for design careers and creative projects"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

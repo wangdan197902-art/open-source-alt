@@ -1,0 +1,22 @@
+{
+  "id": "ccleaner-professional-de",
+  "sourceTextHash": "43ff22e5f52d05d91e64a6859b18434280f410077a66f53c81904d7b15418c1b",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] CCleaner Professional is a system-utilities software developed by Piriform. System cleaner with real-time monitoring and scheduling.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "ccleaner-professional"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

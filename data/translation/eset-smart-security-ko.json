@@ -1,0 +1,22 @@
+{
+  "id": "eset-smart-security-ko",
+  "sourceTextHash": "8c8f9d73e408c6f657ab793ee6ea50eb5061275560631788e2a2514eccbf51f5",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] ESET Smart Security Premium is a security-software software developed by ESET. Internet security with anti-theft and password manager.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "eset-smart-security"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

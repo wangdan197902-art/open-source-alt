@@ -1,0 +1,29 @@
+{
+  "id": "logmein-professional-uk",
+  "softwareId": "logmein",
+  "scenario": "professional",
+  "lang": "uk",
+  "title": "Професійні сценарії використання LogMeIn",
+  "description": "Використовуйте LogMeIn у професійній роботі для відеоконференції та вебінари.",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Remote teams, sales reps, consultants",
+    "workflow": "Video meetings, webinars, screen sharing, recording",
+    "benefits": "Enables remote work and global client communication"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

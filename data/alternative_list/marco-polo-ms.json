@@ -1,0 +1,54 @@
+{
+  "id": "marco-polo-alternatives-ms",
+  "softwareId": "marco-polo",
+  "lang": "ms",
+  "title": "Alternatif sumber terbuka untuk Marco Polo",
+  "description": "Berikut ialah senarai alternatif sumber terbuka untuk Marco Polo, percuma dengan komuniti aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "jitsi-meet-22",
+      "opensourceName": "Jitsi Meet",
+      "matchScore": 0.95,
+      "reason": "Alternatif sumber terbuka yang disyorkan secara rasmi, serasi tinggi dengan Marco Polo"
+    },
+    {
+      "opensourceId": "bigbluebutton",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.85,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "bigbluebutton-10",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.8,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "bigbluebutton-11",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.75,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "bigbluebutton-12",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.7,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

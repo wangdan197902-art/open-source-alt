@@ -1,0 +1,29 @@
+{
+  "id": "carbon-copy-cloner-educational-ar",
+  "softwareId": "carbon-copy-cloner",
+  "scenario": "educational",
+  "lang": "ar",
+  "title": "حالات الاستخدام التعليمية لـ Carbon Copy Cloner",
+  "description": "استخدم Carbon Copy Cloner في البيئات التعليمية لأجل تدريس إدارة النظام والمختبرات.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "IT students, sysadmin trainees",
+    "workflow": "Learning system administration, lab environments",
+    "benefits": "Practical experience with industry-standard utilities"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

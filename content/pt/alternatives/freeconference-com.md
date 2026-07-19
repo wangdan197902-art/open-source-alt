@@ -1,0 +1,28 @@
+---
+title: "Alternativas de código aberto para FreeConference.com"
+date: "2026-07-19"
+draft: false
+description: "Abaixo está uma lista de alternativas de código aberto para FreeConference.com, gratuitas e com comunidade ativa."
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "freeconference-com"
+type: "alternative-list"
+---
+
+# Alternativas de código aberto para FreeConference.com
+
+**Abaixo está uma lista de alternativas de código aberto para FreeConference.com, gratuitas e com comunidade ativa.**
+
+## Open Source Alternatives
+
+| Open Source Software | Match Score | Reason |
+|---------------------|-------------|--------|
+| Jitsi Meet | 95% | Alternativa de código aberto oficialmente recomendada, altamente compatível com FreeConference.com |
+| BigBlueButton | 85% | Software de código aberto da mesma categoria, disponível como alternativa |
+| BigBlueButton | 80% | Software de código aberto da mesma categoria, disponível como alternativa |
+| BigBlueButton | 75% | Software de código aberto da mesma categoria, disponível como alternativa |
+| BigBlueButton | 70% | Software de código aberto da mesma categoria, disponível como alternativa |
+
+## Related Pages
+
+- [Similar Software to freeconference-com](../../similar/freeconference-com/)

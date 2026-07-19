@@ -1,0 +1,22 @@
+{
+  "id": "bitdefender-total-security-pl",
+  "sourceTextHash": "8bc901249da88a8390c56ffcb785ecd8c8344416efb2dffb5392be8e6fae443a",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Bitdefender Total Security is a security-software software developed by Bitdefender. Multi-platform protection with anti-ransomware and VPN.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "bitdefender-total-security"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

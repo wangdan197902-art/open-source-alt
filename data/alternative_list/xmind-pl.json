@@ -1,0 +1,54 @@
+{
+  "id": "xmind-alternatives-pl",
+  "softwareId": "xmind",
+  "lang": "pl",
+  "title": "Alternatywy open-source dla XMind",
+  "description": "Poniżej znajduje się lista alternatyw open-source dla XMind, darmowych z aktywną społecznością.",
+  "alternatives": [
+    {
+      "opensourceId": "freeplane-3",
+      "opensourceName": "Freeplane",
+      "matchScore": 0.95,
+      "reason": "Oficjalnie polecana alternatywa open-source, wysoć zgodna z XMind"
+    },
+    {
+      "opensourceId": "drawio",
+      "opensourceName": "draw.io",
+      "matchScore": 0.85,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "drawio-2",
+      "opensourceName": "draw.io",
+      "matchScore": 0.8,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "drawio-3",
+      "opensourceName": "draw.io",
+      "matchScore": 0.75,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "drawio-4",
+      "opensourceName": "draw.io",
+      "matchScore": 0.7,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

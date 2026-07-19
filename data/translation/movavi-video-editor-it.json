@@ -1,0 +1,22 @@
+{
+  "id": "movavi-video-editor-it",
+  "sourceTextHash": "e648ce5cf21d5c6405f351f9cba07c7d4aded2324b08f37db7df64c1895ae373",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Movavi Video Editor is a media-player software developed by Movavi. Easy video editor for beginners with templates.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "movavi-video-editor"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

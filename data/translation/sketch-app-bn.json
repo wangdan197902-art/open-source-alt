@@ -1,0 +1,22 @@
+{
+  "id": "sketch-app-bn",
+  "sourceTextHash": "21ed891d36757066a287b4e70f69cc3eb4a5d918be29ecd34b33831c119d40af",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Sketch is a design-collaboration software developed by Bohemian Coding. Mac vector design app for UI, icons, and prototypes.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "sketch-app"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "coreldraw-vi",
+  "sourceTextHash": "330744ffc414abd2e276539632cbbc60f1f49ec8b4b079ffbea8a01dae170463",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] CorelDRAW Graphics Suite is a image-editing software developed by Corel. Vector illustration and page layout suite for design professionals.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "coreldraw"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

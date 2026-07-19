@@ -1,0 +1,22 @@
+{
+  "id": "mockflow-ko",
+  "sourceTextHash": "094ab1eb439878cb24a1dbef764470b820b84d7103e8997fef57dffcd12f7a20",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] MockFlow is a design-collaboration software developed by MockFlow. Wireframing suite for planning websites and apps.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mockflow"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

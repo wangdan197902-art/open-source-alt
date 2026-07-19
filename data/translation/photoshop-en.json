@@ -1,0 +1,19 @@
+{
+  "id": "photoshop-en",
+  "sourceTextHash": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90",
+  "targetLang": "en",
+  "translatedText": "Adobe Photoshop is the industry-standard professional image editing software for photographers, designers, and digital artists.",
+  "translatorModel": "mock-claude-3-sonnet",
+  "confidenceScore": 0.95,
+  "reviewStatus": "approved",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "mock-translation",
+    "schema_version": "1.0.0",
+    "unverified_fields": [],
+    "confidence": "high"
+  }
+}

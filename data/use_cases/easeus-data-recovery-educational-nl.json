@@ -1,0 +1,29 @@
+{
+  "id": "easeus-data-recovery-educational-nl",
+  "softwareId": "easeus-data-recovery",
+  "scenario": "educational",
+  "lang": "nl",
+  "title": "Educatieve gebruikssituaties voor EaseUS Data Recovery Wizard",
+  "description": "Gebruik EaseUS Data Recovery Wizard in educatieve scenario's voor systeembeheeronderwijs en labs.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "IT students, sysadmin trainees",
+    "workflow": "Learning system administration, lab environments",
+    "benefits": "Practical experience with industry-standard utilities"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

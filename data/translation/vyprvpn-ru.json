@@ -1,0 +1,22 @@
+{
+  "id": "vyprvpn-ru",
+  "sourceTextHash": "0cf553a7e6025eddbac87dac92b42819902adeea8f70245d5ea4a1710ba9eecc",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] VyprVPN is a security-software software developed by Golden Frog. VPN with proprietary Chameleon protocol for bypassing censorship.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "vyprvpn"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

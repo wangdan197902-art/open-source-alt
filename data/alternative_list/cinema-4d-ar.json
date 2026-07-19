@@ -1,0 +1,54 @@
+{
+  "id": "cinema-4d-alternatives-ar",
+  "softwareId": "cinema-4d",
+  "lang": "ar",
+  "title": "بدائل مفتوحة المصدر لـ Cinema 4D",
+  "description": "فيما يلي قائمة بالبدائل مفتوحة المصدر لـ Cinema 4D، مجانية ومجتمع نشط.",
+  "alternatives": [
+    {
+      "opensourceId": "blender-3",
+      "opensourceName": "Blender",
+      "matchScore": 0.95,
+      "reason": "بديل مفتوح المصدر موصى به رسميًا، متوافق تمامًا مع Cinema 4D"
+    },
+    {
+      "opensourceId": "armorpaint",
+      "opensourceName": "ArmorPaint",
+      "matchScore": 0.85,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    },
+    {
+      "opensourceId": "blender",
+      "opensourceName": "Blender",
+      "matchScore": 0.8,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    },
+    {
+      "opensourceId": "blender-10",
+      "opensourceName": "Blender",
+      "matchScore": 0.75,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    },
+    {
+      "opensourceId": "blender-11",
+      "opensourceName": "Blender",
+      "matchScore": 0.7,
+      "reason": "برنامج مفتوح المصدر من نفس الفئة، متاح كبديل"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

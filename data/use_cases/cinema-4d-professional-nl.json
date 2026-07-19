@@ -1,0 +1,29 @@
+{
+  "id": "cinema-4d-professional-nl",
+  "softwareId": "cinema-4d",
+  "scenario": "professional",
+  "lang": "nl",
+  "title": "Professionele gebruikssituaties voor Cinema 4D",
+  "description": "Gebruik Cinema 4D in professioneel werk voor beeldbewerking, grafisch ontwerp en digitale kunst.",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Graphic designers, photographers, digital artists",
+    "workflow": "Image retouching, compositing, digital painting, asset preparation for print/web",
+    "benefits": "Industry-standard toolset for high-quality visual output and client deliverables"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

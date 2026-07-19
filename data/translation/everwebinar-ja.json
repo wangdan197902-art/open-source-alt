@@ -1,0 +1,22 @@
+{
+  "id": "everwebinar-ja",
+  "sourceTextHash": "50d69141be793464da522319f498ac56709441e7576e19a6a48e793ac4cef30b",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] EverWebinar is a video-conferencing software developed by EverWebinar. Automated webinar platform for evergreen marketing funnels.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "everwebinar"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

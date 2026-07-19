@@ -1,0 +1,22 @@
+{
+  "id": "ultraedit-ms",
+  "sourceTextHash": "71f0b267dd6b4ec8d3888450f2e4f46eab4836d44153ea2b66d68027cef48b2e",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] UltraEdit is a development-tools software developed by IDM Computer Solutions. Powerful text editor for large files and code projects.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "ultraedit"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

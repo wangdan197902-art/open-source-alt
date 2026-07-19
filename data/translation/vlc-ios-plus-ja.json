@@ -1,0 +1,22 @@
+{
+  "id": "vlc-ios-plus-ja",
+  "sourceTextHash": "3ca86e3a041732c6eada0d745e76b3ec028b423cdcfc65d04eba9335b8db8a1e",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] VLC for iOS Pro is a media-player software developed by VideoLAN. Mobile media player with advanced codec support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "vlc-ios-plus"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "transmit-personal-hi",
+  "softwareId": "transmit",
+  "scenario": "personal",
+  "lang": "hi",
+  "title": "Transmit के व्यक्तिगत उपयोग मामले",
+  "description": "व्यक्तिगत जीवन में व्यक्तिगत कंप्यूटर रखरखाव और फ़ाइल संगठन के लिए Transmit का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "Power users, home lab enthusiasts",
+    "workflow": "Personal computer maintenance, file organization, system tweaks",
+    "benefits": "Free utilities for keeping personal systems running smoothly"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

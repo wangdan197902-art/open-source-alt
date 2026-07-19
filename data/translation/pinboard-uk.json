@@ -1,0 +1,22 @@
+{
+  "id": "pinboard-uk",
+  "sourceTextHash": "4759436313a586d5ce982ab86e4367d948a9078caee52df8b140a4e0aa64663a",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Pinboard is a note-taking software developed by Pinboard. Minimalist, no-nonsense bookmarking service for the long term.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "pinboard"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

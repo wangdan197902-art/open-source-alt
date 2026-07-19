@@ -1,0 +1,22 @@
+{
+  "id": "lastpass-premium-ja",
+  "sourceTextHash": "894c9cfc6835c92b0e54579f492f9ed83ac19956c06bdd39e24710a054249a41",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] LastPass Premium is a security-software software developed by LastPass. Password manager with multi-device sync and dark web monitoring.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "lastpass-premium"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

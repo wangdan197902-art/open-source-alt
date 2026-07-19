@@ -1,0 +1,29 @@
+{
+  "id": "gototraining-professional-id",
+  "softwareId": "gototraining",
+  "scenario": "professional",
+  "lang": "id",
+  "title": "Kasus penggunaan profesional GoToTraining",
+  "description": "Gunakan GoToTraining dalam pekerjaan profesional untuk konferensi video dan webinar.",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Remote teams, sales reps, consultants",
+    "workflow": "Video meetings, webinars, screen sharing, recording",
+    "benefits": "Enables remote work and global client communication"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

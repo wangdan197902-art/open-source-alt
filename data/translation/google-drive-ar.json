@@ -1,0 +1,22 @@
+{
+  "id": "google-drive-ar",
+  "sourceTextHash": "689482a94e2859ad13ea365e8735e09a0f5163a9db174285f31ad438573fa3b1",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Google Drive is a office-suite software developed by Google. Cloud storage and file sharing with integrated apps.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-drive"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

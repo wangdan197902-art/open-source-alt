@@ -1,0 +1,22 @@
+{
+  "id": "launchbar-it",
+  "sourceTextHash": "711b511364cf61d2d2d19d648e357b9214bcfc99d6e47bcbb0a792b261ee46eb",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] LaunchBar is a system-utilities software developed by Objective Development. Mac app launcher and productivity tool.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "launchbar"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

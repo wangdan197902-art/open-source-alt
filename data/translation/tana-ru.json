@@ -1,0 +1,22 @@
+{
+  "id": "tana-ru",
+  "sourceTextHash": "d51821a959f02ae28054dedcbebd383703e7578092ac2f18302c2194c7ccb97e",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Tana is a note-taking software developed by Tana Inc.. Structured knowledge tool combining outliner and database features.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "tana"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

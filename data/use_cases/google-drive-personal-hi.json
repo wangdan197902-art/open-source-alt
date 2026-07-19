@@ -1,0 +1,29 @@
+{
+  "id": "google-drive-personal-hi",
+  "softwareId": "google-drive",
+  "scenario": "personal",
+  "lang": "hi",
+  "title": "Google Drive के व्यक्तिगत उपयोग मामले",
+  "description": "व्यक्तिगत जीवन में व्यक्तिगत वित्त और घरेलू दस्तावेज़ के लिए Google Drive का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Home users, personal finance managers",
+    "workflow": "Personal budgets, household documents, invitations",
+    "benefits": "Free alternatives for personal productivity tasks"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

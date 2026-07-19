@@ -1,0 +1,22 @@
+{
+  "id": "instapaper-vi",
+  "sourceTextHash": "53af91dd874cab9da0621a8faf147df82b78482c418a9d454fdc5bb735f8d132",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Instapaper is a note-taking software developed by Instapaper. Save articles to read later with highlights and folders.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "instapaper"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

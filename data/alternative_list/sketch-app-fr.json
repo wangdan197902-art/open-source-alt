@@ -1,0 +1,54 @@
+{
+  "id": "sketch-app-alternatives-fr",
+  "softwareId": "sketch-app",
+  "lang": "fr",
+  "title": "Alternatives open-source pour Sketch",
+  "description": "Voici une liste d'alternatives open-source pour Sketch, gratuites avec une communauté active.",
+  "alternatives": [
+    {
+      "opensourceId": "penpot-2",
+      "opensourceName": "Penpot",
+      "matchScore": 0.95,
+      "reason": "Alternative open-source officiellement recommandée, hautement compatible avec Sketch"
+    },
+    {
+      "opensourceId": "drawio",
+      "opensourceName": "draw.io",
+      "matchScore": 0.85,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "drawio-2",
+      "opensourceName": "draw.io",
+      "matchScore": 0.8,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "drawio-3",
+      "opensourceName": "draw.io",
+      "matchScore": 0.75,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "drawio-4",
+      "opensourceName": "draw.io",
+      "matchScore": 0.7,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

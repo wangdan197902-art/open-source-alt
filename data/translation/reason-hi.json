@@ -1,0 +1,22 @@
+{
+  "id": "reason-hi",
+  "sourceTextHash": "cd960bbda7ee7cacd77e4e1dfd46a0acd8c7eba1219825c348fe8844f06a7e78",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Reason is a media-player software developed by Reason Studios. Music production studio with virtual rack instruments.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "reason"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

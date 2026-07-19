@@ -1,0 +1,34 @@
+---
+title: "Adobe Illustrator 教育使用例"
+date: "2026-07-19"
+draft: false
+description: "教育現場で Adobe Illustrator を使って画像処理の教育と学習を行います。"
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "illustrator"
+scenario: "educational"
+type: "use-case"
+use-case:
+  - educational
+tags:
+  - illustrator
+  - educational
+  - Design & Photography
+categories:
+  - Design & Photography
+---
+
+# Adobe Illustrator 教育使用例
+
+**教育現場で Adobe Illustrator を使って画像処理の教育と学習を行います。**
+
+## Use Case Details
+
+- **Industry**: Design & Photography
+- **Users**: Design students, educators, beginners
+- **Workflow**: Learning image editing fundamentals, classroom demonstrations, assignments
+- **Benefits**: Build foundational skills for design careers and creative projects
+
+## Software
+
+View [Open Source Alternatives for illustrator](../../alternatives/illustrator/) and [Similar Software to illustrator](../../similar/illustrator/).

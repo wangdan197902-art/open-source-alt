@@ -1,0 +1,22 @@
+{
+  "id": "clubhouse-es",
+  "sourceTextHash": "44386b3f428b04198807a3366944d32b13c9a4e666936f831e5ac47fc5ceb33d",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Clubhouse is a team-communication software developed by Clubhouse Media. Voice-based social network for dropping into audio rooms.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "clubhouse"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

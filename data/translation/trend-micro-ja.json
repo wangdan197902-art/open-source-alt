@@ -1,0 +1,22 @@
+{
+  "id": "trend-micro-ja",
+  "sourceTextHash": "1df5b4984b3b433e9f1f732008dac22d7bf1dfd81ced982668bb2a0f9f3fb5cf",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Trend Micro Maximum Security is a security-software software developed by Trend Micro. Internet security with ransomware protection and parental controls.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "trend-micro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

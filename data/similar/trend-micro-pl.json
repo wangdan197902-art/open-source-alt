@@ -1,0 +1,49 @@
+{
+  "id": "trend-micro-similar-pl",
+  "softwareId": "trend-micro",
+  "lang": "pl",
+  "title": "Oprogramowanie podobne do Trend Micro Maximum Security",
+  "description": "Poniżej znajduje się lista oprogramowania podobnego do Trend Micro Maximum Security.",
+  "similarSoftware": [
+    {
+      "id": "1password",
+      "name": "1Password",
+      "similarity": 0.95
+    },
+    {
+      "id": "adobe-acrobat-dc-pro",
+      "name": "Adobe Acrobat Pro DC (Redaction)",
+      "similarity": 0.89
+    },
+    {
+      "id": "avast-premium",
+      "name": "Avast Premium Security",
+      "similarity": 0.82
+    },
+    {
+      "id": "avg-ultimate",
+      "name": "AVG Ultimate",
+      "similarity": 0.76
+    },
+    {
+      "id": "bitdefender-gravityzone",
+      "name": "Bitdefender GravityZone",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

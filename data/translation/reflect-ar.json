@@ -1,0 +1,22 @@
+{
+  "id": "reflect-ar",
+  "sourceTextHash": "be3685b2ab653d780d7c77458456d4107839722c9d56d8bf2194101e35203f87",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Reflect is a note-taking software developed by Reflect. Networked note-taking app with backlinks and AI assistance.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "reflect"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

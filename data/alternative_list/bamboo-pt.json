@@ -1,0 +1,54 @@
+{
+  "id": "bamboo-alternatives-pt",
+  "softwareId": "bamboo",
+  "lang": "pt",
+  "title": "Alternativas de código aberto para Bamboo",
+  "description": "Abaixo está uma lista de alternativas de código aberto para Bamboo, gratuitas e com comunidade ativa.",
+  "alternatives": [
+    {
+      "opensourceId": "jenkins-4",
+      "opensourceName": "Jenkins",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código aberto oficialmente recomendada, altamente compatível com Bamboo"
+    },
+    {
+      "opensourceId": "dbeaver",
+      "opensourceName": "DBeaver",
+      "matchScore": 0.85,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "gitea",
+      "opensourceName": "Gitea",
+      "matchScore": 0.8,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "gitea-2",
+      "opensourceName": "Gitea",
+      "matchScore": 0.75,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "gitea-3",
+      "opensourceName": "Gitea",
+      "matchScore": 0.7,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

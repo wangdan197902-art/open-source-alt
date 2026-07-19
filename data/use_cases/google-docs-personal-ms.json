@@ -1,0 +1,29 @@
+{
+  "id": "google-docs-personal-ms",
+  "softwareId": "google-docs",
+  "scenario": "personal",
+  "lang": "ms",
+  "title": "Kes penggunaan peribadi Google Docs",
+  "description": "Gunakan Google Docs dalam kehidupan peribadi untuk kewangan peribadi dan dokumen isi rumah.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Home users, personal finance managers",
+    "workflow": "Personal budgets, household documents, invitations",
+    "benefits": "Free alternatives for personal productivity tasks"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

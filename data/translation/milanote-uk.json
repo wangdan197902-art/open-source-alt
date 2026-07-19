@@ -1,0 +1,22 @@
+{
+  "id": "milanote-uk",
+  "sourceTextHash": "0d00752c03647919041472ddf6005d6a6a7dd58f2644bf1ea1ea9955bd95ef6b",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Milanote is a note-taking software developed by Milanote. Visual boards for organizing creative projects and research.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "milanote"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

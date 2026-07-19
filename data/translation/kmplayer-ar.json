@@ -1,0 +1,22 @@
+{
+  "id": "kmplayer-ar",
+  "sourceTextHash": "e0459f6da8a669599ac7967d31fef37dda501c38dc811f18786adcdb7c15f942",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] KMPlayer is a media-player software developed by Pandora TV. Media player with 4K and 3D video support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "kmplayer"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

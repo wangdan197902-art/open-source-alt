@@ -1,0 +1,22 @@
+{
+  "id": "apple-notes-bn",
+  "sourceTextHash": "c16c2a6821ed9b07a2a22085938593744a0aea9d1257f17ed0d77fa0a908746c",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Apple Notes is a note-taking software developed by Apple. Built-in note app with checklists, sketches, and rich formatting.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "apple-notes"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

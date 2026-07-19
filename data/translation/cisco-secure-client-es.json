@@ -1,0 +1,22 @@
+{
+  "id": "cisco-secure-client-es",
+  "sourceTextHash": "81e0145faacfe8801b526d67dcf52fe8c7bdab7153eda601e02c6921a3e507f9",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Cisco Secure Client is a security-software software developed by Cisco. Enterprise VPN and endpoint security client.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "cisco-secure-client"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

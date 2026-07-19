@@ -1,0 +1,29 @@
+{
+  "id": "phpstorm-personal-bn",
+  "softwareId": "phpstorm",
+  "scenario": "personal",
+  "lang": "bn",
+  "title": "PhpStorm এর ব্যক্তিগত ব্যবহারের ক্ষেত্র",
+  "description": "ব্যক্তিগত জীবনে ব্যক্তিগত প্রোগ্রামিং প্রকল্প এবং ওপেন-সোর্স অবদান-এর জন্য PhpStorm ব্যবহার করুন।",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "Hobbyist developers, open-source contributors",
+    "workflow": "Personal projects, open-source contributions, side hustles",
+    "benefits": "Free tier supports personal coding projects and skill development"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

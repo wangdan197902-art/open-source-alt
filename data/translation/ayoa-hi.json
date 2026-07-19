@@ -1,0 +1,22 @@
+{
+  "id": "ayoa-hi",
+  "sourceTextHash": "c72a9defe23e3f766bcdc85bb3f495ae2a9219f23e2bd8d69f8b6993f9632d60",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Ayoa is a design-collaboration software developed by OpenGenius. Mind mapping, task management, and collaboration platform.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "ayoa"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

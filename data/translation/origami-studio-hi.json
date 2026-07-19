@@ -1,0 +1,22 @@
+{
+  "id": "origami-studio-hi",
+  "sourceTextHash": "ad527a1ae3d897ac2963e6545201a7cd12eeda8580b1f847194b68fd4e1432dc",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Origami Studio is a design-collaboration software developed by Meta. Free Mac tool for designing and prototyping interactive interfaces.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "origami-studio"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

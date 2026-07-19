@@ -1,0 +1,22 @@
+{
+  "id": "sketchup-id",
+  "sourceTextHash": "70682dae52c7a2e669f1c0d7fecf877443b72b7ae99a4de974039e4f1c0aab2a",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] SketchUp is a image-editing software developed by Trimble. 3D modeling software for architecture, interior, and DIY design.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "sketchup"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

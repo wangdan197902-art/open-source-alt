@@ -1,0 +1,22 @@
+{
+  "id": "substance-3d-designer-ms",
+  "sourceTextHash": "d7b347c63735775fab524c7894e45f04e731fc8b609982d46a20354aae856bcc",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Substance 3D Designer is a image-editing software developed by Adobe. Node-based material authoring tool for procedural textures.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "substance-3d-designer"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

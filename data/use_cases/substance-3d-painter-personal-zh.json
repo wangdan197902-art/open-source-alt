@@ -1,0 +1,29 @@
+{
+  "id": "substance-3d-painter-personal-zh",
+  "softwareId": "substance-3d-painter",
+  "scenario": "personal",
+  "lang": "zh",
+  "title": "Substance 3D Painter 个人使用场景",
+  "description": "在个人生活中使用 Substance 3D Painter 进行个人照片编辑和社交媒体创作。",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Hobbyists, social media enthusiasts",
+    "workflow": "Photo retouching, creative projects, social media content creation",
+    "benefits": "Easy photo enhancement for personal memories and online sharing"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

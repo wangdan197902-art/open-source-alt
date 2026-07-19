@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-visio-de",
+  "sourceTextHash": "1c666fde3d63362d8095678747b43105ff11e5ac610b17713de5ba355a4361c8",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Microsoft Visio is a office-suite software developed by Microsoft. Diagramming and flowchart software for technical and business use.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "microsoft-visio"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

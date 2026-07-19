@@ -1,0 +1,22 @@
+{
+  "id": "spotify-premium-pl",
+  "sourceTextHash": "5431f2f7db2a74736246ef792ee212fed9d5f2ad7193d32dfee3444090995647",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Spotify Premium is a media-player software developed by Spotify. Ad-free music streaming with offline downloads.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "spotify-premium"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

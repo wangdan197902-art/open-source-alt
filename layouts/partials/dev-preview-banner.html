@@ -1,0 +1,5 @@
+{{ if eq .Site.Params.env "development" }}
+<div class="dev-preview-banner" role="banner">
+  ⚠️ DEV PREVIEW - {{ i18n "dev_preview_text" | default "这是开发预览版，内容由AI生成，未经最终审核" }}
+</div>
+{{ end }}

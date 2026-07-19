@@ -1,0 +1,29 @@
+{
+  "id": "bear-professional-hi",
+  "softwareId": "bear",
+  "scenario": "professional",
+  "lang": "hi",
+  "title": "Bear के पेशेवर उपयोग मामले",
+  "description": "पेशेवर कार्य में नोट संगठन और परियोजना प्रबंधन के लिए Bear का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Knowledge Work",
+    "users": "Knowledge workers, project managers, researchers",
+    "workflow": "Note organization, project documentation, knowledge bases",
+    "benefits": "Centralizes knowledge and improves information retrieval"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "easeus-todo-backup-alternatives-uk",
+  "softwareId": "easeus-todo-backup",
+  "lang": "uk",
+  "title": "Відкриті альтернативи для EaseUS Todo Backup",
+  "description": "Нижче наведено список відкритих альтернатив для EaseUS Todo Backup, безкоштовних з активною спільнотою.",
+  "alternatives": [
+    {
+      "opensourceId": "clonezilla-2",
+      "opensourceName": "Clonezilla",
+      "matchScore": 0.95,
+      "reason": "Офіційно рекомендована відкрита альтернатива, високо сумісна з EaseUS Todo Backup"
+    },
+    {
+      "opensourceId": "albert",
+      "opensourceName": "Albert",
+      "matchScore": 0.85,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "albert-2",
+      "opensourceName": "Albert",
+      "matchScore": 0.8,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "albert-3",
+      "opensourceName": "Albert",
+      "matchScore": 0.75,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "baobab",
+      "opensourceName": "Baobab (Disk Usage Analyzer)",
+      "matchScore": 0.7,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

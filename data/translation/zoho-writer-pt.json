@@ -1,0 +1,22 @@
+{
+  "id": "zoho-writer-pt",
+  "sourceTextHash": "d2c7f847c156336490c74738b6160d071a049c870ea5a9b57210655ded074635",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] Zoho Writer is a office-suite software developed by Zoho. Online word processor with collaboration and AI writing tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zoho-writer"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

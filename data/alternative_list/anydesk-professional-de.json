@@ -1,0 +1,54 @@
+{
+  "id": "anydesk-professional-alternatives-de",
+  "softwareId": "anydesk-professional",
+  "lang": "de",
+  "title": "Open-Source-Alternativen zu AnyDesk Professional",
+  "description": "Nachfolgend finden Sie eine Liste von Open-Source-Alternativen zu AnyDesk Professional, die kostenlos sind und eine aktive Community haben.",
+  "alternatives": [
+    {
+      "opensourceId": "rustdesk-8",
+      "opensourceName": "RustDesk",
+      "matchScore": 0.95,
+      "reason": "Offiziell empfohlene Open-Source-Alternative, stark kompatibel mit AnyDesk Professional"
+    },
+    {
+      "opensourceId": "albert",
+      "opensourceName": "Albert",
+      "matchScore": 0.85,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "albert-2",
+      "opensourceName": "Albert",
+      "matchScore": 0.8,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "albert-3",
+      "opensourceName": "Albert",
+      "matchScore": 0.75,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "baobab",
+      "opensourceName": "Baobab (Disk Usage Analyzer)",
+      "matchScore": 0.7,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

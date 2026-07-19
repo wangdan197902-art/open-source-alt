@@ -1,0 +1,54 @@
+{
+  "id": "coda-alternatives-th",
+  "softwareId": "coda",
+  "lang": "th",
+  "title": "ทางเลือกโอเพ่นซอร์สสำหรับ Coda",
+  "description": "ด้านล่างนี้คือรายการทางเลือกโอเพ่นซอร์สสำหรับ Coda ฟรีและมีชุมชนที่ใช้งานอยู่",
+  "alternatives": [
+    {
+      "opensourceId": "appflowy-4",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.95,
+      "reason": "ทางเลือกโอเพ่นซอร์สที่แนะนำอย่างเป็นทางการ เข้ากันได้สูงกับ Coda"
+    },
+    {
+      "opensourceId": "affine",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "anytype",
+      "opensourceName": "Anytype",
+      "matchScore": 0.8,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "appflowy",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.75,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "appflowy-2",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.7,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

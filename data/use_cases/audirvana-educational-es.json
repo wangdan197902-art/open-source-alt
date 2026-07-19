@@ -1,0 +1,29 @@
+{
+  "id": "audirvana-educational-es",
+  "softwareId": "audirvana",
+  "scenario": "educational",
+  "lang": "es",
+  "title": "Casos de uso educativo de Audirvana",
+  "description": "Usa Audirvana en entornos educativos para reproducción de videos educativos y grabación de clases.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Students, educators, training content creators",
+    "workflow": "Educational video playback, lecture recordings, training materials",
+    "benefits": "Supports diverse media formats for educational content delivery"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

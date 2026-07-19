@@ -1,0 +1,54 @@
+{
+  "id": "smartdraw-alternatives-ms",
+  "softwareId": "smartdraw",
+  "lang": "ms",
+  "title": "Alternatif sumber terbuka untuk SmartDraw",
+  "description": "Berikut ialah senarai alternatif sumber terbuka untuk SmartDraw, percuma dengan komuniti aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "drawio-4",
+      "opensourceName": "draw.io",
+      "matchScore": 0.95,
+      "reason": "Alternatif sumber terbuka yang disyorkan secara rasmi, serasi tinggi dengan SmartDraw"
+    },
+    {
+      "opensourceId": "drawio",
+      "opensourceName": "draw.io",
+      "matchScore": 0.85,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "drawio-2",
+      "opensourceName": "draw.io",
+      "matchScore": 0.8,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "drawio-3",
+      "opensourceName": "draw.io",
+      "matchScore": 0.75,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "drawio-5",
+      "opensourceName": "draw.io",
+      "matchScore": 0.7,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cyberduck-donation-bn",
+  "sourceTextHash": "08deda6ecbd88f270dd5103bab5bffe14f457424e1a2aff2bf6d9419d28e28b3",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Cyberduck Donor is a system-utilities software developed by iterate GmbH. Donation version of Cyberduck cloud browser.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "cyberduck-donation"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

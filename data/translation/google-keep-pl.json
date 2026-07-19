@@ -1,0 +1,22 @@
+{
+  "id": "google-keep-pl",
+  "sourceTextHash": "42aa1ba350bec427bbf488b5bbfbe0bdf0b53455286e2a0ec610c84b43eb3500",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Google Keep is a note-taking software developed by Google. Quick note capture with color labels, reminders, and voice notes.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-keep"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

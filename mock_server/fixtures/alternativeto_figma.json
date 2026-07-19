@@ -1,0 +1,44 @@
+{
+  "alternatives": [
+    {
+      "id": "penpot",
+      "name": "Penpot",
+      "description": "开源的网页设计协作平台，支持矢量编辑、原型设计和团队协作，基于浏览器无需安装。",
+      "licenses": ["MPL-2.0"],
+      "platforms": ["Web", "Self-hosted"],
+      "likes": 1432
+    },
+    {
+      "id": "ladybird",
+      "name": "Akira",
+      "description": "开源的 Linux 原生 UI/UX 设计工具，专注于界面设计与交互原型，使用 Vala 和 GTK 构建。",
+      "licenses": ["GPL-3.0"],
+      "platforms": ["Linux"],
+      "likes": 287
+    },
+    {
+      "id": "quant-ux",
+      "name": "Quant-UX",
+      "description": "开源的设计与研究工具，结合原型设计、用户测试和数据分析，适合中小型团队。",
+      "licenses": ["AGPL-3.0"],
+      "platforms": ["Web", "Self-hosted"],
+      "likes": 421
+    },
+    {
+      "id": "pencil-project",
+      "name": "Pencil Project",
+      "description": "开源的 GUI 原型设计工具，提供丰富的内置组件库，适合快速制作线框图和原型。",
+      "licenses": ["GPL-2.0"],
+      "platforms": ["Linux", "Windows", "macOS"],
+      "likes": 198
+    },
+    {
+      "id": "figma-to-svg",
+      "name": "Plasma",
+      "description": "开源的设计与协作工具，专注于简化设计稿到代码的工作流，支持 SVG 导出。",
+      "licenses": ["MIT"],
+      "platforms": ["Web"],
+      "likes": 156
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "illustrator-fr",
+  "sourceTextHash": "e9f92348ec2f8c7cc30cc6b6aa5e2b2a89d758543270a821840ceef9d2757a76",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] Adobe Illustrator is a image-editing software developed by Adobe. Vector graphics editor for logos, icons, and illustrations.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "illustrator"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

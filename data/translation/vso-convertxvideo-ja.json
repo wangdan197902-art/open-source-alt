@@ -1,0 +1,22 @@
+{
+  "id": "vso-convertxvideo-ja",
+  "sourceTextHash": "37294823c1034e8436b0993ff1e4c6a145132a797177087bcc58094a4abafcaf",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] VSO ConvertXVideo is a media-player software developed by VSO Software. Video converter with Blu-ray and DVD burning.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "vso-convertxvideo"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "logmein-de",
+  "sourceTextHash": "9469ad81990e993cc013742f2a304abda3e514336607e875821102fd561a0889",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] LogMeIn is a video-conferencing software developed by GoTo. Remote access and management software for computers.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "logmein"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

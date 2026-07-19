@@ -1,0 +1,29 @@
+{
+  "id": "rider-educational-de",
+  "softwareId": "rider",
+  "scenario": "educational",
+  "lang": "de",
+  "title": "Bildungsszenarien für JetBrains Rider",
+  "description": "Verwende JetBrains Rider in Bildungsszenarien für Programmierunterricht und Code-Lernen.",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "CS students, coding bootcamp learners, educators",
+    "workflow": "Learning programming, completing assignments, building portfolio projects",
+    "benefits": "Powerful learning environment with debugging and code completion"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

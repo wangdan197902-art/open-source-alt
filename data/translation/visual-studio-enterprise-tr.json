@@ -1,0 +1,22 @@
+{
+  "id": "visual-studio-enterprise-tr",
+  "sourceTextHash": "11432d2bac080e5b6ee3b8184a21908c2b23d85f01a135889753a9069a6ac2e1",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] Visual Studio Enterprise is a development-tools software developed by Microsoft. Enterprise-grade IDE with advanced testing and architecture tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "visual-studio-enterprise"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

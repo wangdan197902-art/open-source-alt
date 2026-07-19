@@ -1,0 +1,29 @@
+{
+  "id": "pycharm-professional-professional-ms",
+  "softwareId": "pycharm-professional",
+  "scenario": "professional",
+  "lang": "ms",
+  "title": "Kes penggunaan profesional PyCharm Professional",
+  "description": "Gunakan PyCharm Professional dalam kerja profesional untuk penyuntingan kod, penyahpepijatan dan kawalan versi.",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "Software engineers, devops teams, tech leads",
+    "workflow": "Code editing, debugging, version control, CI/CD pipeline integration",
+    "benefits": "Boosts developer productivity with intelligent tooling and integrations"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

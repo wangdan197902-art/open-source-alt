@@ -1,0 +1,54 @@
+{
+  "id": "whatsapp-alternatives-pt",
+  "softwareId": "whatsapp",
+  "lang": "pt",
+  "title": "Alternativas de código aberto para WhatsApp",
+  "description": "Abaixo está uma lista de alternativas de código aberto para WhatsApp, gratuitas e com comunidade ativa.",
+  "alternatives": [
+    {
+      "opensourceId": "signal",
+      "opensourceName": "Signal",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código aberto oficialmente recomendada, altamente compatível com WhatsApp"
+    },
+    {
+      "opensourceId": "chatwoot",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.85,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "chatwoot-2",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.8,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "chatwoot-3",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.75,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "chatwoot-4",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.7,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

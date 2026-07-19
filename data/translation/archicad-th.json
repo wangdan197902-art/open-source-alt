@@ -1,0 +1,22 @@
+{
+  "id": "archicad-th",
+  "sourceTextHash": "7c789c52dadf001ad64e72561dd939508df6d61440860ba30ffd66b94ea43278",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Archicad is a image-editing software developed by Graphisoft. BIM software for architects with documentation workflows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "archicad"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

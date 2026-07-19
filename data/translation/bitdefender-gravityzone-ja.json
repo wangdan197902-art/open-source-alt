@@ -1,0 +1,22 @@
+{
+  "id": "bitdefender-gravityzone-ja",
+  "sourceTextHash": "c3a3d5d955e201fae9621178559c8417a51071fc97fd8a0e059486301ce3e9d2",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Bitdefender GravityZone is a security-software software developed by Bitdefender. Business security platform with single console.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "bitdefender-gravityzone"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

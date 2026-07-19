@@ -1,0 +1,22 @@
+{
+  "id": "iwork-keynote-de",
+  "sourceTextHash": "af0c28d2ba6058631e68474fbb25e299300e961b6cfbb3eb5e03180d5dcdc30e",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Apple Keynote is a office-suite software developed by Apple. Mac presentation app with cinematic transitions and animations.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "iwork-keynote"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

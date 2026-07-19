@@ -1,0 +1,29 @@
+{
+  "id": "comodo-internet-security-personal-nl",
+  "softwareId": "comodo-internet-security",
+  "scenario": "personal",
+  "lang": "nl",
+  "title": "Persoonlijke gebruikssituaties voor Comodo Internet Security Premium",
+  "description": "Gebruik Comodo Internet Security Premium in het persoonlijke leven voor persoonlijke apparaatbescherming en privacybeveiliging.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Home users, privacy-conscious individuals",
+    "workflow": "Personal device protection, privacy tools, secure browsing",
+    "benefits": "Protects personal data and online privacy"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

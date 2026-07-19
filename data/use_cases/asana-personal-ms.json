@@ -1,0 +1,29 @@
+{
+  "id": "asana-personal-ms",
+  "softwareId": "asana",
+  "scenario": "personal",
+  "lang": "ms",
+  "title": "Kes penggunaan peribadi Asana",
+  "description": "Gunakan Asana dalam kehidupan peribadi untuk projek pengaturcaraan peribadi dan sumbangan sumber terbuka.",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "Hobbyist developers, open-source contributors",
+    "workflow": "Personal projects, open-source contributions, side hustles",
+    "benefits": "Free tier supports personal coding projects and skill development"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

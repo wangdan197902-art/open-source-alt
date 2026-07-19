@@ -1,0 +1,22 @@
+{
+  "id": "around-ms",
+  "sourceTextHash": "8b0d1674bba27dab5066991682f612a593b4b821a29202aea759ffdad05a7213",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Around is a video-conferencing software developed by Around. Always-on video calls designed for hybrid and remote dev teams.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "around"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

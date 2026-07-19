@@ -1,0 +1,22 @@
+{
+  "id": "cubase-pl",
+  "sourceTextHash": "6bb6b89e017a0dfe1277a558a0f57343fb91d51933579f8864cbf6a16c9c8ccc",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Cubase Pro is a media-player software developed by Steinberg. Music production system with MIDI and audio tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "cubase"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

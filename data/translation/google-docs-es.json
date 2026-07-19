@@ -1,0 +1,22 @@
+{
+  "id": "google-docs-es",
+  "sourceTextHash": "e4c0e5d0a0405352254674f19e45c192ca4c930490e2e21caedaf891b36b9153",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Google Docs is a office-suite software developed by Google. Web-based word processor with real-time collaboration.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-docs"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

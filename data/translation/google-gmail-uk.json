@@ -1,0 +1,22 @@
+{
+  "id": "google-gmail-uk",
+  "sourceTextHash": "c60051dcb3a5ffd3e87a0f7d2e7f40abadcf34f710fe1a8c13611770a25cf1f3",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Gmail is a office-suite software developed by Google. Webmail service with chat, video, and integrated productivity tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-gmail"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

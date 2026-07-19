@@ -1,0 +1,22 @@
+{
+  "id": "smartdraw-zh",
+  "sourceTextHash": "8d7839eeb00727c819009cdc9296909ba05f259249fafa473553eb8be04f2c05",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] SmartDraw is a design-collaboration software developed by SmartDraw Software. Diagramming software with templates for charts and floor plans.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "smartdraw"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

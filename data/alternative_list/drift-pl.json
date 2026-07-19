@@ -1,0 +1,54 @@
+{
+  "id": "drift-alternatives-pl",
+  "softwareId": "drift",
+  "lang": "pl",
+  "title": "Alternatywy open-source dla Drift",
+  "description": "Poniżej znajduje się lista alternatyw open-source dla Drift, darmowych z aktywną społecznością.",
+  "alternatives": [
+    {
+      "opensourceId": "chatwoot",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.95,
+      "reason": "Oficjalnie polecana alternatywa open-source, wysoć zgodna z Drift"
+    },
+    {
+      "opensourceId": "chatwoot-2",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.85,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "chatwoot-3",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.8,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "chatwoot-4",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.75,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    },
+    {
+      "opensourceId": "chatwoot-5",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.7,
+      "reason": "Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

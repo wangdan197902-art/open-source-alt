@@ -1,0 +1,22 @@
+{
+  "id": "penpot",
+  "name": "Penpot",
+  "license": "MPL-2.0",
+  "repository": "https://github.com/penpot/penpot",
+  "category": "design-collaboration",
+  "platforms": ["Web", "Linux", "Windows", "macOS"],
+  "maturityLevel": "stable",
+  "communitySize": "medium",
+  "reviewStatus": "approved",
+  "aiGenerated": false,
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19"
+  },
+  "_meta": {
+    "source": "official-repository",
+    "schema_version": "1.0.0",
+    "unverified_fields": [],
+    "confidence": "high"
+  }
+}

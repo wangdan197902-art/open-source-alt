@@ -1,0 +1,22 @@
+{
+  "id": "invision-fr",
+  "sourceTextHash": "b8b6dcd8cac6686124bcc3798fbb331563602fa37773db7eb3d622b9f354a05b",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] InVision is a design-collaboration software developed by InVisionApp. Digital product design platform for prototyping and collaboration.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "invision"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

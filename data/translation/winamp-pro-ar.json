@@ -1,0 +1,22 @@
+{
+  "id": "winamp-pro-ar",
+  "sourceTextHash": "b2e8fbbbcebe4f2d47317c06361447eb25027699fae7f9db7ad7b704538870c1",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Winamp Pro is a media-player software developed by Radionomy. Classic media player with pro features for ripping and burning.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "winamp-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

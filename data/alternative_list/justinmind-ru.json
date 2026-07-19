@@ -1,0 +1,54 @@
+{
+  "id": "justinmind-alternatives-ru",
+  "softwareId": "justinmind",
+  "lang": "ru",
+  "title": "Открытые альтернативы для Justinmind",
+  "description": "Ниже приведен список открытых альтернатив для Justinmind, бесплатных и с активным сообществом.",
+  "alternatives": [
+    {
+      "opensourceId": "pencil-3",
+      "opensourceName": "Pencil Project",
+      "matchScore": 0.95,
+      "reason": "Официально рекомендованная открытая альтернатива, высоко совместимая с Justinmind"
+    },
+    {
+      "opensourceId": "drawio",
+      "opensourceName": "draw.io",
+      "matchScore": 0.85,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "drawio-2",
+      "opensourceName": "draw.io",
+      "matchScore": 0.8,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "drawio-3",
+      "opensourceName": "draw.io",
+      "matchScore": 0.75,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "drawio-4",
+      "opensourceName": "draw.io",
+      "matchScore": 0.7,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

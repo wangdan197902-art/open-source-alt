@@ -1,0 +1,29 @@
+{
+  "id": "apple-photos-educational-pl",
+  "softwareId": "apple-photos",
+  "scenario": "educational",
+  "lang": "pl",
+  "title": "Edukacyjne przypadki użycia programu Apple Photos",
+  "description": "Używaj programu Apple Photos w scenariuszach edukacyjnych do prace akademickie i materiały edukacyjne.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Students, teachers, academic staff",
+    "workflow": "Assignments, lesson plans, academic papers",
+    "benefits": "Standard tools for academic document creation"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

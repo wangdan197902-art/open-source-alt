@@ -1,0 +1,22 @@
+{
+  "id": "google-duo-ms",
+  "sourceTextHash": "ac419806069b463c66d68a497de7fa3fc102477b682cc1d548bff48edf671af5",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Google Duo is a video-conferencing software developed by Google. Simple one-to-one video calling app, now part of Google Meet.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-duo"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

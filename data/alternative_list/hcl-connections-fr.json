@@ -1,0 +1,54 @@
+{
+  "id": "hcl-connections-alternatives-fr",
+  "softwareId": "hcl-connections",
+  "lang": "fr",
+  "title": "Alternatives open-source pour HCL Connections",
+  "description": "Voici une liste d'alternatives open-source pour HCL Connections, gratuites avec une communauté active.",
+  "alternatives": [
+    {
+      "opensourceId": "mattermost-21",
+      "opensourceName": "Mattermost",
+      "matchScore": 0.95,
+      "reason": "Alternative open-source officiellement recommandée, hautement compatible avec HCL Connections"
+    },
+    {
+      "opensourceId": "chatwoot",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.85,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "chatwoot-2",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.8,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "chatwoot-3",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.75,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    },
+    {
+      "opensourceId": "chatwoot-4",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.7,
+      "reason": "Logiciel open-source de même catégorie, disponible comme alternative"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

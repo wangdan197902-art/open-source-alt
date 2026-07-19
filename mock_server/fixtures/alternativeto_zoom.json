@@ -1,0 +1,44 @@
+{
+  "alternatives": [
+    {
+      "id": "bigbluebutton",
+      "name": "BigBlueButton",
+      "description": "开源的网页会议系统，专为教育场景设计，支持白板、分组讨论、投票和录制，可自托管。",
+      "licenses": ["LGPL-3.0"],
+      "platforms": ["Web", "Self-hosted"],
+      "likes": 1654
+    },
+    {
+      "id": "jitsi-meet",
+      "name": "Jitsi Meet",
+      "description": "开源视频会议解决方案，支持无限制会议、直播、录制和端到端加密，可自托管。",
+      "licenses": ["Apache-2.0"],
+      "platforms": ["Web", "Self-hosted", "iOS", "Android", "Windows", "macOS", "Linux"],
+      "likes": 2876
+    },
+    {
+      "id": "rocketchat-video",
+      "name": "Nextcloud Talk",
+      "description": "Nextcloud 集成的视频会议和聊天工具，支持自托管、端到端加密和文件共享，企业级隐私保护。",
+      "licenses": ["AGPL-3.0"],
+      "platforms": ["Web", "Self-hosted", "iOS", "Android"],
+      "likes": 743
+    },
+    {
+      "id": "meetpad",
+      "name": "Jami",
+      "description": "开源点对点视频会议软件，无需中心服务器，支持端到端加密，注重用户隐私。",
+      "licenses": ["GPL-3.0"],
+      "platforms": ["Linux", "Windows", "macOS", "iOS", "Android"],
+      "likes": 421
+    },
+    {
+      "id": "galene",
+      "name": "Galène",
+      "description": "轻量级开源视频会议服务器，使用 Go 编写，部署简单，适合小型团队和教学场景。",
+      "licenses": ["MIT"],
+      "platforms": ["Web", "Self-hosted"],
+      "likes": 198
+    }
+  ]
+}

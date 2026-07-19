@@ -1,0 +1,22 @@
+{
+  "id": "audirvana-es",
+  "sourceTextHash": "50c78375da9e14b6eb9fd487ae9cc40fc702ee5a00c4c0127fd4cc24ba62890b",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Audirvana is a media-player software developed by Audirvana. HiFi audio player for Mac with optimized sound engine.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "audirvana"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

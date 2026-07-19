@@ -1,0 +1,22 @@
+{
+  "id": "todoist-ja",
+  "sourceTextHash": "5ea50324e97dd7c798872f85a0808052a562279574e48dadaafb58a2789c7264",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Todoist is a note-taking software developed by Doist. Cross-platform to-do list with natural language scheduling.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "todoist"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

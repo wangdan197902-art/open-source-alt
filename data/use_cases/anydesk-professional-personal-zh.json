@@ -1,0 +1,29 @@
+{
+  "id": "anydesk-professional-personal-zh",
+  "softwareId": "anydesk-professional",
+  "scenario": "personal",
+  "lang": "zh",
+  "title": "AnyDesk Professional 个人使用场景",
+  "description": "在个人生活中使用 AnyDesk Professional 进行个人电脑维护和文件整理。",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "Power users, home lab enthusiasts",
+    "workflow": "Personal computer maintenance, file organization, system tweaks",
+    "benefits": "Free utilities for keeping personal systems running smoothly"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "monday-com-personal-th",
+  "softwareId": "monday-com",
+  "scenario": "personal",
+  "lang": "th",
+  "title": "กรณีการใช้งานส่วนบุคคลของ Monday.com",
+  "description": "ใช้ Monday.com ในชีวิตประจำวันเพื่อโครงการเขียนโปรแกรมส่วนบุคคลและการมีส่วนร่วมใน open-source",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "Hobbyist developers, open-source contributors",
+    "workflow": "Personal projects, open-source contributions, side hustles",
+    "benefits": "Free tier supports personal coding projects and skill development"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

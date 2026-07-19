@@ -1,0 +1,29 @@
+{
+  "id": "beyond-compare-educational-ko",
+  "softwareId": "beyond-compare",
+  "scenario": "educational",
+  "lang": "ko",
+  "title": "Beyond Compare 교육 사용 사례",
+  "description": "교육 현장에서 Beyond Compare을(를) 사용하여 프로그래밍 교육 및 코드 학습 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "CS students, coding bootcamp learners, educators",
+    "workflow": "Learning programming, completing assignments, building portfolio projects",
+    "benefits": "Powerful learning environment with debugging and code completion"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

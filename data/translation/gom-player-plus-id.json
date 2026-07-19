@@ -1,0 +1,22 @@
+{
+  "id": "gom-player-plus-id",
+  "sourceTextHash": "ba6b37810bfa12cb36e296a9903f275177ff0a9ecf7a93921d979ae52e464823",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] GOM Player Plus is a media-player software developed by Gretech. Ad-free media player with 360-degree VR support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "gom-player-plus"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

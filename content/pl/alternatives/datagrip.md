@@ -1,0 +1,28 @@
+---
+title: "Alternatywy open-source dla DataGrip"
+date: "2026-07-19"
+draft: false
+description: "Poniżej znajduje się lista alternatyw open-source dla DataGrip, darmowych z aktywną społecznością."
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "datagrip"
+type: "alternative-list"
+---
+
+# Alternatywy open-source dla DataGrip
+
+**Poniżej znajduje się lista alternatyw open-source dla DataGrip, darmowych z aktywną społecznością.**
+
+## Open Source Alternatives
+
+| Open Source Software | Match Score | Reason |
+|---------------------|-------------|--------|
+| DBeaver | 95% | Oficjalnie polecana alternatywa open-source, wysoć zgodna z DataGrip |
+| Gitea | 85% | Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa |
+| Gitea | 80% | Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa |
+| Gitea | 75% | Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa |
+| GitKraken Free | 70% | Oprogramowanie open-source tej samej kategorii, dostępne jako alternatywa |
+
+## Related Pages
+
+- [Similar Software to datagrip](../../similar/datagrip/)

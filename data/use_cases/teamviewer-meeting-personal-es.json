@@ -1,0 +1,29 @@
+{
+  "id": "teamviewer-meeting-personal-es",
+  "softwareId": "teamviewer-meeting",
+  "scenario": "personal",
+  "lang": "es",
+  "title": "Casos de uso personal de TeamViewer Meeting",
+  "description": "Usa TeamViewer Meeting en la vida personal para videollamadas familiares y reuniones de amigos.",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Families, friends, community groups",
+    "workflow": "Family video calls, friend catch-ups, virtual events",
+    "benefits": "Free video calls keep personal connections strong across distances"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

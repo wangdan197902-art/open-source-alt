@@ -1,0 +1,54 @@
+{
+  "id": "xmind-alternatives-vi",
+  "softwareId": "xmind",
+  "lang": "vi",
+  "title": "Các giải pháp thay thế mã nguồn mở cho XMind",
+  "description": "Dưới đây là danh sách các giải pháp thay thế mã nguồn mở cho XMind, miễn phí và có cộng đồng tích cực.",
+  "alternatives": [
+    {
+      "opensourceId": "freeplane-3",
+      "opensourceName": "Freeplane",
+      "matchScore": 0.95,
+      "reason": "Giải pháp thay thế mã nguồn mở được đề xuất chính thức, tương thích cao với XMind"
+    },
+    {
+      "opensourceId": "drawio",
+      "opensourceName": "draw.io",
+      "matchScore": 0.85,
+      "reason": "Phần mềm mã nguồn mở cùng danh mục, có sẵn như một giải pháp thay thế"
+    },
+    {
+      "opensourceId": "drawio-2",
+      "opensourceName": "draw.io",
+      "matchScore": 0.8,
+      "reason": "Phần mềm mã nguồn mở cùng danh mục, có sẵn như một giải pháp thay thế"
+    },
+    {
+      "opensourceId": "drawio-3",
+      "opensourceName": "draw.io",
+      "matchScore": 0.75,
+      "reason": "Phần mềm mã nguồn mở cùng danh mục, có sẵn như một giải pháp thay thế"
+    },
+    {
+      "opensourceId": "drawio-4",
+      "opensourceName": "draw.io",
+      "matchScore": 0.7,
+      "reason": "Phần mềm mã nguồn mở cùng danh mục, có sẵn như một giải pháp thay thế"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

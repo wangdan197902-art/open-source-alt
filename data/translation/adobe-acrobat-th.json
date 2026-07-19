@@ -1,0 +1,22 @@
+{
+  "id": "adobe-acrobat-th",
+  "sourceTextHash": "1203e1a6ab0fcbc363836084d02a8ae24b72ed0606a3e2fb19b1f9b07049638c",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Adobe Acrobat is a office-suite software developed by Adobe. PDF reader and editor for creating, signing, and sharing documents.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "adobe-acrobat"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "acronis-cyber-protect-alternatives-ms",
+  "softwareId": "acronis-cyber-protect",
+  "lang": "ms",
+  "title": "Alternatif sumber terbuka untuk Acronis Cyber Protect Home Office",
+  "description": "Berikut ialah senarai alternatif sumber terbuka untuk Acronis Cyber Protect Home Office, percuma dengan komuniti aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "borgbackup-3",
+      "opensourceName": "BorgBackup",
+      "matchScore": 0.95,
+      "reason": "Alternatif sumber terbuka yang disyorkan secara rasmi, serasi tinggi dengan Acronis Cyber Protect Home Office"
+    },
+    {
+      "opensourceId": "albert",
+      "opensourceName": "Albert",
+      "matchScore": 0.85,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "albert-2",
+      "opensourceName": "Albert",
+      "matchScore": 0.8,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "albert-3",
+      "opensourceName": "Albert",
+      "matchScore": 0.75,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "baobab",
+      "opensourceName": "Baobab (Disk Usage Analyzer)",
+      "matchScore": 0.7,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

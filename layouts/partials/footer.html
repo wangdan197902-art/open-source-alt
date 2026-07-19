@@ -1,0 +1,30 @@
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-col">
+      <h4>{{ .Site.Title }}</h4>
+      <p>{{ .Site.Params.description }}</p>
+    </div>
+
+    <div class="footer-col">
+      <h4>{{ i18n "footer_ai_title" | default "AI 内容披露" }}</h4>
+      <p>
+        {{ i18n "footer_ai_text" | default "本网站内容由AI辅助生成，并经过人工审核。请批判性参考，重要决策请自行验证。" }}
+      </p>
+    </div>
+
+    <div class="footer-col">
+      <h4>{{ i18n "footer_links" | default "链接" }}</h4>
+      <ul>
+        <li><a href="{{ .Site.LanguagePrefix }}/">{{ i18n "home" | default "首页" }}</a></li>
+        <li><a href="{{ .Site.LanguagePrefix }}/alternatives/">{{ i18n "alternatives" | default "商业软件替代方案" }}</a></li>
+        <li><a href="https://github.com/ossaf/ossaf" target="_blank" rel="noopener">GitHub</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container">
+      <p>&copy; {{ now.Format "2006" }} OSSAF · {{ i18n "footer_rights" | default "采用 CC BY-SA 4.0 许可" }}</p>
+    </div>
+  </div>
+</footer>

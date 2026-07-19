@@ -1,0 +1,22 @@
+{
+  "id": "twist-ru",
+  "sourceTextHash": "35ae977cd0247b9d7e14754260068d35259ff7830ced1293c5a11869ec8c4933",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Twist is a team-communication software developed by Doist. Async-first team communication organized by threads.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "twist"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

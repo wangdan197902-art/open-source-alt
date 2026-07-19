@@ -1,0 +1,22 @@
+{
+  "id": "onenote-pt",
+  "sourceTextHash": "751421445ae9ae3eaf7519973e96fcb91f7e53eeb69145627ceff056baeaafbb",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] Microsoft OneNote is a note-taking software developed by Microsoft. Digital notebook with free-form sections, pages, and ink support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "onenote"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

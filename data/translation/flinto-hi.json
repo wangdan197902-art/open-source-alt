@@ -1,0 +1,22 @@
+{
+  "id": "flinto-hi",
+  "sourceTextHash": "d35e20e791245bf0c3478dbac0e9a1aa4ecf5cd7d0d5e0732e88869fad68bad6",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Flinto is a design-collaboration software developed by Flinto. Mac prototyping tool for animated app interactions.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "flinto"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

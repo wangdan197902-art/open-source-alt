@@ -1,0 +1,22 @@
+{
+  "id": "symphony-de",
+  "sourceTextHash": "99c4286c706334d94a132d49735616a9dbf1d772873000cbba927e9aebedfaa2",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Symphony is a team-communication software developed by Symphony Communication Services. Secure messaging platform for financial services firms.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "symphony"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "marco-polo-vi",
+  "sourceTextHash": "8e5250629017facec907bc80ce1f4979ed2879a00a81fa9ce61e7d8ba97d7615",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Marco Polo is a video-conferencing software developed by Joya Communications. Video messaging app for staying in touch with friends and family.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "marco-polo"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

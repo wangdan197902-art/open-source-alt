@@ -1,0 +1,22 @@
+{
+  "id": "travis-ci-pl",
+  "sourceTextHash": "a8d343a82b83a45b3f4955ed2aa8363323e543470b9d3fecdc15a25f8b3e3685",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Travis CI is a development-tools software developed by Travis CI. Hosted continuous integration service for GitHub projects.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "travis-ci"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

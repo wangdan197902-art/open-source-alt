@@ -1,0 +1,36 @@
+{
+  "id": "notion-vs-obsidian",
+  "proprietaryId": "notion",
+  "openSourceId": "obsidian",
+  "featureComparison": [
+    {"feature": "Markdown笔记", "proprietarySupport": "yes", "openSourceSupport": "yes"},
+    {"feature": "数据库表格", "proprietarySupport": "yes", "openSourceSupport": "partial", "notes": "通过插件实现"},
+    {"feature": "实时协作", "proprietarySupport": "yes", "openSourceSupport": "partial", "notes": "需Obsidian Sync付费服务"},
+    {"feature": "离线访问", "proprietarySupport": "partial", "openSourceSupport": "yes"},
+    {"feature": "本地存储", "proprietarySupport": "no", "openSourceSupport": "yes"},
+    {"feature": "双向链接", "proprietarySupport": "yes", "openSourceSupport": "yes"},
+    {"feature": "插件生态", "proprietarySupport": "yes", "openSourceSupport": "yes", "notes": "Obsidian社区插件丰富"}
+  ],
+  "pros": ["本地优先存储，数据完全可控", "插件生态丰富", "快速且离线可用", "双向链接构建知识图谱"],
+  "cons": ["协作功能需付费Sync", "数据库功能弱于Notion", "对非技术用户学习曲线较陡"],
+  "migrationDifficulty": "medium",
+  "useCases": ["个人笔记", "知识管理", "研究写作", "任务规划"],
+  "aiGenerated": true,
+  "aiGeneratedDetails": {
+    "model": "claude-3-sonnet",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "promptHash": "sha256-notion-vs-obsidian-comparison-prompt-v1",
+    "tokensUsed": 1100
+  },
+  "reviewStatus": "approved",
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19"
+  },
+  "_meta": {
+    "source": "ai-generated-and-reviewed",
+    "schema_version": "1.0.0",
+    "unverified_fields": [],
+    "confidence": "high"
+  }
+}

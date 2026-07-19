@@ -1,0 +1,29 @@
+{
+  "id": "bear-professional-ko",
+  "softwareId": "bear",
+  "scenario": "professional",
+  "lang": "ko",
+  "title": "Bear 전문 사용 사례",
+  "description": "전문 작업에서 Bear을(를) 사용하여 노트 정리 및 프로젝트 관리 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Knowledge Work",
+    "users": "Knowledge workers, project managers, researchers",
+    "workflow": "Note organization, project documentation, knowledge bases",
+    "benefits": "Centralizes knowledge and improves information retrieval"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

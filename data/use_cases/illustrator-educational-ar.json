@@ -1,0 +1,29 @@
+{
+  "id": "illustrator-educational-ar",
+  "softwareId": "illustrator",
+  "scenario": "educational",
+  "lang": "ar",
+  "title": "حالات الاستخدام التعليمية لـ Adobe Illustrator",
+  "description": "استخدم Adobe Illustrator في البيئات التعليمية لأجل تدريس وتعلم معالجة الصور.",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Design students, educators, beginners",
+    "workflow": "Learning image editing fundamentals, classroom demonstrations, assignments",
+    "benefits": "Build foundational skills for design careers and creative projects"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

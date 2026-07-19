@@ -1,0 +1,29 @@
+{
+  "id": "microsoft-defender-for-endpoint-personal-vi",
+  "softwareId": "microsoft-defender-for-endpoint",
+  "scenario": "personal",
+  "lang": "vi",
+  "title": "Tình huống sử dụng cá nhân của Microsoft Defender for Endpoint",
+  "description": "Sử dụng Microsoft Defender for Endpoint trong đời sống cá nhân để bảo vệ thiết bị cá nhân và bảo mật quyền riêng tư.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Home users, privacy-conscious individuals",
+    "workflow": "Personal device protection, privacy tools, secure browsing",
+    "benefits": "Protects personal data and online privacy"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

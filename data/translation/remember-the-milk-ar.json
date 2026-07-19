@@ -1,0 +1,22 @@
+{
+  "id": "remember-the-milk-ar",
+  "sourceTextHash": "6e217f1dbab6d9e3b8805607dc1274922d60737e7b5707df3d6542c618b4f788",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Remember The Milk is a note-taking software developed by Remember The Milk. Smart to-do app with tags, locations, and sync.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "remember-the-milk"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

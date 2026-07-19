@@ -1,0 +1,22 @@
+{
+  "id": "remnote-de",
+  "sourceTextHash": "5be1df1ef6a5a3345557551e923b1864f93802c587757cf8b57d621c56251863",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] RemNote is a note-taking software developed by RemNote. Note-taking app with built-in spaced repetition flashcards.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "remnote"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

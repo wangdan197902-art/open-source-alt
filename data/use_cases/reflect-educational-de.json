@@ -1,0 +1,29 @@
+{
+  "id": "reflect-educational-de",
+  "softwareId": "reflect",
+  "scenario": "educational",
+  "lang": "de",
+  "title": "Bildungsszenarien für Reflect",
+  "description": "Verwende Reflect in Bildungsszenarien für Lernnotizen und Forschungsorganisation.",
+  "useCaseDetails": {
+    "industry": "Knowledge Work",
+    "users": "Students, researchers, academics",
+    "workflow": "Lecture notes, research organization, study materials",
+    "benefits": "Improves learning outcomes with structured knowledge management"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

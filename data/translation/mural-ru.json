@@ -1,0 +1,22 @@
+{
+  "id": "mural-ru",
+  "sourceTextHash": "13853f17faa971a62d0c822663340f3ce47b4c9ff88af748260d246994ecc002",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] MURAL is a design-collaboration software developed by Mural. Digital workspace for visual collaboration and facilitation.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mural"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

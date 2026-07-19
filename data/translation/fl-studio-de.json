@@ -1,0 +1,22 @@
+{
+  "id": "fl-studio-de",
+  "sourceTextHash": "752789bb7bb327661c107f398936ee3c1e194c4c15e2f88f9d0561138559261d",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] FL Studio is a media-player software developed by Image-Line. Music production DAW with pattern-based workflow.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "fl-studio"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

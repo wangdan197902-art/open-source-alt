@@ -1,0 +1,29 @@
+{
+  "id": "proto-pie-personal-zh",
+  "softwareId": "proto-pie",
+  "scenario": "personal",
+  "lang": "zh",
+  "title": "ProtoPie 个人使用场景",
+  "description": "在个人生活中使用 ProtoPie 进行个人作品集和自由职业设计。",
+  "useCaseDetails": {
+    "industry": "Design & Product",
+    "users": "Freelance designers, side-project creators",
+    "workflow": "Personal portfolio design, side project mockups, freelance client work",
+    "benefits": "Free tier supports personal creative work and portfolio building"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

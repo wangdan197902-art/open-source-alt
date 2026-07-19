@@ -1,0 +1,22 @@
+{
+  "id": "rocketbook-app-bn",
+  "sourceTextHash": "723b41e1818fd86b03e9b1a50ec8b92e2c79aabaa9760a9dd7047266725504b7",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Rocketbook Smart Notebook App is a team-communication software developed by Rocketbook. Companion app for scanning and sharing handwritten notes.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "rocketbook-app"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

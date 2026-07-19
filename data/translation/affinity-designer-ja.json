@@ -1,0 +1,22 @@
+{
+  "id": "affinity-designer-ja",
+  "sourceTextHash": "cc9b4f0a6966125209137cdc907db7db8061d561428140525d3ad070a03abe68",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Affinity Designer is a image-editing software developed by Serif. Vector and raster design tool for UI, branding, and illustration.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "affinity-designer"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

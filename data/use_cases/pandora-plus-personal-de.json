@@ -1,0 +1,29 @@
+{
+  "id": "pandora-plus-personal-de",
+  "softwareId": "pandora-plus",
+  "scenario": "personal",
+  "lang": "de",
+  "title": "Persönliche Anwendungsfälle für Pandora Plus",
+  "description": "Verwende Pandora Plus im persönlichen Alltag für persönliche Mediathek und Unterhaltung.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "General consumers, movie enthusiasts",
+    "workflow": "Personal media library, movie watching, music playback",
+    "benefits": "Free high-quality media playback for personal entertainment"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

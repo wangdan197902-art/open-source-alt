@@ -1,0 +1,49 @@
+{
+  "id": "omni-focus-similar-pt",
+  "softwareId": "omni-focus",
+  "lang": "pt",
+  "title": "Software similar ao OmniFocus",
+  "description": "Abaixo está uma lista de softwares similares ao OmniFocus.",
+  "similarSoftware": [
+    {
+      "id": "airtable",
+      "name": "Airtable",
+      "similarity": 0.95
+    },
+    {
+      "id": "any-do",
+      "name": "Any.do",
+      "similarity": 0.89
+    },
+    {
+      "id": "apple-notes",
+      "name": "Apple Notes",
+      "similarity": 0.82
+    },
+    {
+      "id": "bear",
+      "name": "Bear",
+      "similarity": 0.76
+    },
+    {
+      "id": "bundle-notes",
+      "name": "Bundle Notes",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

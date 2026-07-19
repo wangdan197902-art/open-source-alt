@@ -1,0 +1,22 @@
+{
+  "id": "google-sheets-vi",
+  "sourceTextHash": "78704754191c7a5541748fb7cd17ca8915ef62a8bf67462bfcfef90ae3175f60",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Google Sheets is a office-suite software developed by Google. Web-based spreadsheet app with collaboration and formulas.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-sheets"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pixelmator-pro-ms",
+  "sourceTextHash": "7c5873bccdcbc38c17576065390a33b07bfc41226024ec8ba71f3f0d7cab3da6",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Pixelmator Pro is a image-editing software developed by Pixelmator. Mac image editor with machine-learning-enhanced tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "pixelmator-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

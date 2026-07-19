@@ -1,0 +1,22 @@
+{
+  "id": "wire-pro-th",
+  "sourceTextHash": "df8924509157723bdf99562a778c3f4f40faba9838d8b4b1b609cac0d5fafcae",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Wire Pro is a team-communication software developed by Wire. Secure team messaging for businesses with end-to-end encryption.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "wire-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

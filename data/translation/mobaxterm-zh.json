@@ -1,0 +1,22 @@
+{
+  "id": "mobaxterm-zh",
+  "sourceTextHash": "dc096446141cca0d7efb7d108a340eeb7396c712317b9dd0ca4800f94c30accf",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] MobaXterm is a development-tools software developed by Mobatek. Windows terminal with X server, SSH, and remote desktop tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mobaxterm"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

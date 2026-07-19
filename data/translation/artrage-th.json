@@ -1,0 +1,22 @@
+{
+  "id": "artrage-th",
+  "sourceTextHash": "fc6b75ea578df8c5f4dc6702d4d3f31551bcda4a1af789e28990fe56878c4fa4",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] ArtRage is a image-editing software developed by Ambient Design. Natural painting and drawing tool with realistic oils and watercolors.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "artrage"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

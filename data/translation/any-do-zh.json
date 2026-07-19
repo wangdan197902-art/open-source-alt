@@ -1,0 +1,22 @@
+{
+  "id": "any-do-zh",
+  "sourceTextHash": "a2be650d9aa019257dbd2ccf45fbe53fd76857507cfa84aebd0f2d94a8c26394",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] Any.do is a note-taking software developed by Any.do. To-do list and calendar app with smart reminders.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "any-do"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

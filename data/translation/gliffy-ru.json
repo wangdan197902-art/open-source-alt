@@ -1,0 +1,22 @@
+{
+  "id": "gliffy-ru",
+  "sourceTextHash": "df17389cad14e3cedd91282c11984105ca4a9ce58e2b35e00691109812420024",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Gliffy is a design-collaboration software developed by Perforce. Diagramming tool integrated with Atlassian Confluence and Jira.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "gliffy"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

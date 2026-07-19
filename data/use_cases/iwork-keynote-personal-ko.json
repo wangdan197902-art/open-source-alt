@@ -1,0 +1,29 @@
+{
+  "id": "iwork-keynote-personal-ko",
+  "softwareId": "iwork-keynote",
+  "scenario": "personal",
+  "lang": "ko",
+  "title": "Apple Keynote 개인 사용 사례",
+  "description": "개인 생활에서 Apple Keynote을(를) 사용하여 개인 재무 관리 및 가정 문서 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Home users, personal finance managers",
+    "workflow": "Personal budgets, household documents, invitations",
+    "benefits": "Free alternatives for personal productivity tasks"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

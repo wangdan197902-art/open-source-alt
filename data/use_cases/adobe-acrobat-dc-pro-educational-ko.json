@@ -1,0 +1,29 @@
+{
+  "id": "adobe-acrobat-dc-pro-educational-ko",
+  "softwareId": "adobe-acrobat-dc-pro",
+  "scenario": "educational",
+  "lang": "ko",
+  "title": "Adobe Acrobat Pro DC (Redaction) 교육 사용 사례",
+  "description": "교육 현장에서 Adobe Acrobat Pro DC (Redaction)을(를) 사용하여 보안 교육 및 실습 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Cybersecurity students, security trainees",
+    "workflow": "Security training, lab exercises, certification prep",
+    "benefits": "Hands-on practice with industry-standard security tools"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

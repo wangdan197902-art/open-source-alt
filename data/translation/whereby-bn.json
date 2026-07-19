@@ -1,0 +1,22 @@
+{
+  "id": "whereby-bn",
+  "sourceTextHash": "0257505d8258a67fcf7df5bb4cc262e21c184eccbfff8cda8df9e61992a7459f",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Whereby is a video-conferencing software developed by VideoMost. Browser-based video meetings with no downloads required.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "whereby"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

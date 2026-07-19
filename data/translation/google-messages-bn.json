@@ -1,0 +1,22 @@
+{
+  "id": "google-messages-bn",
+  "sourceTextHash": "3bf5f08ac502b792c9a39a41b29af018ecc0d6e4bb0852854810740f62a86e8e",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Google Messages is a team-communication software developed by Google. Default Android SMS/RCS messaging app with web sync.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-messages"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

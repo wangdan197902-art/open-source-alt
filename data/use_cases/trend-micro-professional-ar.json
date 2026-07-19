@@ -1,0 +1,29 @@
+{
+  "id": "trend-micro-professional-ar",
+  "softwareId": "trend-micro",
+  "scenario": "professional",
+  "lang": "ar",
+  "title": "حالات الاستخدام المهنية لـ Trend Micro Maximum Security",
+  "description": "استخدم Trend Micro Maximum Security في العمل المهني لأجل اكتشاف التهديدات وفحص الثغرات.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Security analysts, IT admins, compliance officers",
+    "workflow": "Threat detection, vulnerability scanning, compliance auditing",
+    "benefits": "Enterprise-grade security for protecting organizational assets"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

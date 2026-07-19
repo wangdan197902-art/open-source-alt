@@ -1,0 +1,49 @@
+{
+  "id": "discord-similar-pl",
+  "softwareId": "discord",
+  "lang": "pl",
+  "title": "Oprogramowanie podobne do Discord",
+  "description": "Poniżej znajduje się lista oprogramowania podobnego do Discord.",
+  "similarSoftware": [
+    {
+      "id": "axero",
+      "name": "Axero",
+      "similarity": 0.95
+    },
+    {
+      "id": "bitrix24",
+      "name": "Bitrix24",
+      "similarity": 0.89
+    },
+    {
+      "id": "chanty",
+      "name": "Chanty",
+      "similarity": 0.82
+    },
+    {
+      "id": "clubhouse",
+      "name": "Clubhouse",
+      "similarity": 0.76
+    },
+    {
+      "id": "crisp",
+      "name": "Crisp",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

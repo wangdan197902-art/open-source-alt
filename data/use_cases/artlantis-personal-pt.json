@@ -1,0 +1,29 @@
+{
+  "id": "artlantis-personal-pt",
+  "softwareId": "artlantis",
+  "scenario": "personal",
+  "lang": "pt",
+  "title": "Casos de uso pessoal do Artlantis",
+  "description": "Use o Artlantis na vida pessoal para edição de fotos pessoais e criação de conteúdo para redes sociais.",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Hobbyists, social media enthusiasts",
+    "workflow": "Photo retouching, creative projects, social media content creation",
+    "benefits": "Easy photo enhancement for personal memories and online sharing"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "wps-office-ko",
+  "sourceTextHash": "99d25f954ef8cc48bd51ce46b8a9f4335704ec54286436331c6ad3fe3f639048",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] WPS Office is a office-suite software developed by Kingsoft. Office suite with Writer, Presentation, and Spreadsheets.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "wps-office"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

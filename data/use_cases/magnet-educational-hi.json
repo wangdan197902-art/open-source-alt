@@ -1,0 +1,29 @@
+{
+  "id": "magnet-educational-hi",
+  "softwareId": "magnet",
+  "scenario": "educational",
+  "lang": "hi",
+  "title": "Magnet के शैक्षिक उपयोग मामले",
+  "description": "शैक्षिक परिदृश्यों में सिस्टम प्रशासन शिक्षण और लैब के लिए Magnet का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "IT students, sysadmin trainees",
+    "workflow": "Learning system administration, lab environments",
+    "benefits": "Practical experience with industry-standard utilities"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

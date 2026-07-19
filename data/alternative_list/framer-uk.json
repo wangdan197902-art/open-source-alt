@@ -1,0 +1,54 @@
+{
+  "id": "framer-alternatives-uk",
+  "softwareId": "framer",
+  "lang": "uk",
+  "title": "Відкриті альтернативи для Framer",
+  "description": "Нижче наведено список відкритих альтернатив для Framer, безкоштовних з активною спільнотою.",
+  "alternatives": [
+    {
+      "opensourceId": "plasmic",
+      "opensourceName": "Plasmic",
+      "matchScore": 0.95,
+      "reason": "Офіційно рекомендована відкрита альтернатива, високо сумісна з Framer"
+    },
+    {
+      "opensourceId": "drawio",
+      "opensourceName": "draw.io",
+      "matchScore": 0.85,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "drawio-2",
+      "opensourceName": "draw.io",
+      "matchScore": 0.8,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "drawio-3",
+      "opensourceName": "draw.io",
+      "matchScore": 0.75,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "drawio-4",
+      "opensourceName": "draw.io",
+      "matchScore": 0.7,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

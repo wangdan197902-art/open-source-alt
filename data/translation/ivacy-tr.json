@@ -1,0 +1,22 @@
+{
+  "id": "ivacy-tr",
+  "sourceTextHash": "6c8acb0ce5cbb79928c7b04d185d0e0fc8c07c01fab1a074fbfefee9518c1195",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] Ivacy VPN is a security-software software developed by Ivacy. Singapore-based VPN with split tunneling features.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "ivacy"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

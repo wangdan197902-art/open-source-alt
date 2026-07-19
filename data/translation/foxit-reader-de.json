@@ -1,0 +1,22 @@
+{
+  "id": "foxit-reader-de",
+  "sourceTextHash": "20091669412ca1a9cbd0d811b98326137b86dd13624d85ebbd50efd0e1c87868",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Foxit PDF Reader is a office-suite software developed by Foxit Software. Fast PDF reader with annotation and form filling.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "foxit-reader"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

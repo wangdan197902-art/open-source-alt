@@ -1,0 +1,54 @@
+{
+  "id": "dropbox-paper-docs-alternatives-pt",
+  "softwareId": "dropbox-paper-docs",
+  "lang": "pt",
+  "title": "Alternativas de código aberto para Dropbox Paper (Docs)",
+  "description": "Abaixo está uma lista de alternativas de código aberto para Dropbox Paper (Docs), gratuitas e com comunidade ativa.",
+  "alternatives": [
+    {
+      "opensourceId": "affine-2",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código aberto oficialmente recomendada, altamente compatível com Dropbox Paper (Docs)"
+    },
+    {
+      "opensourceId": "appflowy-5",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.85,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "calibre",
+      "opensourceName": "Calibre",
+      "matchScore": 0.8,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "collabora-online",
+      "opensourceName": "Collabora Online",
+      "matchScore": 0.75,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    },
+    {
+      "opensourceId": "cryptpad",
+      "opensourceName": "CryptPad",
+      "matchScore": 0.7,
+      "reason": "Software de código aberto da mesma categoria, disponível como alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

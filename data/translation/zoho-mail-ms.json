@@ -1,0 +1,22 @@
+{
+  "id": "zoho-mail-ms",
+  "sourceTextHash": "1f85034550ed32b6a0f030c4230c37ef8f1b1c5d641e2a105990720794866b5b",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Zoho Mail is a office-suite software developed by Zoho. Business email hosting with calendar, contacts, and tasks.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zoho-mail"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

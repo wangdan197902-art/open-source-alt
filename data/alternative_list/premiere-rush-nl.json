@@ -1,0 +1,54 @@
+{
+  "id": "premiere-rush-alternatives-nl",
+  "softwareId": "premiere-rush",
+  "lang": "nl",
+  "title": "Open-source alternatieven voor Adobe Premiere Rush",
+  "description": "Hieronder staat een lijst met open-source alternatieven voor Adobe Premiere Rush, gratis en met actieve community.",
+  "alternatives": [
+    {
+      "opensourceId": "shotcut",
+      "opensourceName": "Shotcut",
+      "matchScore": 0.95,
+      "reason": "Officieel aanbevolen open-source alternatief, sterk compatibel met Adobe Premiere Rush"
+    },
+    {
+      "opensourceId": "ardour",
+      "opensourceName": "Ardour",
+      "matchScore": 0.85,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "ardour-2",
+      "opensourceName": "Ardour",
+      "matchScore": 0.8,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "ardour-3",
+      "opensourceName": "Ardour",
+      "matchScore": 0.75,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "ardour-4",
+      "opensourceName": "Ardour",
+      "matchScore": 0.7,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

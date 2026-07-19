@@ -1,0 +1,54 @@
+{
+  "id": "kik-alternatives-ms",
+  "softwareId": "kik",
+  "lang": "ms",
+  "title": "Alternatif sumber terbuka untuk Kik",
+  "description": "Berikut ialah senarai alternatif sumber terbuka untuk Kik, percuma dengan komuniti aktif.",
+  "alternatives": [
+    {
+      "opensourceId": "signal-5",
+      "opensourceName": "Signal",
+      "matchScore": 0.95,
+      "reason": "Alternatif sumber terbuka yang disyorkan secara rasmi, serasi tinggi dengan Kik"
+    },
+    {
+      "opensourceId": "chatwoot",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.85,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "chatwoot-2",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.8,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "chatwoot-3",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.75,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    },
+    {
+      "opensourceId": "chatwoot-4",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.7,
+      "reason": "Perisian sumber terbuka dari kategori yang sama, tersedia sebagai alternatif"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

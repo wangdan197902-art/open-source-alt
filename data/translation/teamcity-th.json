@@ -1,0 +1,22 @@
+{
+  "id": "teamcity-th",
+  "sourceTextHash": "6988e18ee5b4bbd206cc525d566701a64e6c0f31e578a9bef6c340eca810378a",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] TeamCity is a development-tools software developed by JetBrains. Powerful CI/CD server with smart features and integrations.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "teamcity"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

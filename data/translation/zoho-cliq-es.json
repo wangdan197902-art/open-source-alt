@@ -1,0 +1,22 @@
+{
+  "id": "zoho-cliq-es",
+  "sourceTextHash": "c5acab0bb3c44d10299aa509eefe2d5413b0260df749b480eda07c9e4ab6a738",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Zoho Cliq is a team-communication software developed by Zoho. Team communication with channels, meetings, and automation.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zoho-cliq"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

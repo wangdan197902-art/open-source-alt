@@ -1,0 +1,22 @@
+{
+  "id": "on24-fr",
+  "sourceTextHash": "1979cfb4c5c7591da27e45f0229699a772598e48d0a9e6bf87715c556ba8e07c",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] ON24 is a video-conferencing software developed by ON24. Webinar and virtual event platform for marketing analytics.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "on24"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

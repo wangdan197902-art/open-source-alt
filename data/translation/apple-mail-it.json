@@ -1,0 +1,22 @@
+{
+  "id": "apple-mail-it",
+  "sourceTextHash": "24a7fb5fb2f11bcaec6b6607f2838c1e7c5e2299944b78da9c327997ca0ec671",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Apple Mail is a office-suite software developed by Apple. Default Mac and iOS email client with IMAP/POP support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "apple-mail"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

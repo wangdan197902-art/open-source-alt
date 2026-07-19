@@ -1,0 +1,49 @@
+{
+  "id": "anydesk-professional-similar-es",
+  "softwareId": "anydesk-professional",
+  "lang": "es",
+  "title": "Software similar a AnyDesk Professional",
+  "description": "A continuación se muestra una lista de software similar a AnyDesk Professional.",
+  "similarSoftware": [
+    {
+      "id": "acronis-cyber-protect",
+      "name": "Acronis Cyber Protect Home Office",
+      "similarity": 0.95
+    },
+    {
+      "id": "actual-window-minimizer",
+      "name": "Actual Window Minimizer",
+      "similarity": 0.89
+    },
+    {
+      "id": "advanced-systemcare-pro",
+      "name": "Advanced SystemCare Pro",
+      "similarity": 0.82
+    },
+    {
+      "id": "alfred-powerpack",
+      "name": "Alfred Powerpack",
+      "similarity": 0.76
+    },
+    {
+      "id": "appcleaner-mac",
+      "name": "AppCleaner (Mac)",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

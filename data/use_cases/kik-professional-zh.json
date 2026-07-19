@@ -1,0 +1,29 @@
+{
+  "id": "kik-professional-zh",
+  "softwareId": "kik",
+  "scenario": "professional",
+  "lang": "zh",
+  "title": "Kik 专业使用场景",
+  "description": "在专业工作中使用 Kik 进行团队沟通和项目管理。",
+  "useCaseDetails": {
+    "industry": "Business Communication",
+    "users": "Distributed teams, project managers, executives",
+    "workflow": "Channel-based messaging, video calls, file sharing, integrations",
+    "benefits": "Reduces email overload and accelerates team decision-making"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

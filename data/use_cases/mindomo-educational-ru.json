@@ -1,0 +1,29 @@
+{
+  "id": "mindomo-educational-ru",
+  "softwareId": "mindomo",
+  "scenario": "educational",
+  "lang": "ru",
+  "title": "Образовательные сценарии использования Mindomo",
+  "description": "Используйте Mindomo в образовательных сценариях для преподавание совместного дизайна и командные проекты.",
+  "useCaseDetails": {
+    "industry": "Design & Product",
+    "users": "Design students, bootcamp participants, educators",
+    "workflow": "Learning collaborative design, group projects, design critique sessions",
+    "benefits": "Develop teamwork skills essential for modern product design careers"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mindmup-fr",
+  "sourceTextHash": "baafce43b53ff795f0e363d185677389ee4744ede074e211b6ee1aba36aced29",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] MindMup is a design-collaboration software developed by MindMup. Cloud-based mind mapping integrated with Google Drive and Office.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mindmup"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

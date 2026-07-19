@@ -1,0 +1,54 @@
+{
+  "id": "mymind-alternatives-hi",
+  "softwareId": "mymind",
+  "lang": "hi",
+  "title": "mymind के लिए ओपन-सोर्स विकल्प",
+  "description": "नीचे mymind के लिए ओपन-सोर्स विकल्पों की सूची दी गई है, निःशुल्क और सक्रिय समुदाय के साथ।",
+  "alternatives": [
+    {
+      "opensourceId": "joplin-4",
+      "opensourceName": "Joplin",
+      "matchScore": 0.95,
+      "reason": "आधिकारिक रूप से अनुशंसित ओपन-सोर्स विकल्प, mymind के साथ अत्यधिक संगत"
+    },
+    {
+      "opensourceId": "affine",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध"
+    },
+    {
+      "opensourceId": "anytype",
+      "opensourceName": "Anytype",
+      "matchScore": 0.8,
+      "reason": "समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध"
+    },
+    {
+      "opensourceId": "appflowy",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.75,
+      "reason": "समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध"
+    },
+    {
+      "opensourceId": "appflowy-2",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.7,
+      "reason": "समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "github-actions-paid-hi",
+  "sourceTextHash": "2e2b77b1d45df5de3d7e3f382a36c167e23a064609e31034365ab7f471163d60",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] GitHub Actions (Paid) is a development-tools software developed by GitHub. Paid CI/CD with larger compute and private runner support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "github-actions-paid"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

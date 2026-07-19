@@ -1,0 +1,22 @@
+{
+  "id": "notion-bn",
+  "sourceTextHash": "f2a636b958df732d8acba7aac5367e029c069bef4d76c07bbce2d61e5c18c13d",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Notion is a note-taking software developed by Notion Labs. All-in-one workspace for notes, docs, wikis, and project management.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "notion"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

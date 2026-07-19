@@ -1,0 +1,22 @@
+{
+  "id": "onlyoffice-id",
+  "sourceTextHash": "07c6a1a9a46e808f5b906a9c7ffef765ffcc6390172ae84d27e627ffcd100249",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] ONLYOFFICE is a office-suite software developed by Ascensio System SIA. Office suite with collaborative document editing and CRM.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "onlyoffice"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

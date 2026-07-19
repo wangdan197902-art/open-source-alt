@@ -1,0 +1,22 @@
+{
+  "id": "davinci-resolve-studio-id",
+  "sourceTextHash": "c8e2f665a3aa4bee499d5aa396b89614cf371456466f40e32985b04b9f7b4d5a",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] DaVinci Resolve Studio is a media-player software developed by Blackmagic Design. Paid version with AI tools and 4K/8K support.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "davinci-resolve-studio"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

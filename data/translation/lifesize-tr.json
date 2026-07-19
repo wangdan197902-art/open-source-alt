@@ -1,0 +1,22 @@
+{
+  "id": "lifesize-tr",
+  "sourceTextHash": "19a2db68aa73bfe65b8968e88c21d8b554d1c3446d0a03707dd97e801db56f62",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] Lifesize is a video-conferencing software developed by Lifesize. Video conferencing with 4K meeting room hardware and cloud service.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "lifesize"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

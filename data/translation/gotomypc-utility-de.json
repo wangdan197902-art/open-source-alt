@@ -1,0 +1,22 @@
+{
+  "id": "gotomypc-utility-de",
+  "sourceTextHash": "a77d88f322a3eed5fe20ce78a94839770d6a148e744a4f7991cb547184df95a0",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] GoToMyPC (Remote) is a system-utilities software developed by GoTo. Remote desktop access for individuals and teams.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "gotomypc-utility"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "photoshop-personal-nl",
+  "softwareId": "photoshop",
+  "scenario": "personal",
+  "lang": "nl",
+  "title": "Persoonlijke gebruikssituaties voor Adobe Photoshop",
+  "description": "Gebruik Adobe Photoshop in het persoonlijke leven voor persoonlijke fotobewerking en sociale media-content creatie.",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Hobbyists, social media enthusiasts",
+    "workflow": "Photo retouching, creative projects, social media content creation",
+    "benefits": "Easy photo enhancement for personal memories and online sharing"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "jostle-hi",
+  "sourceTextHash": "6ebf9f2955b2a3546e28ca1127ba3039ee596e87a710de2e91ec819834ee9410",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Jostle is a team-communication software developed by Jostle Corporation. Employee platform for culture, communication, and collaboration.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "jostle"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

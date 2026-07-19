@@ -1,0 +1,22 @@
+{
+  "id": "vectr-vi",
+  "sourceTextHash": "206d1274209387cc3e0db44502c5cc61d139c9c013d86f33a1317efb6e4502d0",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Vectr is a design-collaboration software developed by Vectr. Web-based vector graphics editor for simple illustrations.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "vectr"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "threema-th",
+  "sourceTextHash": "38c86e562e48ad2270ce3cbdffe72da3c017bdc81d364accabb523f3cf7cbb63",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Threema is a team-communication software developed by Threema GmbH. Privacy-focused messenger with end-to-end encryption.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "threema"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

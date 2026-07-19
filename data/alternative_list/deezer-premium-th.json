@@ -1,0 +1,54 @@
+{
+  "id": "deezer-premium-alternatives-th",
+  "softwareId": "deezer-premium",
+  "lang": "th",
+  "title": "ทางเลือกโอเพ่นซอร์สสำหรับ Deezer Premium",
+  "description": "ด้านล่างนี้คือรายการทางเลือกโอเพ่นซอร์สสำหรับ Deezer Premium ฟรีและมีชุมชนที่ใช้งานอยู่",
+  "alternatives": [
+    {
+      "opensourceId": "navidrome-6",
+      "opensourceName": "Navidrome",
+      "matchScore": 0.95,
+      "reason": "ทางเลือกโอเพ่นซอร์สที่แนะนำอย่างเป็นทางการ เข้ากันได้สูงกับ Deezer Premium"
+    },
+    {
+      "opensourceId": "ardour",
+      "opensourceName": "Ardour",
+      "matchScore": 0.85,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "ardour-2",
+      "opensourceName": "Ardour",
+      "matchScore": 0.8,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "ardour-3",
+      "opensourceName": "Ardour",
+      "matchScore": 0.75,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    },
+    {
+      "opensourceId": "ardour-4",
+      "opensourceName": "Ardour",
+      "matchScore": 0.7,
+      "reason": "ซอฟต์แวร์โอเพ่นซอร์สในหมวดหมู่เดียวกัน มีให้เลือกใช้เป็นทางเลือก"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

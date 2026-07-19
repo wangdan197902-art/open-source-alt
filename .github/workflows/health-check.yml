@@ -1,0 +1,36 @@
+name: Health Check
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check 20 language homepages
+        run: |
+          BASE_URL="https://alternatives.ai-term-hub.com"
+          LANGS="en zh ja ko es de fr pt it ru ar nl pl tr id vi th hi bn ms uk"
+          FAILED=0
+          for lang in $LANGS; do
+            url="$BASE_URL/$lang/"
+            status=$(curl -o /dev/null -s -w "%{http_code}" --max-time 10 "$url")
+            echo "$url -> $status"
+            if [ "$status" != "200" ]; then
+              echo "❌ FAILED: $url"
+              FAILED=1
+            fi
+          done
+          # Check sitemap and robots
+          for path in "sitemap.xml" "robots.txt"; do
+            url="$BASE_URL/$path"
+            status=$(curl -o /dev/null -s -w "%{http_code}" --max-time 10 "$url")
+            echo "$url -> $status"
+            if [ "$status" != "200" ]; then
+              echo "❌ FAILED: $url"
+              FAILED=1
+            fi
+          done
+          exit $FAILED

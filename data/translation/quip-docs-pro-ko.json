@@ -1,0 +1,22 @@
+{
+  "id": "quip-docs-pro-ko",
+  "sourceTextHash": "799e7e2914e98915f3dfb9ac8ae251dd4d46a0f7d474620b28eaa986636e6b37",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] Quip Pro is a office-suite software developed by Salesforce. Pro plan of Quip for docs and spreadsheets with Salesforce sync.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "quip-docs-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

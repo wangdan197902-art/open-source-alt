@@ -1,0 +1,29 @@
+{
+  "id": "intercom-educational-fr",
+  "softwareId": "intercom",
+  "scenario": "educational",
+  "lang": "fr",
+  "title": "Cas d'usage éducatif de Intercom",
+  "description": "Utilisez Intercom dans un cadre éducatif pour groupes d'étude et collaboration de cours.",
+  "useCaseDetails": {
+    "industry": "Business Communication",
+    "users": "Student teams, online course groups, educators",
+    "workflow": "Group project coordination, study groups, class announcements",
+    "benefits": "Facilitates collaborative learning and group work coordination"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mindmanager-ru",
+  "sourceTextHash": "a354e803119a3b468f2ca13f13402aafc8b6be297643c5e27b9ad6bb82ea9742",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] MindManager is a design-collaboration software developed by Corel. Mind mapping and project management tool for businesses.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "mindmanager"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,25 @@
+# Web框架
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+
+# HTTP客户端
+httpx==0.26.0
+requests==2.31.0
+
+# Schema校验
+jsonschema==4.21.1
+pyyaml==6.0.1
+
+# 测试
+pytest==7.4.4
+pytest-cov==4.1.0
+pytest-asyncio==0.23.3
+
+# 工具
+python-dotenv==1.0.0
+tenacity==8.2.3
+
+# Hugo相关（Python辅助）
+tomli==2.0.1
+tomli-w==1.0.0

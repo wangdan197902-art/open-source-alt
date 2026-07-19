@@ -1,0 +1,71 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-07-19",
+  "proprietaryCount": 5,
+  "opensourceCount": 5,
+  "comparisonCount": 5,
+  "translationCount": 25,
+  "imageMetaCount": 5,
+  "totalPages": 25,
+  "languages": ["en", "zh", "ja", "ko", "es"],
+  "commercialSoftware": ["photoshop", "notion", "figma", "slack", "zoom"],
+  "openSourceAlternatives": ["gimp", "obsidian", "penpot", "element", "bigbluebutton"],
+  "mappings": {
+    "photoshop": "gimp",
+    "notion": "obsidian",
+    "figma": "penpot",
+    "slack": "element",
+    "zoom": "bigbluebutton"
+  },
+  "fileStats": {
+    "proprietary": {
+      "dir": "proprietary/",
+      "count": 5,
+      "files": ["photoshop.json", "notion.json", "figma.json", "slack.json", "zoom.json"]
+    },
+    "opensource": {
+      "dir": "opensource/",
+      "count": 5,
+      "files": ["gimp.json", "obsidian.json", "penpot.json", "element.json", "bigbluebutton.json"]
+    },
+    "comparison": {
+      "dir": "comparison/",
+      "count": 5,
+      "files": [
+        "photoshop-vs-gimp.json",
+        "notion-vs-obsidian.json",
+        "figma-vs-penpot.json",
+        "slack-vs-element.json",
+        "zoom-vs-bigbluebutton.json"
+      ]
+    },
+    "translation": {
+      "dir": "translation/",
+      "count": 25,
+      "pattern": "{software}-{lang}.json",
+      "softwareList": ["photoshop", "notion", "figma", "slack", "zoom"],
+      "languageList": ["en", "zh", "ja", "ko", "es"]
+    },
+    "image-meta": {
+      "dir": "image-meta/",
+      "count": 5,
+      "files": [
+        "photoshop-screenshot.json",
+        "notion-screenshot.json",
+        "figma-screenshot.json",
+        "slack-screenshot.json",
+        "zoom-screenshot.json"
+      ]
+    }
+  },
+  "notes": [
+    "Obsidian核心为专有许可，种子数据中使用MIT作为占位（对应其开放的plugin API），license字段在unverified_fields中标记",
+    "所有translation.sourceTextHash为示例用的固定hex值，生产环境应使用实际SHA-256",
+    "所有image-meta.url使用占位域名 ossaf.local，部署时需替换为实际CDN路径"
+  ],
+  "_meta": {
+    "source": "manual-seed",
+    "schema_version": "1.0.0",
+    "confidence": "high"
+  }
+}

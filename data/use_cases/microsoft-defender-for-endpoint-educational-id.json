@@ -1,0 +1,29 @@
+{
+  "id": "microsoft-defender-for-endpoint-educational-id",
+  "softwareId": "microsoft-defender-for-endpoint",
+  "scenario": "educational",
+  "lang": "id",
+  "title": "Kasus penggunaan edukatif Microsoft Defender for Endpoint",
+  "description": "Gunakan Microsoft Defender for Endpoint dalam skenario edukatif untuk pelatihan keamanan dan latihan lab.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Cybersecurity students, security trainees",
+    "workflow": "Security training, lab exercises, certification prep",
+    "benefits": "Hands-on practice with industry-standard security tools"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

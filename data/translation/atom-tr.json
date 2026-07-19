@@ -1,0 +1,22 @@
+{
+  "id": "atom-tr",
+  "sourceTextHash": "e68ecbea01dd460a55e7cc1298dfbda6538bf87142e04323aa7696ed876815f1",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] Atom is a development-tools software developed by GitHub. Hackable text editor for developers (now sunset).",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "atom"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

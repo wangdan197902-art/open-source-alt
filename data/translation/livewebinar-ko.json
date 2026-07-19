@@ -1,0 +1,22 @@
+{
+  "id": "livewebinar-ko",
+  "sourceTextHash": "4d80a8a09229bfd307edcb6568d75a681c1ab2bf46d20df3be71db633917edde",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] LiveWebinar is a video-conferencing software developed by LiveWebinar. Browser-based webinar platform with branding and recording.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "livewebinar"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

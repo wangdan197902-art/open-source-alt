@@ -1,0 +1,22 @@
+{
+  "id": "easeus-data-recovery-pl",
+  "sourceTextHash": "5fc9a6a2f4f2518128216af59dcca49e0e26300d95deedd3cb6354f50e6338c3",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] EaseUS Data Recovery Wizard is a system-utilities software developed by EaseUS. Recover deleted files from various storage devices.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "easeus-data-recovery"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

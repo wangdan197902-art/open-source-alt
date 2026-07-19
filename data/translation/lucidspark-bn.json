@@ -1,0 +1,22 @@
+{
+  "id": "lucidspark-bn",
+  "sourceTextHash": "29938fd7a344f42a72f9a8591a8e8b70bb25a84038cdabc782d75d982791fd7d",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Lucidspark is a design-collaboration software developed by Lucid Software. Online whiteboard for brainstorming and collaboration.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "lucidspark"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

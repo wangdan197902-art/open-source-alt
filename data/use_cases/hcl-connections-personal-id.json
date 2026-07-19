@@ -1,0 +1,29 @@
+{
+  "id": "hcl-connections-personal-id",
+  "softwareId": "hcl-connections",
+  "scenario": "personal",
+  "lang": "id",
+  "title": "Kasus penggunaan pribadi HCL Connections",
+  "description": "Gunakan HCL Connections dalam kehidupan pribadi untuk obrolan teman dan aktivitas komunitas.",
+  "useCaseDetails": {
+    "industry": "Business Communication",
+    "users": "Friend groups, family chats, community organizers",
+    "workflow": "Group chats, event planning, community coordination",
+    "benefits": "Free tier supports personal group communication needs"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

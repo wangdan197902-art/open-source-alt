@@ -1,0 +1,29 @@
+{
+  "id": "protonvpn-plus-professional-tr",
+  "softwareId": "protonvpn-plus",
+  "scenario": "professional",
+  "lang": "tr",
+  "title": "ProtonVPN Plus profesyonel kullanım senaryoları",
+  "description": "Profesyonel işte tehdit tespiti ve güvenlik açığı taraması için ProtonVPN Plus kullanın.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Security analysts, IT admins, compliance officers",
+    "workflow": "Threat detection, vulnerability scanning, compliance auditing",
+    "benefits": "Enterprise-grade security for protecting organizational assets"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

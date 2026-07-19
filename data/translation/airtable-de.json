@@ -1,0 +1,22 @@
+{
+  "id": "airtable-de",
+  "sourceTextHash": "7be291dd2300ea6192ab14534ab3b55d05ca31e185c7cab590013e95a2ed3a2c",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Airtable is a note-taking software developed by Airtable. Spreadsheet-database hybrid for organizing team workflows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "airtable"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dxo-photolab-professional-hi",
+  "softwareId": "dxo-photolab",
+  "scenario": "professional",
+  "lang": "hi",
+  "title": "DxO PhotoLab के पेशेवर उपयोग मामले",
+  "description": "पेशेवर कार्य में छवि संपादन, ग्राफ़िक डिज़ाइन और डिजिटल कला निर्माण के लिए DxO PhotoLab का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Graphic designers, photographers, digital artists",
+    "workflow": "Image retouching, compositing, digital painting, asset preparation for print/web",
+    "benefits": "Industry-standard toolset for high-quality visual output and client deliverables"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

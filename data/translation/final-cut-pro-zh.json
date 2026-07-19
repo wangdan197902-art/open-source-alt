@@ -1,0 +1,22 @@
+{
+  "id": "final-cut-pro-zh",
+  "sourceTextHash": "b22567d9a2b1a3258787a8d07f1da138c6a932b3020fbca78eed852d1d541894",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] Final Cut Pro is a media-player software developed by Apple. Professional Mac video editing software.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "final-cut-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

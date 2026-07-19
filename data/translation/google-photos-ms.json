@@ -1,0 +1,22 @@
+{
+  "id": "google-photos-ms",
+  "sourceTextHash": "e82a2e56985825687c49c8809db590a3f47f7b8a9f2078c0cf8f4cbab6e8538a",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Google Photos is a office-suite software developed by Google. Photo storage and organization with AI-powered search and editing.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-photos"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

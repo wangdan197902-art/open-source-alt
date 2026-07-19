@@ -1,0 +1,22 @@
+{
+  "id": "xmind-pt",
+  "sourceTextHash": "ffcf6709f8827826e6277db9ff2b5294f8e869358bf0c0eff5ec539f2d688ac8",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] XMind is a design-collaboration software developed by XMind. Mind mapping software with templates and presentation mode.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "xmind"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

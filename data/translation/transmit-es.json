@@ -1,0 +1,22 @@
+{
+  "id": "transmit-es",
+  "sourceTextHash": "904fe70037419c3d6997c31341aec1d4b068ce71e39ddac1b1bfad38f99aaa03",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Transmit is a system-utilities software developed by Panic. Mac FTP/SFTP client with cloud sync.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "transmit"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

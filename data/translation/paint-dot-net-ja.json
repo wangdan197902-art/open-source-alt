@@ -1,0 +1,22 @@
+{
+  "id": "paint-dot-net-ja",
+  "sourceTextHash": "a2fa5fd8b0e9698457a155e1f0493e416cb68754a881dbc9bd3c4c8686bcb6f5",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Paint.NET is a image-editing software developed by dotPDN. Windows raster image editor with layer support and plugin ecosystem.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "paint-dot-net"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "reason-personal-pt",
+  "softwareId": "reason",
+  "scenario": "personal",
+  "lang": "pt",
+  "title": "Casos de uso pessoal do Reason",
+  "description": "Use o Reason na vida pessoal para biblioteca de mídia pessoal e entretenimento.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "General consumers, movie enthusiasts",
+    "workflow": "Personal media library, movie watching, music playback",
+    "benefits": "Free high-quality media playback for personal entertainment"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kik-ms",
+  "sourceTextHash": "804a20469ff836056d0a4e8d4a2ed21497131d0eb5541766dc171414fc199f05",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Kik is a team-communication software developed by Kik Interactive. Anonymous messaging app popular with teens and communities.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "kik"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

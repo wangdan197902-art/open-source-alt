@@ -1,0 +1,22 @@
+{
+  "id": "roboform-everywhere-ja",
+  "sourceTextHash": "d08d4cba905283285c60453359199be82d0e4ba6c7589b08b32b63a6c760191d",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] RoboForm Everywhere is a security-software software developed by Siber Systems. Password manager with form filling and cloud sync.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "roboform-everywhere"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

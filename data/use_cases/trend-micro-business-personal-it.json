@@ -1,0 +1,29 @@
+{
+  "id": "trend-micro-business-personal-it",
+  "softwareId": "trend-micro-business",
+  "scenario": "personal",
+  "lang": "it",
+  "title": "Casi d'uso personali di Trend Micro Apex One",
+  "description": "Usa Trend Micro Apex One nella vita personale per protezione dei dispositivi personali e sicurezza della privacy.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Home users, privacy-conscious individuals",
+    "workflow": "Personal device protection, privacy tools, secure browsing",
+    "benefits": "Protects personal data and online privacy"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "trellix-id",
+  "sourceTextHash": "a77d00a0249fb09ed72b5c5466a205acf57464e8da8e65b9ab906d7cd4d80dfc",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] Trellix Endpoint Security is a security-software software developed by Trellix. Threat prevention with machine learning and behavioral AI.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "trellix"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

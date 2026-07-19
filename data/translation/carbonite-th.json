@@ -1,0 +1,22 @@
+{
+  "id": "carbonite-th",
+  "sourceTextHash": "912fa0afbd5084a46aa78e62625d60d0b644c1747db0acfe38ca6df2515a717d",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Carbonite Safe is a system-utilities software developed by Carbonite. Cloud backup with automatic and continuous protection.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "carbonite"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

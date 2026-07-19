@@ -1,0 +1,34 @@
+---
+title: "Figma 教育使用例"
+date: "2026-07-19"
+draft: false
+description: "教育現場で Figma を使ってコラボレーションデザインの教育とチームプロジェクトを行います。"
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "figma"
+scenario: "educational"
+type: "use-case"
+use-case:
+  - educational
+tags:
+  - figma
+  - educational
+  - Design & Product
+categories:
+  - Design & Product
+---
+
+# Figma 教育使用例
+
+**教育現場で Figma を使ってコラボレーションデザインの教育とチームプロジェクトを行います。**
+
+## Use Case Details
+
+- **Industry**: Design & Product
+- **Users**: Design students, bootcamp participants, educators
+- **Workflow**: Learning collaborative design, group projects, design critique sessions
+- **Benefits**: Develop teamwork skills essential for modern product design careers
+
+## Software
+
+View [Open Source Alternatives for figma](../../alternatives/figma/) and [Similar Software to figma](../../similar/figma/).

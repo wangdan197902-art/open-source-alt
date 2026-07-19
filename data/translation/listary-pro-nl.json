@@ -1,0 +1,22 @@
+{
+  "id": "listary-pro-nl",
+  "sourceTextHash": "521d111956168b3d489fa9a51ff36bb73b10247888ae7863161e0f96c0d73aeb",
+  "targetLang": "nl",
+  "translatedText": "[Mock Nederlands] Listary Pro is a system-utilities software developed by Bopsoft. Search utility with quick find and app launcher.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "listary-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

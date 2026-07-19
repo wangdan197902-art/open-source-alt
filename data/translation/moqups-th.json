@@ -1,0 +1,22 @@
+{
+  "id": "moqups-th",
+  "sourceTextHash": "e5ebb53a36adc7d45aa9dd5383a63eb12e12356801b311aa211eea0212ac7c4d",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Moqups is a design-collaboration software developed by Moqups. Web-based app for diagrams, wireframes, and prototyping.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "moqups"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

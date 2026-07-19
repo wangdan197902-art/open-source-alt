@@ -1,0 +1,29 @@
+{
+  "id": "modo-personal-fr",
+  "softwareId": "modo",
+  "scenario": "personal",
+  "lang": "fr",
+  "title": "Cas d'usage personnel de Modo",
+  "description": "Utilisez Modo dans la vie personnelle pour retouche photo personnelle et création de contenu pour les réseaux sociaux.",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Hobbyists, social media enthusiasts",
+    "workflow": "Photo retouching, creative projects, social media content creation",
+    "benefits": "Easy photo enhancement for personal memories and online sharing"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

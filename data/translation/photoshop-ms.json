@@ -1,0 +1,22 @@
+{
+  "id": "photoshop-ms",
+  "sourceTextHash": "b73144b1b68617ffe3fe8cf37d50d5825fa1610363fcb3e5cb98e1ea8b3412ae",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Adobe Photoshop is a image-editing software developed by Adobe. Industry-standard image editor for photo retouching and digital art.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "photoshop"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

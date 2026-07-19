@@ -1,0 +1,22 @@
+{
+  "id": "things-ru",
+  "sourceTextHash": "0b5127a8cba3041c04e1c39b45192edaf1c9245d89a8568e23b964ca0ebd1f18",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Things is a note-taking software developed by Cultured Code. Mac, iPad, and iPhone to-do app with award-winning design.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "things"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

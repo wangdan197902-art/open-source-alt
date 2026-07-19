@@ -1,0 +1,54 @@
+{
+  "id": "readcube-papers-alternatives-ja",
+  "softwareId": "readcube-papers",
+  "lang": "ja",
+  "title": "ReadCube Papers のオープンソース代替方案",
+  "description": "以下は ReadCube Papers のオープンソース代替方案のリストです。無料で利用でき、コミュニティも活発です。",
+  "alternatives": [
+    {
+      "opensourceId": "jabref-3",
+      "opensourceName": "JabRef",
+      "matchScore": 0.95,
+      "reason": "公式推奨のオープンソース代替品で、ReadCube Papers と機能が高度に一致"
+    },
+    {
+      "opensourceId": "affine",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "anytype",
+      "opensourceName": "Anytype",
+      "matchScore": 0.8,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "appflowy",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.75,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    },
+    {
+      "opensourceId": "appflowy-2",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.7,
+      "reason": "同カテゴリのオープンソースソフトウェアで、代替案として利用可能"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

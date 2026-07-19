@@ -1,0 +1,22 @@
+{
+  "id": "clip-studio-paint-pt",
+  "sourceTextHash": "8039999310b68922b34d0b5a8ad74b25b29fc9c6cfabdf03d502de32507d12f9",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] Clip Studio Paint is a image-editing software developed by Celsys. Illustration and comic software for manga and animation creators.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "clip-studio-paint"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

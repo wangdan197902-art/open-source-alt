@@ -1,0 +1,22 @@
+{
+  "id": "gotowebinar-de",
+  "sourceTextHash": "44e0641017989c6df9d361eeb4beccc3fcad690f51c28367a6b63708ed124296",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] GoToWebinar is a video-conferencing software developed by GoTo. Webinar platform for lead generation and online events.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "gotowebinar"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

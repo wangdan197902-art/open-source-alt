@@ -1,0 +1,29 @@
+{
+  "id": "microsoft-office-educational-ko",
+  "softwareId": "microsoft-office",
+  "scenario": "educational",
+  "lang": "ko",
+  "title": "Microsoft Office 2021 교육 사용 사례",
+  "description": "교육 현장에서 Microsoft Office 2021을(를) 사용하여 학술 논문 및 교육 자료 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Students, teachers, academic staff",
+    "workflow": "Assignments, lesson plans, academic papers",
+    "benefits": "Standard tools for academic document creation"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

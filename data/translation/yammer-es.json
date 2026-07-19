@@ -1,0 +1,22 @@
+{
+  "id": "yammer-es",
+  "sourceTextHash": "bc530b8e9832f9bd5d517b0aae050f0f84c6474c9c55c120cdbe9282d8fe003f",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Microsoft Yammer is a team-communication software developed by Microsoft. Enterprise social network for organization-wide communication.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "yammer"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

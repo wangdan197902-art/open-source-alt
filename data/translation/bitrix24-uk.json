@@ -1,0 +1,22 @@
+{
+  "id": "bitrix24-uk",
+  "sourceTextHash": "6ac8a110ddc9c2eb07f0e5613fe7ef4b07ed11f8d581cad9c620e9a4e36e5832",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Bitrix24 is a team-communication software developed by Bitrix24. Business suite combining chat, tasks, docs, and CRM.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "bitrix24"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

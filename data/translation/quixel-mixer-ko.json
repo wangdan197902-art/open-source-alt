@@ -1,0 +1,22 @@
+{
+  "id": "quixel-mixer-ko",
+  "sourceTextHash": "1548139494fba22aaa81842b70b7ad2ae2050549b21edc37443741f34b437d5e",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] Quixel Mixer is a image-editing software developed by Quixel. 3D material authoring tool for PBR texturing workflows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "quixel-mixer"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

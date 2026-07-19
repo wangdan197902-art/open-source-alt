@@ -1,0 +1,22 @@
+{
+  "id": "google-calendar-tr",
+  "sourceTextHash": "c7eb44351f19319cc4f7b4b9485f1fbc5c056ae32abde0783329e374ccd7b9c0",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] Google Calendar is a office-suite software developed by Google. Online calendar with reminders, sharing, and scheduling.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-calendar"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

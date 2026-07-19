@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-powerpoint-pl",
+  "sourceTextHash": "a40edfcc3dd39b8deddd1bb659341e8e0ed3de59fe73973e47fbd204413a38d1",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] Microsoft PowerPoint is a office-suite software developed by Microsoft. Presentation software for slides, transitions, and animations.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "microsoft-powerpoint"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

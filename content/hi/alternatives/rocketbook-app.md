@@ -1,0 +1,28 @@
+---
+title: "Rocketbook Smart Notebook App के लिए ओपन-सोर्स विकल्प"
+date: "2026-07-19"
+draft: false
+description: "नीचे Rocketbook Smart Notebook App के लिए ओपन-सोर्स विकल्पों की सूची दी गई है, निःशुल्क और सक्रिय समुदाय के साथ।"
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "rocketbook-app"
+type: "alternative-list"
+---
+
+# Rocketbook Smart Notebook App के लिए ओपन-सोर्स विकल्प
+
+**नीचे Rocketbook Smart Notebook App के लिए ओपन-सोर्स विकल्पों की सूची दी गई है, निःशुल्क और सक्रिय समुदाय के साथ।**
+
+## Open Source Alternatives
+
+| Open Source Software | Match Score | Reason |
+|---------------------|-------------|--------|
+| Joplin | 95% | आधिकारिक रूप से अनुशंसित ओपन-सोर्स विकल्प, Rocketbook Smart Notebook App के साथ अत्यधिक संगत |
+| Chatwoot | 85% | समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध |
+| Chatwoot | 80% | समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध |
+| Chatwoot | 75% | समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध |
+| Chatwoot | 70% | समान श्रेणी का ओपन-सोर्स सॉफ़्टवेयर, विकल्प के रूप में उपलब्ध |
+
+## Related Pages
+
+- [Similar Software to rocketbook-app](../../similar/rocketbook-app/)

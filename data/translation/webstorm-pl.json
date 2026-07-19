@@ -1,0 +1,22 @@
+{
+  "id": "webstorm-pl",
+  "sourceTextHash": "b8cf12b9de20d7a6715dee5bc8ceef055ac32fb5cc7c00a3e445d92f3b0b5bf2",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] WebStorm is a development-tools software developed by JetBrains. JavaScript and TypeScript IDE with debugging and refactoring.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "webstorm"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

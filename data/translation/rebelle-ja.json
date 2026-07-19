@@ -1,0 +1,22 @@
+{
+  "id": "rebelle-ja",
+  "sourceTextHash": "e5a8da16888fc618ff2af6de47b74b310d9466cc52212088204f5d4fb0a0b88c",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Rebelle is a image-editing software developed by Escape Motions. Natural-media painting software simulating real paint behavior.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "rebelle"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

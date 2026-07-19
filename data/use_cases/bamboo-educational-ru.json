@@ -1,0 +1,29 @@
+{
+  "id": "bamboo-educational-ru",
+  "softwareId": "bamboo",
+  "scenario": "educational",
+  "lang": "ru",
+  "title": "Образовательные сценарии использования Bamboo",
+  "description": "Используйте Bamboo в образовательных сценариях для преподавание программирования и изучение кода.",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "CS students, coding bootcamp learners, educators",
+    "workflow": "Learning programming, completing assignments, building portfolio projects",
+    "benefits": "Powerful learning environment with debugging and code completion"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

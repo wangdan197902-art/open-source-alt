@@ -1,0 +1,22 @@
+{
+  "id": "gotomeeting-ms",
+  "sourceTextHash": "d3b9b0babe7a521dd5c82bc0cc19baae409a7f69a0491ce7136d6f60f116d637",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] GoToMeeting is a video-conferencing software developed by GoTo. Online meeting software with screen sharing and recording.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "gotomeeting"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

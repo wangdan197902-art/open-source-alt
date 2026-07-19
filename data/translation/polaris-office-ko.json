@@ -1,0 +1,22 @@
+{
+  "id": "polaris-office-ko",
+  "sourceTextHash": "3e4a78fd1f093edd9203ffce2671c52ed0f9415741ad99ecd5ce337686040496",
+  "targetLang": "ko",
+  "translatedText": "[Mock 한국어] Polaris Office is a office-suite software developed by Polaris Office. Cloud office suite for documents, spreadsheets, and presentations.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "polaris-office"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

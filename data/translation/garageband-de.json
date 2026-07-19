@@ -1,0 +1,22 @@
+{
+  "id": "garageband-de",
+  "sourceTextHash": "e6ffa6d6d528ef147074f43224f824e8098eaf257873321ee229d18d5b8d88c6",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] GarageBand is a media-player software developed by Apple. Free Mac music creation studio for beginners.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "garageband"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

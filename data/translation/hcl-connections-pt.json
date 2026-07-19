@@ -1,0 +1,22 @@
+{
+  "id": "hcl-connections-pt",
+  "sourceTextHash": "9f54395c39a0797c7ce45ea57b7310eb695e4174a1b211a46c47922365c61f57",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] HCL Connections is a team-communication software developed by HCL Software. Enterprise social network for collaboration and knowledge management.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "hcl-connections"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

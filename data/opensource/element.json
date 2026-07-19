@@ -1,0 +1,22 @@
+{
+  "id": "element",
+  "name": "Element",
+  "license": "AGPL-3.0",
+  "repository": "https://github.com/element-hq/element-web",
+  "category": "team-communication",
+  "platforms": ["Web", "Windows", "macOS", "Linux", "iOS", "Android"],
+  "maturityLevel": "stable",
+  "communitySize": "large",
+  "reviewStatus": "approved",
+  "aiGenerated": false,
+  "metadata": {
+    "created": "2026-07-19",
+    "updated": "2026-07-19"
+  },
+  "_meta": {
+    "source": "official-repository",
+    "schema_version": "1.0.0",
+    "unverified_fields": [],
+    "confidence": "high"
+  }
+}

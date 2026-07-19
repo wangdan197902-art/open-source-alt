@@ -1,0 +1,29 @@
+{
+  "id": "readcube-papers-personal-it",
+  "softwareId": "readcube-papers",
+  "scenario": "personal",
+  "lang": "it",
+  "title": "Casi d'uso personali di ReadCube Papers",
+  "description": "Usa ReadCube Papers nella vita personale per diario personale e registrazione di vita.",
+  "useCaseDetails": {
+    "industry": "Knowledge Work",
+    "users": "Personal knowledge managers, journalers",
+    "workflow": "Personal journaling, life organization, idea capture",
+    "benefits": "Helps organize personal thoughts and life admin in one place"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

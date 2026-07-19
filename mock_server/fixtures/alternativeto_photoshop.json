@@ -1,0 +1,44 @@
+{
+  "alternatives": [
+    {
+      "id": "gimp",
+      "name": "GIMP",
+      "description": "GNU Image Manipulation Program - 开源图像编辑软件，支持图层、滤镜、脚本扩展，覆盖大多数日常图像编辑需求。",
+      "licenses": ["GPL-3.0"],
+      "platforms": ["Linux", "Windows", "macOS"],
+      "likes": 1234
+    },
+    {
+      "id": "krita",
+      "name": "Krita",
+      "description": "开源数字绘画软件，特别适合插画、漫画、概念艺术创作，提供专业级笔刷引擎。",
+      "licenses": ["GPL-3.0"],
+      "platforms": ["Linux", "Windows", "macOS"],
+      "likes": 987
+    },
+    {
+      "id": "photopea",
+      "name": "Photopea",
+      "description": "在线图像编辑器，UI 与 Photoshop 高度相似，支持 PSD/XCF/SKetch 等多种格式。",
+      "licenses": ["Freemium"],
+      "platforms": ["Web"],
+      "likes": 654
+    },
+    {
+      "id": "darktable",
+      "name": "Darktable",
+      "description": "开源 RAW 照片处理与编辑软件，提供非破坏性编辑工作流，是 Lightroom 的开源替代。",
+      "licenses": ["GPL-3.0"],
+      "platforms": ["Linux", "Windows", "macOS"],
+      "likes": 432
+    },
+    {
+      "id": "inkscape",
+      "name": "Inkscape",
+      "description": "开源矢量图形编辑器，支持 SVG 格式，适合图标、Logo、插画设计。",
+      "licenses": ["GPL-2.0"],
+      "platforms": ["Linux", "Windows", "macOS"],
+      "likes": 389
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "endnote-tr",
+  "sourceTextHash": "9dff056bbfc7160e03fc7d9c1e44d0a37cf0b4d818d0f88e5912fddda888075e",
+  "targetLang": "tr",
+  "translatedText": "[Mock Türkçe] EndNote is a note-taking software developed by Clarivate. Reference management software for researchers and librarians.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "endnote"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "zoho-connect-ms",
+  "sourceTextHash": "ae9c6d52693c78fed7769951a161318653c5938c65db1be92e3e79fe180846d1",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Zoho Connect is a team-communication software developed by Zoho. Enterprise social network for team collaboration and knowledge sharing.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "zoho-connect"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

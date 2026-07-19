@@ -1,0 +1,54 @@
+{
+  "id": "easeus-data-recovery-alternatives-ru",
+  "softwareId": "easeus-data-recovery",
+  "lang": "ru",
+  "title": "Открытые альтернативы для EaseUS Data Recovery Wizard",
+  "description": "Ниже приведен список открытых альтернатив для EaseUS Data Recovery Wizard, бесплатных и с активным сообществом.",
+  "alternatives": [
+    {
+      "opensourceId": "testdisk-2",
+      "opensourceName": "TestDisk & PhotoRec",
+      "matchScore": 0.95,
+      "reason": "Официально рекомендованная открытая альтернатива, высоко совместимая с EaseUS Data Recovery Wizard"
+    },
+    {
+      "opensourceId": "albert",
+      "opensourceName": "Albert",
+      "matchScore": 0.85,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "albert-2",
+      "opensourceName": "Albert",
+      "matchScore": 0.8,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "albert-3",
+      "opensourceName": "Albert",
+      "matchScore": 0.75,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "baobab",
+      "opensourceName": "Baobab (Disk Usage Analyzer)",
+      "matchScore": 0.7,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

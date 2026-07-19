@@ -1,0 +1,29 @@
+{
+  "id": "google-calendar-educational-es",
+  "softwareId": "google-calendar",
+  "scenario": "educational",
+  "lang": "es",
+  "title": "Casos de uso educativo de Google Calendar",
+  "description": "Usa Google Calendar en entornos educativos para trabajos académicos y materiales educativos.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Students, teachers, academic staff",
+    "workflow": "Assignments, lesson plans, academic papers",
+    "benefits": "Standard tools for academic document creation"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

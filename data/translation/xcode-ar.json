@@ -1,0 +1,22 @@
+{
+  "id": "xcode-ar",
+  "sourceTextHash": "04052d51280db744c1d8f30681b7a915e947028d5cfe1b8ea4d14bef0fd2e7ab",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Xcode is a development-tools software developed by Apple. IDE for building apps for Apple platforms with SwiftUI and more.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "xcode"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

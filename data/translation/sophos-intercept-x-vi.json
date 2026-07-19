@@ -1,0 +1,22 @@
+{
+  "id": "sophos-intercept-x-vi",
+  "sourceTextHash": "64271ca61740c68bb87e902173285acd9d14ac6060bacb6d142d5b001ca9a4eb",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Sophos Intercept X is a security-software software developed by Sophos. Business EDR with deep learning anti-ransomware.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "sophos-intercept-x"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

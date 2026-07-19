@@ -1,0 +1,29 @@
+{
+  "id": "cyberghost-professional-zh",
+  "softwareId": "cyberghost",
+  "scenario": "professional",
+  "lang": "zh",
+  "title": "CyberGhost VPN 专业使用场景",
+  "description": "在专业工作中使用 CyberGhost VPN 进行威胁检测和漏洞扫描。",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Security analysts, IT admins, compliance officers",
+    "workflow": "Threat detection, vulnerability scanning, compliance auditing",
+    "benefits": "Enterprise-grade security for protecting organizational assets"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

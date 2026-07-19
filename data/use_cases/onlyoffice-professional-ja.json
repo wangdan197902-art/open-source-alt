@@ -1,0 +1,29 @@
+{
+  "id": "onlyoffice-professional-ja",
+  "softwareId": "onlyoffice",
+  "scenario": "professional",
+  "lang": "ja",
+  "title": "ONLYOFFICE プロフェッショナル使用例",
+  "description": "プロの現場で ONLYOFFICE を使ってオフィス文書とスプレッドシートを行います。",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Business professionals, analysts, administrators",
+    "workflow": "Document creation, spreadsheet analysis, presentations",
+    "benefits": "Standard productivity suite for business document workflows"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

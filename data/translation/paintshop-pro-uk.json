@@ -1,0 +1,22 @@
+{
+  "id": "paintshop-pro-uk",
+  "sourceTextHash": "4c5a80cdd5ee9abcd4a2dda893ecd7ccc2cc77414258fb5e44bcb27ca7d7d20d",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Corel PaintShop Pro is a image-editing software developed by Corel. Photo editing and graphic design software for Windows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "paintshop-pro"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

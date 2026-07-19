@@ -1,0 +1,22 @@
+{
+  "id": "appear-in-it",
+  "sourceTextHash": "a233db311591ab421e86bbbe7b979c0d043b3d3c54ca8bbd068f1613d95e7ab2",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] appear.in is a video-conferencing software developed by Whereby. Browser-based video meetings with simple room URLs.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "appear-in"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

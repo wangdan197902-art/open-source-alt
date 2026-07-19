@@ -1,0 +1,22 @@
+{
+  "id": "azure-devops-es",
+  "sourceTextHash": "dda93a05a378dfb7faef4931c358fea08384087862a11434480cdcd7dc14d00e",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Azure DevOps is a development-tools software developed by Microsoft. Microsoft cloud platform for repos, pipelines, and boards.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "azure-devops"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

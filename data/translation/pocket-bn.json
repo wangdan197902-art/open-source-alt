@@ -1,0 +1,22 @@
+{
+  "id": "pocket-bn",
+  "sourceTextHash": "ee1dbb0d0c85f92504ee2503460122a9d104b224a84bc91e3cf6414c019ee125",
+  "targetLang": "bn",
+  "translatedText": "[Mock বাংলা] Pocket is a note-taking software developed by Mozilla. Read-later service for saving articles and videos from the web.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "pocket"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

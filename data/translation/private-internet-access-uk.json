@@ -1,0 +1,22 @@
+{
+  "id": "private-internet-access-uk",
+  "sourceTextHash": "5aa822036924e7df60ff5bc1ac711f2ad168042836af9723f5e11e70d4dce89b",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] Private Internet Access is a security-software software developed by Kape Technologies. No-logs VPN with customizable encryption settings.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "private-internet-access"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

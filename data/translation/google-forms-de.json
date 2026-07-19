@@ -1,0 +1,22 @@
+{
+  "id": "google-forms-de",
+  "sourceTextHash": "80980c9848fbb4d7de3cfa00ec08dc81c3e053f9e061ff61ca72a699b3bb3d50",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Google Forms is a office-suite software developed by Google. Survey and form builder integrated with Google Workspace.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "google-forms"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

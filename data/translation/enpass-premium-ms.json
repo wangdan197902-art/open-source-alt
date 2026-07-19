@@ -1,0 +1,22 @@
+{
+  "id": "enpass-premium-ms",
+  "sourceTextHash": "f987b6ba982ded2681db98fadcad56e4ca1993514573f7ad8fe4bdb9b777563c",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Enpass Premium is a security-software software developed by Sinew Software. Offline password manager with cloud sync options.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "enpass-premium"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

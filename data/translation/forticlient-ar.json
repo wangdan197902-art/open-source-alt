@@ -1,0 +1,22 @@
+{
+  "id": "forticlient-ar",
+  "sourceTextHash": "b8e043670e5ae8e1aa7794bbdf5de87d2f99aec95a0c18a92cc42adca5a6de9f",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] FortiClient is a security-software software developed by Fortinet. Endpoint protection with VPN and zero-trust access.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "forticlient"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

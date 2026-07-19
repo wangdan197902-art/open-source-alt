@@ -1,0 +1,22 @@
+{
+  "id": "atomic-io-it",
+  "sourceTextHash": "ec207d4b1904289ac4acc9f300a97648fbc874e4f83ee7ab61094be2bed4b3eb",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] Atomic is a design-collaboration software developed by Atomic. Browser-based prototyping tool for interactive product flows.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "atomic-io"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

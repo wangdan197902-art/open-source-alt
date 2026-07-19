@@ -1,0 +1,29 @@
+{
+  "id": "marvel-personal-id",
+  "softwareId": "marvel",
+  "scenario": "personal",
+  "lang": "id",
+  "title": "Kasus penggunaan pribadi Marvel",
+  "description": "Gunakan Marvel dalam kehidupan pribadi untuk portofolio pribadi dan desain freelance.",
+  "useCaseDetails": {
+    "industry": "Design & Product",
+    "users": "Freelance designers, side-project creators",
+    "workflow": "Personal portfolio design, side project mockups, freelance client work",
+    "benefits": "Free tier supports personal creative work and portfolio building"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

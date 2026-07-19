@@ -1,0 +1,22 @@
+{
+  "id": "bartender-4-fr",
+  "sourceTextHash": "0998b5eb866631d2228304dc52ce2a22037560265e3cb9a711037291a35768d7",
+  "targetLang": "fr",
+  "translatedText": "[Mock Français] Bartender 4 is a system-utilities software developed by Surtees Studios. Mac menu bar icon organizer.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "bartender-4"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

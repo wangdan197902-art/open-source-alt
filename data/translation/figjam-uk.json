@@ -1,0 +1,22 @@
+{
+  "id": "figjam-uk",
+  "sourceTextHash": "029d89d9a8f156bee4fc15d95f1aae90c175ecc7be4968a23e18d1e441ba2b73",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] FigJam is a design-collaboration software developed by Figma Inc.. Online whiteboard for meetings, brainstorms, and workshops.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "figjam"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

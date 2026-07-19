@@ -1,0 +1,22 @@
+{
+  "id": "webex-teams-vi",
+  "sourceTextHash": "2622cf0b766941be8fc469aa74a124111159b58a9e24ede2a7319f88d68eee6c",
+  "targetLang": "vi",
+  "translatedText": "[Mock Tiếng Việt] Webex App is a team-communication software developed by Cisco. Messaging, meetings, and calling platform for teams.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "webex-teams"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

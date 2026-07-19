@@ -1,0 +1,22 @@
+{
+  "id": "substance-3d-painter-ru",
+  "sourceTextHash": "9b5397c505647e3eb7bd9252370eb9391de2be94336b2865abf373a65da9a247",
+  "targetLang": "ru",
+  "translatedText": "[Mock Русский] Substance 3D Painter is a image-editing software developed by Adobe. 3D texturing software for painting PBR materials directly on models.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "substance-3d-painter"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

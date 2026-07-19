@@ -1,0 +1,22 @@
+{
+  "id": "stellar-data-recovery-es",
+  "sourceTextHash": "99612abb478b1be14fc2caa51784d4e98ddaad92c2ba1cfcbbfeba652e0fd92c",
+  "targetLang": "es",
+  "translatedText": "[Mock Español] Stellar Data Recovery is a system-utilities software developed by Stellar. Recover data from corrupted drives and partitions.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "stellar-data-recovery"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

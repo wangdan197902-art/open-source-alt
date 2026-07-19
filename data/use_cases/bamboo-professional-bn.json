@@ -1,0 +1,29 @@
+{
+  "id": "bamboo-professional-bn",
+  "softwareId": "bamboo",
+  "scenario": "professional",
+  "lang": "bn",
+  "title": "Bamboo এর পেশাদার ব্যবহারের ক্ষেত্র",
+  "description": "পেশাদার কাজে কোড সম্পাদনা, ডিবাগিং এবং ভার্সন কন্ট্রোল-এর জন্য Bamboo ব্যবহার করুন।",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "Software engineers, devops teams, tech leads",
+    "workflow": "Code editing, debugging, version control, CI/CD pipeline integration",
+    "benefits": "Boosts developer productivity with intelligent tooling and integrations"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

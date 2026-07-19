@@ -1,0 +1,54 @@
+{
+  "id": "aimp-alternatives-ru",
+  "softwareId": "aimp",
+  "lang": "ru",
+  "title": "Открытые альтернативы для AIMP",
+  "description": "Ниже приведен список открытых альтернатив для AIMP, бесплатных и с активным сообществом.",
+  "alternatives": [
+    {
+      "opensourceId": "audacious-2",
+      "opensourceName": "Audacious",
+      "matchScore": 0.95,
+      "reason": "Официально рекомендованная открытая альтернатива, высоко совместимая с AIMP"
+    },
+    {
+      "opensourceId": "ardour",
+      "opensourceName": "Ardour",
+      "matchScore": 0.85,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "ardour-2",
+      "opensourceName": "Ardour",
+      "matchScore": 0.8,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "ardour-3",
+      "opensourceName": "Ardour",
+      "matchScore": 0.75,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "ardour-4",
+      "opensourceName": "Ardour",
+      "matchScore": 0.7,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

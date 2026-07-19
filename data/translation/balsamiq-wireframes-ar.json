@@ -1,0 +1,22 @@
+{
+  "id": "balsamiq-wireframes-ar",
+  "sourceTextHash": "f277a67a65c2e2c1b9ca97b34eb59d9f035d0720afb77543500a3e983fe46a7c",
+  "targetLang": "ar",
+  "translatedText": "[Mock العربية] Balsamiq Wireframes is a design-collaboration software developed by Balsamiq Studios. Low-fidelity wireframing tool with a sketch-style look.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "balsamiq-wireframes"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

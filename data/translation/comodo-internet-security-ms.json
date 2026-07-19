@@ -1,0 +1,22 @@
+{
+  "id": "comodo-internet-security-ms",
+  "sourceTextHash": "f76891914d1eb3402a407ece61df9ad58571dce0342ec340764a291c9f141de0",
+  "targetLang": "ms",
+  "translatedText": "[Mock Bahasa Melayu] Comodo Internet Security Premium is a security-software software developed by Comodo. Free antivirus with firewall and sandboxing technology.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "comodo-internet-security"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

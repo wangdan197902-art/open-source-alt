@@ -1,0 +1,54 @@
+{
+  "id": "coda-alternatives-uk",
+  "softwareId": "coda",
+  "lang": "uk",
+  "title": "Відкриті альтернативи для Coda",
+  "description": "Нижче наведено список відкритих альтернатив для Coda, безкоштовних з активною спільнотою.",
+  "alternatives": [
+    {
+      "opensourceId": "appflowy-4",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.95,
+      "reason": "Офіційно рекомендована відкрита альтернатива, високо сумісна з Coda"
+    },
+    {
+      "opensourceId": "affine",
+      "opensourceName": "AFFiNE",
+      "matchScore": 0.85,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "anytype",
+      "opensourceName": "Anytype",
+      "matchScore": 0.8,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "appflowy",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.75,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    },
+    {
+      "opensourceId": "appflowy-2",
+      "opensourceName": "AppFlowy",
+      "matchScore": 0.7,
+      "reason": "Відкрите ПЗ тієї ж категорії, доступне як альтернатива"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

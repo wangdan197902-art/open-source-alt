@@ -1,0 +1,54 @@
+{
+  "id": "azure-pipelines-alternatives-de",
+  "softwareId": "azure-pipelines",
+  "lang": "de",
+  "title": "Open-Source-Alternativen zu Azure Pipelines",
+  "description": "Nachfolgend finden Sie eine Liste von Open-Source-Alternativen zu Azure Pipelines, die kostenlos sind und eine aktive Community haben.",
+  "alternatives": [
+    {
+      "opensourceId": "jenkins",
+      "opensourceName": "Jenkins",
+      "matchScore": 0.95,
+      "reason": "Offiziell empfohlene Open-Source-Alternative, stark kompatibel mit Azure Pipelines"
+    },
+    {
+      "opensourceId": "dbeaver",
+      "opensourceName": "DBeaver",
+      "matchScore": 0.85,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "gitea",
+      "opensourceName": "Gitea",
+      "matchScore": 0.8,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "gitea-2",
+      "opensourceName": "Gitea",
+      "matchScore": 0.75,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    },
+    {
+      "opensourceId": "gitea-3",
+      "opensourceName": "Gitea",
+      "matchScore": 0.7,
+      "reason": "Open-Source-Software derselben Kategorie, als Alternative verfügbar"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

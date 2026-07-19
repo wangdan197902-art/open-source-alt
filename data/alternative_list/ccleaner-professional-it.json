@@ -1,0 +1,54 @@
+{
+  "id": "ccleaner-professional-alternatives-it",
+  "softwareId": "ccleaner-professional",
+  "lang": "it",
+  "title": "Alternative open source per CCleaner Professional",
+  "description": "Di seguito è riportato un elenco di alternative open source per CCleaner Professional, gratuite e con community attiva.",
+  "alternatives": [
+    {
+      "opensourceId": "bleachbit",
+      "opensourceName": "BleachBit",
+      "matchScore": 0.95,
+      "reason": "Alternativa open source ufficialmente consigliata, altamente compatibile con CCleaner Professional"
+    },
+    {
+      "opensourceId": "albert",
+      "opensourceName": "Albert",
+      "matchScore": 0.85,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "albert-2",
+      "opensourceName": "Albert",
+      "matchScore": 0.8,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "albert-3",
+      "opensourceName": "Albert",
+      "matchScore": 0.75,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    },
+    {
+      "opensourceId": "baobab",
+      "opensourceName": "Baobab (Disk Usage Analyzer)",
+      "matchScore": 0.7,
+      "reason": "Software open source della stessa categoria, disponibile come alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

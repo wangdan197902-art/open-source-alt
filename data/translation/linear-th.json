@@ -1,0 +1,22 @@
+{
+  "id": "linear-th",
+  "sourceTextHash": "53d5445900dd5005b8f30b87998db460e4034548c2df9b2a5bbc0ce839c8e998",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] Linear is a development-tools software developed by Linear. Streamlined issue tracking and project management for software teams.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "linear"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

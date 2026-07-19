@@ -1,0 +1,29 @@
+{
+  "id": "paintshop-pro-professional-th",
+  "softwareId": "paintshop-pro",
+  "scenario": "professional",
+  "lang": "th",
+  "title": "กรณีการใช้งานระดับมืออาชีพของ Corel PaintShop Pro",
+  "description": "ใช้ Corel PaintShop Pro ในงานระดับมืออาชีพเพื่อการแก้ไขภาพ การออกแบบกราฟิก และการสร้างศิลปะดิจิทัล",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Graphic designers, photographers, digital artists",
+    "workflow": "Image retouching, compositing, digital painting, asset preparation for print/web",
+    "benefits": "Industry-standard toolset for high-quality visual output and client deliverables"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "microsoft-defender-for-endpoint-professional-pl",
+  "softwareId": "microsoft-defender-for-endpoint",
+  "scenario": "professional",
+  "lang": "pl",
+  "title": "Profesjonalne przypadki użycia programu Microsoft Defender for Endpoint",
+  "description": "Używaj programu Microsoft Defender for Endpoint w pracy profesjonalnej do wykrywanie zagrożeń i skanowanie podatności.",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Security analysts, IT admins, compliance officers",
+    "workflow": "Threat detection, vulnerability scanning, compliance auditing",
+    "benefits": "Enterprise-grade security for protecting organizational assets"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

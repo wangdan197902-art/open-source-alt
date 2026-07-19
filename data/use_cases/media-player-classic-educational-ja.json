@@ -1,0 +1,29 @@
+{
+  "id": "media-player-classic-educational-ja",
+  "softwareId": "media-player-classic",
+  "scenario": "educational",
+  "lang": "ja",
+  "title": "Media Player Classic Home Cinema 教育使用例",
+  "description": "教育現場で Media Player Classic Home Cinema を使って教育動画の再生と講義録画を行います。",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "Students, educators, training content creators",
+    "workflow": "Educational video playback, lecture recordings, training materials",
+    "benefits": "Supports diverse media formats for educational content delivery"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

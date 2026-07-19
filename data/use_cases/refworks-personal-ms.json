@@ -1,0 +1,29 @@
+{
+  "id": "refworks-personal-ms",
+  "softwareId": "refworks",
+  "scenario": "personal",
+  "lang": "ms",
+  "title": "Kes penggunaan peribadi RefWorks",
+  "description": "Gunakan RefWorks dalam kehidupan peribadi untuk diari peribadi dan rekod kehidupan.",
+  "useCaseDetails": {
+    "industry": "Knowledge Work",
+    "users": "Personal knowledge managers, journalers",
+    "workflow": "Personal journaling, life organization, idea capture",
+    "benefits": "Helps organize personal thoughts and life admin in one place"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

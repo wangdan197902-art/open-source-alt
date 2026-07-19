@@ -1,0 +1,22 @@
+{
+  "id": "readcube-papers-uk",
+  "sourceTextHash": "6b3b54d287db4d2c82b885b143a13d5e48c249fa5bbc91300a63b0e64e658d6a",
+  "targetLang": "uk",
+  "translatedText": "[Mock Українська] ReadCube Papers is a note-taking software developed by Digital Science. Reference manager with PDF annotation and discovery tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "readcube-papers"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bitbucket-pt",
+  "sourceTextHash": "807ff4dc6b2efcb292697a73476b18b9c3ef1d25b47f413d6d5516dea5a4af82",
+  "targetLang": "pt",
+  "translatedText": "[Mock Português] Bitbucket is a development-tools software developed by Atlassian. Git code management integrated with Jira and Confluence.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "bitbucket"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

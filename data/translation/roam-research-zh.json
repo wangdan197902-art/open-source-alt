@@ -1,0 +1,22 @@
+{
+  "id": "roam-research-zh",
+  "sourceTextHash": "00cd68b317d34e8e75ff4fae4dd2d105e23fd924bbed03813c0bcc17e950b984",
+  "targetLang": "zh",
+  "translatedText": "[Mock 简体中文] Roam Research is a note-taking software developed by Roam Research. Networked thought tool with bidirectional links and daily notes.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "roam-research"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

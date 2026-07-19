@@ -1,0 +1,22 @@
+{
+  "id": "tidal-hifi-ja",
+  "sourceTextHash": "b5cd70f7c79142e6881ced1c7349b768356a3da26d3cab52d2c55d9a596521dd",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] TIDAL HiFi is a media-player software developed by TIDAL. HiFi music streaming with MQA and lossless quality.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "tidal-hifi"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

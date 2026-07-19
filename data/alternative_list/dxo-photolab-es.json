@@ -1,0 +1,54 @@
+{
+  "id": "dxo-photolab-alternatives-es",
+  "softwareId": "dxo-photolab",
+  "lang": "es",
+  "title": "Alternativas de código abierto para DxO PhotoLab",
+  "description": "A continuación se muestra una lista de alternativas de código abierto para DxO PhotoLab, gratuitas y con comunidad activa.",
+  "alternatives": [
+    {
+      "opensourceId": "darktable-3",
+      "opensourceName": "Darktable",
+      "matchScore": 0.95,
+      "reason": "Alternativa de código abierto recomendada oficialmente, altamente compatible con DxO PhotoLab"
+    },
+    {
+      "opensourceId": "armorpaint",
+      "opensourceName": "ArmorPaint",
+      "matchScore": 0.85,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "blender",
+      "opensourceName": "Blender",
+      "matchScore": 0.8,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "blender-10",
+      "opensourceName": "Blender",
+      "matchScore": 0.75,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    },
+    {
+      "opensourceId": "blender-11",
+      "opensourceName": "Blender",
+      "matchScore": 0.7,
+      "reason": "Software de código abierto de la misma categoría, disponible como opción alternativa"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

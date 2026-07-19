@@ -1,0 +1,22 @@
+{
+  "id": "teamviewer-business-th",
+  "sourceTextHash": "2b95f1dcb6bd0285c005c612b7e6c7d7f8f72ebe0968a575394703fcc3e1e1ae",
+  "targetLang": "th",
+  "translatedText": "[Mock ไทย] TeamViewer Business is a system-utilities software developed by TeamViewer. Remote desktop and online support tool.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "teamviewer-business"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

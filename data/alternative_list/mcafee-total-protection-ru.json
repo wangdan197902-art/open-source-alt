@@ -1,0 +1,54 @@
+{
+  "id": "mcafee-total-protection-alternatives-ru",
+  "softwareId": "mcafee-total-protection",
+  "lang": "ru",
+  "title": "Открытые альтернативы для McAfee Total Protection",
+  "description": "Ниже приведен список открытых альтернатив для McAfee Total Protection, бесплатных и с активным сообществом.",
+  "alternatives": [
+    {
+      "opensourceId": "clamwin-2",
+      "opensourceName": "ClamWin",
+      "matchScore": 0.95,
+      "reason": "Официально рекомендованная открытая альтернатива, высоко совместимая с McAfee Total Protection"
+    },
+    {
+      "opensourceId": "bitwarden",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.85,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "bitwarden-2",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.8,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "bitwarden-3",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.75,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    },
+    {
+      "opensourceId": "bitwarden-4",
+      "opensourceName": "Bitwarden",
+      "matchScore": 0.7,
+      "reason": "Открытое ПО той же категории, доступное как альтернатива"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

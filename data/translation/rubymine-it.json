@@ -1,0 +1,22 @@
+{
+  "id": "rubymine-it",
+  "sourceTextHash": "4b0eeefb21c77c8227eb634ddecf64db71d74638737e69be5d59e957c537aae5",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] RubyMine is a development-tools software developed by JetBrains. Ruby and Rails IDE with debugging, refactoring, and testing tools.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "rubymine"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

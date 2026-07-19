@@ -1,0 +1,22 @@
+{
+  "id": "refworks-pl",
+  "sourceTextHash": "49f297983f3b445789808c0ba34596fd5cc1d1da2cb3f9923e6f5c3542313ef6",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] RefWorks is a note-taking software developed by ProQuest. Web-based reference management for academic institutions.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "refworks"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

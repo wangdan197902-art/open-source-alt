@@ -1,0 +1,22 @@
+{
+  "id": "easeus-todo-backup-it",
+  "sourceTextHash": "148eb513a349aaf692d6cf2e1f4578869da092eab561c13e0a5068189bc8ba16",
+  "targetLang": "it",
+  "translatedText": "[Mock Italiano] EaseUS Todo Backup is a system-utilities software developed by EaseUS. Windows backup with disk imaging and sync.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "easeus-todo-backup"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

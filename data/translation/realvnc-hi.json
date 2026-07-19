@@ -1,0 +1,22 @@
+{
+  "id": "realvnc-hi",
+  "sourceTextHash": "47adee7cb3a5e58d3923f51018e08f29b735007b28a6e1eeab920fedca12f906",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] RealVNC is a video-conferencing software developed by RealVNC. Remote access and support software using VNC protocol.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "realvnc"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

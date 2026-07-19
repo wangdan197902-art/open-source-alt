@@ -1,0 +1,49 @@
+{
+  "id": "inventor-similar-tr",
+  "softwareId": "inventor",
+  "lang": "tr",
+  "title": "Autodesk Inventor ile benzer yazılımlar",
+  "description": "Aşağıda Autodesk Inventor ile benzer yazılımların bir listesi bulunmaktadır.",
+  "similarSoftware": [
+    {
+      "id": "3ds-max",
+      "name": "Autodesk 3ds Max",
+      "similarity": 0.95
+    },
+    {
+      "id": "acorn",
+      "name": "Acorn",
+      "similarity": 0.89
+    },
+    {
+      "id": "affinity-designer",
+      "name": "Affinity Designer",
+      "similarity": 0.82
+    },
+    {
+      "id": "affinity-photo",
+      "name": "Affinity Photo",
+      "similarity": 0.76
+    },
+    {
+      "id": "allplan",
+      "name": "Allplan",
+      "similarity": 0.7
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "similarSoftware"
+    ],
+    "confidence": "medium"
+  }
+}

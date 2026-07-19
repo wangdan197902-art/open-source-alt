@@ -1,0 +1,22 @@
+{
+  "id": "framer-de",
+  "sourceTextHash": "9f16121438cbd08d1d49f3e3c3f1d06ce39475422e4c019262c7ecee31d3f925",
+  "targetLang": "de",
+  "translatedText": "[Mock Deutsch] Framer is a design-collaboration software developed by Framer. Site builder and prototyping tool with interactive components.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "framer"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

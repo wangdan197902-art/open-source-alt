@@ -1,0 +1,54 @@
+{
+  "id": "symphony-alternatives-bn",
+  "softwareId": "symphony",
+  "lang": "bn",
+  "title": "Symphony এর জন্য ওপেন-সোর্স বিকল্প",
+  "description": "নিচে Symphony এর জন্য ওপেন-সোর্স বিকল্পগুলির একটি তালিকা দেওয়া হলো, বিনামূল্যে এবং সক্রিয় কমিউনিটি সহ।",
+  "alternatives": [
+    {
+      "opensourceId": "mattermost-13",
+      "opensourceName": "Mattermost",
+      "matchScore": 0.95,
+      "reason": "অফিসিয়ালি সুপারিশকৃত ওপেন-সোর্স বিকল্প, Symphony এর সাথে অত্যন্ত সামঞ্জস্যপূর্ণ"
+    },
+    {
+      "opensourceId": "chatwoot",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.85,
+      "reason": "একই বিভাগের ওপেন-সোর্স সফ্টওয়্যার, বিকল্প হিসাবে উপলব্ধ"
+    },
+    {
+      "opensourceId": "chatwoot-2",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.8,
+      "reason": "একই বিভাগের ওপেন-সোর্স সফ্টওয়্যার, বিকল্প হিসাবে উপলব্ধ"
+    },
+    {
+      "opensourceId": "chatwoot-3",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.75,
+      "reason": "একই বিভাগের ওপেন-সোর্স সফ্টওয়্যার, বিকল্প হিসাবে উপলব্ধ"
+    },
+    {
+      "opensourceId": "chatwoot-4",
+      "opensourceName": "Chatwoot",
+      "matchScore": 0.7,
+      "reason": "একই বিভাগের ওপেন-সোর্স সফ্টওয়্যার, বিকল্প হিসাবে উপলব্ধ"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

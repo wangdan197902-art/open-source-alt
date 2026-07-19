@@ -1,0 +1,29 @@
+{
+  "id": "procreate-personal-ja",
+  "softwareId": "procreate",
+  "scenario": "personal",
+  "lang": "ja",
+  "title": "Procreate 個人使用例",
+  "description": "個人の生活で Procreate を使って個人の写真編集とSNSコンテンツ制作を行います。",
+  "useCaseDetails": {
+    "industry": "Design & Photography",
+    "users": "Hobbyists, social media enthusiasts",
+    "workflow": "Photo retouching, creative projects, social media content creation",
+    "benefits": "Easy photo enhancement for personal memories and online sharing"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

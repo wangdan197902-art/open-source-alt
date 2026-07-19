@@ -1,0 +1,29 @@
+{
+  "id": "microsoft-access-educational-vi",
+  "softwareId": "microsoft-access",
+  "scenario": "educational",
+  "lang": "vi",
+  "title": "Tình huống sử dụng giáo dục của Microsoft Access",
+  "description": "Sử dụng Microsoft Access trong môi trường giáo dục để công trình học thuật và tài liệu giáo dục.",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Students, teachers, academic staff",
+    "workflow": "Assignments, lesson plans, academic papers",
+    "benefits": "Standard tools for academic document creation"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

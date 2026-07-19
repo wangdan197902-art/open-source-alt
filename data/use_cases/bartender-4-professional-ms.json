@@ -1,0 +1,29 @@
+{
+  "id": "bartender-4-professional-ms",
+  "softwareId": "bartender-4",
+  "scenario": "professional",
+  "lang": "ms",
+  "title": "Kes penggunaan profesional Bartender 4",
+  "description": "Gunakan Bartender 4 dalam kerja profesional untuk pemantauan sistem dan pengurusan fail.",
+  "useCaseDetails": {
+    "industry": "IT Operations",
+    "users": "System admins, IT operations, DevOps engineers",
+    "workflow": "System monitoring, file management, automation scripts",
+    "benefits": "Streamlines system administration and operational efficiency"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

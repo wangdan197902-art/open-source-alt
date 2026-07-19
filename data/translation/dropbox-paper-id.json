@@ -1,0 +1,22 @@
+{
+  "id": "dropbox-paper-id",
+  "sourceTextHash": "eadbe98d47c9b11bdd343c5508382b7e6d18e0885e18455f399a825d32cc2c72",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] Dropbox Paper is a note-taking software developed by Dropbox. Collaborative doc editor with task lists, code blocks, and media.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "dropbox-paper"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

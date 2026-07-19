@@ -1,0 +1,22 @@
+{
+  "id": "vue-3d-nl",
+  "sourceTextHash": "04e801245b46736b1dc12f13bf79203c86495cee9142b9633f2ec3b53dbefad7",
+  "targetLang": "nl",
+  "translatedText": "[Mock Nederlands] Vue is a image-editing software developed by e-on software. 3D scenery creation software for natural environments.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "vue-3d"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

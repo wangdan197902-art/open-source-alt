@@ -1,0 +1,29 @@
+{
+  "id": "clion-personal-zh",
+  "softwareId": "clion",
+  "scenario": "personal",
+  "lang": "zh",
+  "title": "CLion 个人使用场景",
+  "description": "在个人生活中使用 CLion 进行个人编程项目和开源贡献。",
+  "useCaseDetails": {
+    "industry": "Software Development",
+    "users": "Hobbyist developers, open-source contributors",
+    "workflow": "Personal projects, open-source contributions, side hustles",
+    "benefits": "Free tier supports personal coding projects and skill development"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

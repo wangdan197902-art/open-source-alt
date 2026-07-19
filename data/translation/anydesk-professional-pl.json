@@ -1,0 +1,22 @@
+{
+  "id": "anydesk-professional-pl",
+  "sourceTextHash": "fb49dc61417a50df5cb7a38c857a34c93b3e227cb9d57e4cb6d10e55d08ee614",
+  "targetLang": "pl",
+  "translatedText": "[Mock Polski] AnyDesk Professional is a system-utilities software developed by AnyDesk. Remote desktop with low latency and file transfer.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "anydesk-professional"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

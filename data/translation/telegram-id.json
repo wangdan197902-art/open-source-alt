@@ -1,0 +1,22 @@
+{
+  "id": "telegram-id",
+  "sourceTextHash": "b0f785df79494c491e3391d9874fdc9583350430dcf9dbcb6d8a4584841de1e4",
+  "targetLang": "id",
+  "translatedText": "[Mock Bahasa Indonesia] Telegram is a team-communication software developed by Telegram FZ-LLC. Cloud-based messaging app with channels, bots, and large groups.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "telegram"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

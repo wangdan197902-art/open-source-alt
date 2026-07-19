@@ -1,0 +1,29 @@
+{
+  "id": "splashtop-educational-ko",
+  "softwareId": "splashtop",
+  "scenario": "educational",
+  "lang": "ko",
+  "title": "Splashtop 교육 사용 사례",
+  "description": "교육 현장에서 Splashtop을(를) 사용하여 온라인 수업 및 원격 교육 수행합니다.",
+  "useCaseDetails": {
+    "industry": "Communication & Collaboration",
+    "users": "Online students, remote educators, trainers",
+    "workflow": "Online classes, virtual office hours, remote tutoring",
+    "benefits": "Enables remote learning and global education access"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

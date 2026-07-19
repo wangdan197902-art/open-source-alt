@@ -1,0 +1,29 @@
+{
+  "id": "trend-micro-personal-hi",
+  "softwareId": "trend-micro",
+  "scenario": "personal",
+  "lang": "hi",
+  "title": "Trend Micro Maximum Security के व्यक्तिगत उपयोग मामले",
+  "description": "व्यक्तिगत जीवन में व्यक्तिगत डिवाइस सुरक्षा और गोपनीयता सुरक्षा के लिए Trend Micro Maximum Security का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Cybersecurity",
+    "users": "Home users, privacy-conscious individuals",
+    "workflow": "Personal device protection, privacy tools, secure browsing",
+    "benefits": "Protects personal data and online privacy"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

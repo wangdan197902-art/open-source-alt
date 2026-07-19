@@ -1,0 +1,29 @@
+{
+  "id": "ringcentral-app-educational-hi",
+  "softwareId": "ringcentral-app",
+  "scenario": "educational",
+  "lang": "hi",
+  "title": "RingCentral App के शैक्षिक उपयोग मामले",
+  "description": "शैक्षिक परिदृश्यों में अध्ययन समूह और पाठ्यक्रम सहयोग के लिए RingCentral App का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Business Communication",
+    "users": "Student teams, online course groups, educators",
+    "workflow": "Group project coordination, study groups, class announcements",
+    "benefits": "Facilitates collaborative learning and group work coordination"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

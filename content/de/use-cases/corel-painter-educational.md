@@ -1,0 +1,34 @@
+---
+title: "Bildungsszenarien für Corel Painter"
+date: "2026-07-19"
+draft: false
+description: "Verwende Corel Painter in Bildungsszenarien für Bildverarbeitungsunterricht und -lernen."
+aiGenerated: true
+reviewStatus: "pending"
+softwareId: "corel-painter"
+scenario: "educational"
+type: "use-case"
+use-case:
+  - educational
+tags:
+  - corel-painter
+  - educational
+  - Design & Photography
+categories:
+  - Design & Photography
+---
+
+# Bildungsszenarien für Corel Painter
+
+**Verwende Corel Painter in Bildungsszenarien für Bildverarbeitungsunterricht und -lernen.**
+
+## Use Case Details
+
+- **Industry**: Design & Photography
+- **Users**: Design students, educators, beginners
+- **Workflow**: Learning image editing fundamentals, classroom demonstrations, assignments
+- **Benefits**: Build foundational skills for design careers and creative projects
+
+## Software
+
+View [Open Source Alternatives for corel-painter](../../alternatives/corel-painter/) and [Similar Software to corel-painter](../../similar/corel-painter/).

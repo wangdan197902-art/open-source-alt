@@ -1,0 +1,22 @@
+{
+  "id": "dashlane-ja",
+  "sourceTextHash": "300a8758660b6627fdb12dbdbefd6702c0558e1d79253d616b4cfb13f203f633",
+  "targetLang": "ja",
+  "translatedText": "[Mock 日本語] Dashlane Premium is a security-software software developed by Dashlane. Password manager with VPN and identity theft protection.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "dashlane"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

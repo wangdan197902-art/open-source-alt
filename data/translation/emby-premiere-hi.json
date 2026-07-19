@@ -1,0 +1,22 @@
+{
+  "id": "emby-premiere-hi",
+  "sourceTextHash": "6af67618c001da3a1f0d3af1e92565c1db44404b660e999360258ce30969798a",
+  "targetLang": "hi",
+  "translatedText": "[Mock हिन्दी] Emby Premiere is a media-player software developed by Emby. Premium media server with hardware acceleration and mobile sync.",
+  "translatorModel": "agnes-2.0-flash-mock",
+  "confidenceScore": 0.9,
+  "reviewStatus": "pending",
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en",
+    "softwareId": "emby-premiere"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "translatedText"
+    ],
+    "confidence": "medium"
+  }
+}

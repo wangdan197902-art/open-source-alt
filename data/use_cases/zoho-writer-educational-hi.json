@@ -1,0 +1,29 @@
+{
+  "id": "zoho-writer-educational-hi",
+  "softwareId": "zoho-writer",
+  "scenario": "educational",
+  "lang": "hi",
+  "title": "Zoho Writer के शैक्षिक उपयोग मामले",
+  "description": "शैक्षिक परिदृश्यों में शैक्षणिक कार्य और शैक्षिक सामग्री के लिए Zoho Writer का उपयोग करें।",
+  "useCaseDetails": {
+    "industry": "Business & Productivity",
+    "users": "Students, teachers, academic staff",
+    "workflow": "Assignments, lesson plans, academic papers",
+    "benefits": "Standard tools for academic document creation"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}

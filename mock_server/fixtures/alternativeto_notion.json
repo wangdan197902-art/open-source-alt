@@ -1,0 +1,44 @@
+{
+  "alternatives": [
+    {
+      "id": "obsidian",
+      "name": "Obsidian",
+      "description": "基于本地 Markdown 文件的个人知识管理工具，支持双向链接、图谱视图和丰富插件生态。",
+      "licenses": ["Freemium"],
+      "platforms": ["Windows", "macOS", "Linux", "iOS", "Android"],
+      "likes": 2156
+    },
+    {
+      "id": "logseq",
+      "name": "Logseq",
+      "description": "开源的隐私优先知识管理工具，支持大纲、双向链接和白板，基于本地 Markdown/Org-mode 文件。",
+      "licenses": ["AGPL-3.0"],
+      "platforms": ["Windows", "macOS", "Linux", "iOS", "Android", "Web"],
+      "likes": 892
+    },
+    {
+      "id": "anytype",
+      "name": "Anytype",
+      "description": "本地优先的对象编辑器，结合 Notion 的灵活性和本地存储的隐私性，支持离线协作。",
+      "licenses": ["AGPL-3.0"],
+      "platforms": ["Windows", "macOS", "Linux", "iOS", "Android"],
+      "likes": 743
+    },
+    {
+      "id": "appflowy",
+      "name": "AppFlowy",
+      "description": "开源的 Notion 替代品，使用 Rust + Flutter 构建，强调数据隐私和可扩展性。",
+      "licenses": ["AGPL-3.0"],
+      "platforms": ["Windows", "macOS", "Linux", "iOS", "Android"],
+      "likes": 612
+    },
+    {
+      "id": "silicon",
+      "name": "SiYuan",
+      "description": "思源笔记 - 国产开源块级笔记软件，支持双向链接、SQL 查询、模板和插件系统。",
+      "licenses": ["AGPL-3.0"],
+      "platforms": ["Windows", "macOS", "Linux", "iOS", "Android", "Docker"],
+      "likes": 489
+    }
+  ]
+}

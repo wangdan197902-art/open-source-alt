@@ -1,0 +1,54 @@
+{
+  "id": "google-duo-alternatives-nl",
+  "softwareId": "google-duo",
+  "lang": "nl",
+  "title": "Open-source alternatieven voor Google Duo",
+  "description": "Hieronder staat een lijst met open-source alternatieven voor Google Duo, gratis en met actieve community.",
+  "alternatives": [
+    {
+      "opensourceId": "jitsi-meet-21",
+      "opensourceName": "Jitsi Meet",
+      "matchScore": 0.95,
+      "reason": "Officieel aanbevolen open-source alternatief, sterk compatibel met Google Duo"
+    },
+    {
+      "opensourceId": "bigbluebutton",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.85,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "bigbluebutton-10",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.8,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "bigbluebutton-11",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.75,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    },
+    {
+      "opensourceId": "bigbluebutton-12",
+      "opensourceName": "BigBlueButton",
+      "matchScore": 0.7,
+      "reason": "Open-source software van dezelfde categorie, beschikbaar als alternatief"
+    }
+  ],
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "alternatives"
+    ],
+    "confidence": "medium"
+  }
+}

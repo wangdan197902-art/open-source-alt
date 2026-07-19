@@ -1,0 +1,29 @@
+{
+  "id": "davinci-resolve-studio-personal-de",
+  "softwareId": "davinci-resolve-studio",
+  "scenario": "personal",
+  "lang": "de",
+  "title": "Persönliche Anwendungsfälle für DaVinci Resolve Studio",
+  "description": "Verwende DaVinci Resolve Studio im persönlichen Alltag für persönliche Mediathek und Unterhaltung.",
+  "useCaseDetails": {
+    "industry": "Media & Entertainment",
+    "users": "General consumers, movie enthusiasts",
+    "workflow": "Personal media library, movie watching, music playback",
+    "benefits": "Free high-quality media playback for personal entertainment"
+  },
+  "reviewStatus": "pending",
+  "aiGenerated": true,
+  "metadata": {
+    "created": "2026-07-19",
+    "sourceLang": "en"
+  },
+  "_meta": {
+    "source": "ai-generated-mock",
+    "schema_version": "1.0.0",
+    "unverified_fields": [
+      "description",
+      "useCaseDetails"
+    ],
+    "confidence": "medium"
+  }
+}
