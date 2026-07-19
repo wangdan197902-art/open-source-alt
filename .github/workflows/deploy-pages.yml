@@ -1,0 +1,66 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.139.0'
+          extended: true
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Build with Hugo
+        run: hugo --minify --baseURL "https://alternatives.ai-term-hub.com/"
+        env:
+          HUGO_ENV: production
+      - name: Build Pagefind Search Index
+        run: npx pagefind --site public/
+        continue-on-error: true
+      - name: Add .nojekyll
+        run: touch public/.nojekyll
+      - name: Ensure index.html
+        run: |
+          if [ ! -f public/index.html ]; then
+            mkdir -p public
+            cat > public/index.html << 'HTMLEOF'
+          <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>Open Source Alternatives</title></head><body><h1>Open Source Alternatives</h1><p>Site is being deployed. Please wait a moment...</p></body></html>
+          HTMLEOF
+          fi
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
