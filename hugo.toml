@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "OSSAF - 开源软件替代品查找器"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
 
 # 启用多语言（按目录组织：content/{lang}/）
 [languages]
@@ -176,6 +177,18 @@ section = ["HTML"]
 taxonomy = ["HTML"]
 term = ["HTML"]
 page = ["HTML"]
+
+# robots.txt 配置（Hugo 内置生成，模板见 layouts/robots.txt）
+# 启用后 Hugo 会在 public/robots.txt 输出文件
+[services]
+[services.googleAnalytics]
+id = ""
+
+# Sitemap 配置（Hugo 默认生成 sitemap.xml，此处的优先级/更新频率可调）
+[sitemap]
+changefreq = "weekly"
+priority = 0.5
+filename = "sitemap.xml"
 
 # 隐私配置
 [privacy]

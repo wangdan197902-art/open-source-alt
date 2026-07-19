@@ -18,6 +18,24 @@ jobs:
           submodules: true
           fetch-depth: 0
 
+      - name: Verify Netlify credentials
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        run: |
+          if [ -z "$NETLIFY_AUTH_TOKEN" ]; then
+            echo "::error::NETLIFY_AUTH_TOKEN is missing. Please configure it in GitHub Secrets (Settings → Secrets and variables → Actions → New repository secret)."
+            echo "::error::Generate token at: https://app.netlify.com/user/applications#personal-access-tokens"
+            exit 1
+          fi
+          if [ -z "$NETLIFY_SITE_ID" ]; then
+            echo "::error::NETLIFY_SITE_ID is missing. Please configure it in GitHub Secrets."
+            exit 1
+          fi
+          echo "Netlify credentials verified."
+          echo "  NETLIFY_SITE_ID length: ${#NETLIFY_SITE_ID}"
+          echo "  NETLIFY_AUTH_TOKEN length: ${#NETLIFY_AUTH_TOKEN}"
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
@@ -34,6 +52,19 @@ jobs:
         env:
           HUGO_ENV: production
 
+      - name: Verify Hugo build output
+        run: |
+          if [ ! -f "public/index.html" ]; then
+            echo "::error::Hugo build failed: public/index.html not found"
+            exit 1
+          fi
+          PAGES_COUNT=$(find public -type f -name "*.html" | wc -l)
+          echo "Total HTML pages generated: $PAGES_COUNT"
+          if [ "$PAGES_COUNT" -lt 100 ]; then
+            echo "::error::Hugo build produced too few pages ($PAGES_COUNT < 100)"
+            exit 1
+          fi
+
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
         with:
@@ -45,3 +76,4 @@ jobs:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
         timeout-minutes: 10
+
