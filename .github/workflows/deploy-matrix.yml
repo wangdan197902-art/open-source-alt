@@ -1,0 +1,93 @@
+# GitHub Actions 矩阵部署工作流模板（github-pages-部署器专用）
+#
+# 使用方式：
+#   1. 由 scripts/创建工作流.py 自动填充占位符并写入 .github/workflows/deploy-matrix.yml
+#   2. 占位符：wangdan197902-art / alternatives / ai-term-hub.com / 0.140.0
+#   3. 在仓库 Settings → Secrets 中添加 PERSONAL_GITHUB_TOKEN（由 scripts/配置secrets.py 完成）
+#   4. 推送到 main 分支即可触发25语种并行部署
+#
+# 部署目标：25个独立仓库的 gh-pages 分支
+# 自定义域名：{lang}.{site_type}.{domain}
+
+name: Deploy Multilingual Sites (Matrix)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+env:
+  SITE_TYPE: alternatives
+  DOMAIN: ai-term-hub.com
+  HUGO_VERSION: '0.140.0'
+  GITHUB_USER: wangdan197902-art
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        lang: [ar, cs, da, de, el, en, es, fi, fr, hu, id, it,
+               ja, ko, nl, no, pl, pt, ro, ru, sv, th, tr, vi, zh]
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+
+      - name: Build ${{ matrix.lang }} site
+        run: |
+          hugo --config hugo.toml,hugo-${{ matrix.lang }}.toml \
+               --minify \
+               --destination public-${{ matrix.lang }}
+
+      - name: Prepare single-lang publish dir
+        run: |
+          # Hugo构建产物在 public-{lang}/{lang}/ 子目录下（因为hugo.toml设置了baseURL=/）
+          # 我们只把当前语种的内容作为根目录推送，避免其他语种目录污染
+          mkdir -p publish-${{ matrix.lang }}
+          if [ -d "public-${{ matrix.lang }}/${{ matrix.lang }}" ]; then
+            cp -r public-${{ matrix.lang }}/${{ matrix.lang }}/* publish-${{ matrix.lang }}/
+            for shared in css js images fonts static assets; do
+              if [ -d "public-${{ matrix.lang }}/$shared" ]; then
+                cp -r "public-${{ matrix.lang }}/$shared" "publish-${{ matrix.lang }}/"
+              fi
+            done
+            for f in favicon.svg logo.svg og-image.svg site.webmanifest llms.txt BingSiteAuth.xml; do
+              if [ -f "public-${{ matrix.lang }}/$f" ]; then
+                cp "public-${{ matrix.lang }}/$f" "publish-${{ matrix.lang }}/"
+              fi
+            done
+          else
+            cp -r public-${{ matrix.lang }}/* publish-${{ matrix.lang }}/
+          fi
+
+      - name: Add CNAME and .nojekyll
+        run: |
+          echo "${{ matrix.lang }}.${{ env.SITE_TYPE }}.${{ env.DOMAIN }}" > publish-${{ matrix.lang }}/CNAME
+          touch publish-${{ matrix.lang }}/.nojekyll
+          # IndexNow API Key 文件（用于 Bing/Yandex 即时索引推送）
+          echo "a0f6b5032dd63cf84271ae3ab4fcaf86" > publish-${{ matrix.lang }}/a0f6b5032dd63cf84271ae3ab4fcaf86.txt
+
+      - name: Deploy to ${{ matrix.lang }}.github.io
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          external_repository: ${{ env.GITHUB_USER }}/${{ env.SITE_TYPE }}-${{ matrix.lang }}
+          publish_branch: gh-pages
+          publish_dir: ./publish-${{ matrix.lang }}
+          force_orphan: true
+          user_name: 'Deploy Agent'
+          user_email: 'deploy@ai-term-hub.com'
+          commit_message: 'Auto-deploy ${{ matrix.lang }} site (single-lang)'
+
+      - name: Notify deployment
+        run: |
+          echo "✅ Deployed: https://${{ matrix.lang }}.${{ env.SITE_TYPE }}.${{ env.DOMAIN }}"
+          echo "📦 Repository: https://github.com/${{ env.GITHUB_USER }}/${{ env.SITE_TYPE }}-${{ matrix.lang }}"

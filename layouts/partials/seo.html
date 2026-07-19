@@ -1,0 +1,119 @@
+{{/* SEO meta 标签模板（github-pages-部署器专用） */}}
+{{/* 包含：title / description / keywords / canonical / OG / Twitter / hreflang / robots */}}
+{{/* 同时注入 GSC / Ahrefs / GA4 / AdSense / IndexNow 验证与追踪代码 */}}
+{{ $title := .Title | default .Site.Title }}
+{{ $description := .Description | default .Summary | default .Site.Params.description }}
+{{ $url := .Permalink }}
+{{ $ogImage := .Site.Params.default_og_image | default "/images/og-default.svg" }}
+{{ with .Params.og_image }}{{ $ogImage = . }}{{ end }}
+
+<title>{{ $title }} | {{ .Site.Title }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ else }}AI tools, pricing, comparison, plans, deals, save money{{ end }}">
+<meta name="author" content="{{ .Site.Params.author | default "AI Pricing Hub" }}">
+<link rel="canonical" href="{{ $url }}">
+
+{{/* Robots meta：搜索结果页与草稿不索引 */}}
+{{ if or (eq .Type "search") (eq .Params.status "draft") (eq .Params.status "preview") }}
+<meta name="robots" content="noindex,nofollow">
+{{ else if .IsHome }}
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+{{ else }}
+<meta name="robots" content="index,follow,max-image-preview:large">
+{{ end }}
+
+{{/* 主题色：深色主题 #0a0a1a + 蓝色强调 #3b82f6 */}}
+<meta name="theme-color" content="#0a0a1a" data-light="#0a0a1a" data-dark="#0a0a1a">
+<meta name="color-scheme" content="dark light">
+
+{{/* Open Graph */}}
+<meta property="og:type" content="{{ if eq .Type "tools" }}article{{ else if eq .Type "guides" }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:url" content="{{ $url }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:image" content="{{ $ogImage | absURL }}">
+<meta property="og:image:alt" content="{{ $title }} - {{ .Site.Title }}">
+<meta property="og:locale" content="{{ .Site.Language.LanguageCode | replace "-" "_" }}">
+
+{{ if or (eq .Type "tools") (eq .Type "guides") }}
+<meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:section" content="{{ .Params.category | default "AI Tools" }}">
+{{ with .Params.tags }}
+{{ range first 5 . }}
+<meta property="article:tag" content="{{ . }}">
+{{ end }}
+{{ end }}
+{{ end }}
+
+{{/* Twitter Card */}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:image" content="{{ $ogImage | absURL }}">
+<meta name="twitter:image:alt" content="{{ $title }}">
+
+{{/* hreflang：静态生成（避免 .Translations 性能瓶颈） */}}
+{{ $supportedLangs := slice "en" "zh" "es" "fr" "de" "ja" "ko" "pt" "ru" "it" "ar" "nl" "pl" "tr" "vi" "th" "id" "sv" "no" "da" "cs" "el" "fi" "hu" "ro" }}
+{{ $currentPath := .RelPermalink }}
+{{ $pathWithoutLang := replaceRE "^/[a-z]{2}/" "/" $currentPath }}
+{{ if eq $pathWithoutLang $currentPath }}
+  {{ $pathWithoutLang = "/" }}
+{{ end }}
+{{ range $supportedLangs }}
+{{ if eq $pathWithoutLang "/" }}
+<link rel="alternate" hreflang="{{ . }}" href="{{ $.Site.BaseURL }}{{ . }}/">
+{{ else }}
+{{ $cleanPath := strings.TrimPrefix "/" $pathWithoutLang }}
+<link rel="alternate" hreflang="{{ . }}" href="{{ $.Site.BaseURL }}{{ . }}/{{ $cleanPath }}">
+{{ end }}
+{{ if eq . "en" }}
+{{ if eq $pathWithoutLang "/" }}
+<link rel="alternate" hreflang="x-default" href="{{ $.Site.BaseURL }}en/">
+{{ else }}
+<link rel="alternate" hreflang="x-default" href="{{ $.Site.BaseURL }}en/{{ strings.TrimPrefix "/" $pathWithoutLang }}">
+{{ end }}
+{{ end }}
+{{ end }}
+
+{{/* RSS 订阅 */}}
+{{ with .OutputFormats.Get "RSS" }}
+<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} RSS" href="{{ .RelPermalink }}">
+{{ end }}
+
+{{/* PWA Manifest */}}
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+
+{{/* ============== 验证与追踪代码（github-pages-部署器 注入） ============== */}}
+
+{{/* Google Search Console 验证 */}}
+{{ with .Site.Params.google_site_verification }}
+<meta name="google-site-verification" content="{{ . }}">
+{{ end }}
+
+{{/* Ahrefs 站点验证 */}}
+{{ with .Site.Params.ahrefs_site_verification }}
+<meta name="ahrefs-site-verification" content="{{ . }}">
+{{ end }}
+
+{{/* Google Analytics 4 追踪 */}}
+{{ with .Site.Params.google_analytics_id }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ . }}');
+</script>
+{{ end }}
+
+{{/* Google AdSense 自动广告 */}}
+{{ with .Site.Params.adsense_client }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
+{{ end }}
+
+{{/* IndexNow API Key 声明（key 文件由 deploy-matrix.yml 自动生成） */}}
+{{ with .Site.Params.indexnow_api_key }}
+<link rel="stylesheet" href="/{{ . }}.txt">
+{{ end }}

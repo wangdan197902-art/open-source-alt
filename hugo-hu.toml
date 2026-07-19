@@ -1,0 +1,86 @@
+# Hugo 单语种配置模板（GitHub Pages 部署器专用）
+#
+# 使用方式：
+#   1. 由 scripts/创建hugo配置.py 自动填充占位符并生成 hugo-{lang}.toml
+#   2. 占位符：hu / Magyar / alternatives / ai-term-hub.com / https://hu.alternatives.ai-term-hub.com/
+#   3. 与主 hugo.toml 一起使用：hugo --config hugo.toml,hugo-{lang}.toml
+#
+# 此配置会覆盖 hugo.toml 中的对应字段，实现单语种独立构建
+
+# ===== 基础URL（绑定自购三级域名） =====
+baseURL = "https://hu.alternatives.ai-term-hub.com/"
+
+# ===== 语言设置 =====
+languageCode = "hu"
+languageName = "Magyar"
+defaultContentLanguage = "hu"
+
+# ===== 单语种构建：禁用其他语种 =====
+# 只构建当前语种，避免生成25个语种子目录
+[languages]
+  [languages.hu]
+    weight = 1
+    title = "AI Terms Dictionary - Magyar"
+
+# ===== SEO优化参数 =====
+[params]
+  # 当前语种
+  currentLanguage = "hu"
+
+  # 站点描述（按语种翻译）
+  description = "AI Terms Dictionary in Magyar - Comprehensive AI terminology reference"
+
+  # 自定义域名
+  customDomain = "hu.alternatives.ai-term-hub.com"
+
+  # 部署平台信息
+  deploymentPlatform = "github-pages"
+  repositoryName = "alternatives-hu"
+
+  # canonical（指向当前语种子站首页）
+  canonical = "https://hu.alternatives.ai-term-hub.com/"
+
+  # SEO 验证与追踪参数（由 scripts/添加验证标签.py 同步注入 layouts/seo.html）
+  # 这些值会被 Hugo 模板读取并输出对应 meta 标签
+  google_site_verification = "Po21SS8ccODMgK6x0_LBsBX0t5qz7bdqRzASwE-ngyo"
+  ahrefs_site_verification = "ad7fa89d439de59a24f2c0539f078231d409b57876cd4088b2e41eafe03df321"
+  google_analytics_id = "G-15279420781"
+  # AdSense 客户端ID（需替换 XXXXXXXXXXXXXXXX 为真实值）
+  adsense_client = "ca-pub-XXXXXXXXXXXXXXXX"
+  # IndexNow API Key（用于 Bing/Yandex 即时索引推送）
+  indexnow_api_key = "a0f6b5032dd63cf84271ae3ab4fcaf86"
+
+  # Hreflang alternates（指向其他语种子站）
+  # 用于SEO多语种信号传递
+  [params.alternates]
+    ar = "https://ar.alternatives.ai-term-hub.com/"
+    cs = "https://cs.alternatives.ai-term-hub.com/"
+    da = "https://da.alternatives.ai-term-hub.com/"
+    de = "https://de.alternatives.ai-term-hub.com/"
+    el = "https://el.alternatives.ai-term-hub.com/"
+    en = "https://en.alternatives.ai-term-hub.com/"
+    es = "https://es.alternatives.ai-term-hub.com/"
+    fi = "https://fi.alternatives.ai-term-hub.com/"
+    fr = "https://fr.alternatives.ai-term-hub.com/"
+    hu = "https://hu.alternatives.ai-term-hub.com/"
+    id = "https://id.alternatives.ai-term-hub.com/"
+    it = "https://it.alternatives.ai-term-hub.com/"
+    ja = "https://ja.alternatives.ai-term-hub.com/"
+    ko = "https://ko.alternatives.ai-term-hub.com/"
+    nl = "https://nl.alternatives.ai-term-hub.com/"
+    no = "https://no.alternatives.ai-term-hub.com/"
+    pl = "https://pl.alternatives.ai-term-hub.com/"
+    pt = "https://pt.alternatives.ai-term-hub.com/"
+    ro = "https://ro.alternatives.ai-term-hub.com/"
+    ru = "https://ru.alternatives.ai-term-hub.com/"
+    sv = "https://sv.alternatives.ai-term-hub.com/"
+    th = "https://th.alternatives.ai-term-hub.com/"
+    tr = "https://tr.alternatives.ai-term-hub.com/"
+    vi = "https://vi.alternatives.ai-term-hub.com/"
+    zh = "https://zh.alternatives.ai-term-hub.com/"
+
+# ===== Sitemap 配置（单语种独立sitemap） =====
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.8
+  filename = "sitemap.xml"
