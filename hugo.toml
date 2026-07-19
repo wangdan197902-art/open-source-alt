@@ -160,6 +160,9 @@ description = "查找商业软件的开源替代方案"
 env = "production"
 devPreview = true
 aiDisclosure = true
+# Google Search Console 验证（主入口 alternatives.ai-term-hub.com）
+# 参数名与 hugo-{lang}.toml 中的 [params] 段落保持一致（snake_case）
+google_site_verification = "Po21SS8ccODMgK6x0_LBsBX0t5qz7bdqRzASwE-ngyo"
 
 # JSON 输出格式（用于 Fuse.js 客户端搜索）
 [outputFormats.json]
