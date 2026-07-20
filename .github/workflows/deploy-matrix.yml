@@ -49,12 +49,14 @@ jobs:
 
       - name: Prepare single-lang publish dir
         run: |
-          # Hugo构建产物在 public-{lang}/{lang}/ 子目录下（因为hugo.toml设置了baseURL=/）
-          # 我们只把当前语种的内容作为根目录推送，避免其他语种目录污染
+          # Hugo构建产物在 public-{lang}/{lang}/ 子目录下（因为hugo.toml设置了defaultContentLanguageInSubdir=true）
+          # 但是 search.md 的 url: "/search/" 强制路由会让 search 页面输出到根目录 public-{lang}/search/
+          # 因此需要额外复制根目录的 search/ 目录
           mkdir -p publish-${{ matrix.lang }}
           if [ -d "public-${{ matrix.lang }}/${{ matrix.lang }}" ]; then
             cp -r public-${{ matrix.lang }}/${{ matrix.lang }}/* publish-${{ matrix.lang }}/
-            for shared in css js images fonts static assets; do
+            # 复制共享资源目录（含 search：url:"/search/" 强制路由的输出位置）
+            for shared in css js images fonts static assets search; do
               if [ -d "public-${{ matrix.lang }}/$shared" ]; then
                 cp -r "public-${{ matrix.lang }}/$shared" "publish-${{ matrix.lang }}/"
               fi
@@ -67,6 +69,9 @@ jobs:
           else
             cp -r public-${{ matrix.lang }}/* publish-${{ matrix.lang }}/
           fi
+          # 诊断：检查 search 目录是否被复制
+          echo "=== publish-${{ matrix.lang }}/search/ 内容 ==="
+          ls "publish-${{ matrix.lang }}/search/" 2>/dev/null || echo "⚠️ search 目录未复制"
 
       - name: Build Pagefind index
         continue-on-error: true
