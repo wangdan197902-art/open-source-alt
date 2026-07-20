@@ -78,7 +78,7 @@ jobs:
         run: |
           set -x
           # 安装 Pagefind（使用直接 URL 避免 CloudCannon→Pagefind 仓库迁移重定向）
-          curl -fL https://github.com/Pagefind/pagefind/releases/download/v1.5.2/pagefind-x86_64-unknown-linux-musl.tar.gz \
+          curl -fL https://github.com/Pagefind/pagefind/releases/download/v1.5.2/pagefind-v1.5.2-x86_64-unknown-linux-musl.tar.gz \
             -o pagefind.tar.gz
           tar -xzf pagefind.tar.gz
           chmod +x pagefind
