@@ -2,13 +2,13 @@
 #
 # 使用方式：
 #   1. 由 scripts/创建hugo配置.py 自动填充占位符并生成 hugo-{lang}.toml
-#   2. 占位符：da / Dansk / alternatives / ai-term-hub.com / https://da.alternatives.ai-term-hub.com/
+#   2. 占位符：da / Dansk / alternatives / ai-term-hub.com / https://alternatives-da.ai-term-hub.com/
 #   3. 与主 hugo.toml 一起使用：hugo --config hugo.toml,hugo-{lang}.toml
 #
 # 此配置会覆盖 hugo.toml 中的对应字段，实现单语种独立构建
 
 # ===== 基础URL（绑定自购三级域名） =====
-baseURL = "https://da.alternatives.ai-term-hub.com/"
+baseURL = "https://alternatives-da.ai-term-hub.com/"
 
 # ===== 语言设置 =====
 languageCode = "da"
@@ -31,14 +31,14 @@ defaultContentLanguage = "da"
   description = "AI Terms Dictionary in Dansk - Comprehensive AI terminology reference"
 
   # 自定义域名
-  customDomain = "da.alternatives.ai-term-hub.com"
+  customDomain = "alternatives-da.ai-term-hub.com"
 
   # 部署平台信息
   deploymentPlatform = "github-pages"
   repositoryName = "alternatives-da"
 
   # canonical（指向当前语种子站首页）
-  canonical = "https://da.alternatives.ai-term-hub.com/"
+  canonical = "https://alternatives-da.ai-term-hub.com/"
 
   # SEO 验证与追踪参数（由 scripts/添加验证标签.py 同步注入 layouts/seo.html）
   # 这些值会被 Hugo 模板读取并输出对应 meta 标签
@@ -53,31 +53,30 @@ defaultContentLanguage = "da"
   # Hreflang alternates（指向其他语种子站）
   # 用于SEO多语种信号传递
   [params.alternates]
-    ar = "https://ar.alternatives.ai-term-hub.com/"
-    cs = "https://cs.alternatives.ai-term-hub.com/"
-    da = "https://da.alternatives.ai-term-hub.com/"
-    de = "https://de.alternatives.ai-term-hub.com/"
-    el = "https://el.alternatives.ai-term-hub.com/"
-    en = "https://en.alternatives.ai-term-hub.com/"
-    es = "https://es.alternatives.ai-term-hub.com/"
-    fi = "https://fi.alternatives.ai-term-hub.com/"
-    fr = "https://fr.alternatives.ai-term-hub.com/"
-    hu = "https://hu.alternatives.ai-term-hub.com/"
-    id = "https://id.alternatives.ai-term-hub.com/"
-    it = "https://it.alternatives.ai-term-hub.com/"
-    ja = "https://ja.alternatives.ai-term-hub.com/"
-    ko = "https://ko.alternatives.ai-term-hub.com/"
-    nl = "https://nl.alternatives.ai-term-hub.com/"
-    no = "https://no.alternatives.ai-term-hub.com/"
-    pl = "https://pl.alternatives.ai-term-hub.com/"
-    pt = "https://pt.alternatives.ai-term-hub.com/"
-    ro = "https://ro.alternatives.ai-term-hub.com/"
-    ru = "https://ru.alternatives.ai-term-hub.com/"
-    sv = "https://sv.alternatives.ai-term-hub.com/"
-    th = "https://th.alternatives.ai-term-hub.com/"
-    tr = "https://tr.alternatives.ai-term-hub.com/"
-    vi = "https://vi.alternatives.ai-term-hub.com/"
-    zh = "https://zh.alternatives.ai-term-hub.com/"
+    ar = "https://alternatives-ar.ai-term-hub.com/"
+    cs = "https://alternatives-cs.ai-term-hub.com/"
+    da = "https://alternatives-da.ai-term-hub.com/"
+    de = "https://alternatives-de.ai-term-hub.com/"
+    el = "https://alternatives-el.ai-term-hub.com/"
+    en = "https://alternatives-en.ai-term-hub.com/"
+    es = "https://alternatives-es.ai-term-hub.com/"
+    fi = "https://alternatives-fi.ai-term-hub.com/"
+    fr = "https://alternatives-fr.ai-term-hub.com/"
+    hu = "https://alternatives-hu.ai-term-hub.com/"
+    id = "https://alternatives-id.ai-term-hub.com/"
+    it = "https://alternatives-it.ai-term-hub.com/"
+    ja = "https://alternatives-ja.ai-term-hub.com/"
+    ko = "https://alternatives-ko.ai-term-hub.com/"
+    nl = "https://alternatives-nl.ai-term-hub.com/"
+    no = "https://alternatives-no.ai-term-hub.com/"
+    pl = "https://alternatives-pl.ai-term-hub.com/"
+    pt = "https://alternatives-pt.ai-term-hub.com/"
+    ro = "https://alternatives-ro.ai-term-hub.com/"
+    ru = "https://alternatives-ru.ai-term-hub.com/"
+    sv = "https://alternatives-sv.ai-term-hub.com/"
+    tr = "https://alternatives-tr.ai-term-hub.com/"
+    vi = "https://alternatives-vi.ai-term-hub.com/"
+    zh = "https://alternatives-zh.ai-term-hub.com/"
 
 # ===== Sitemap 配置（单语种独立sitemap） =====
 [sitemap]

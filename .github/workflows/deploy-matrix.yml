@@ -29,7 +29,7 @@ jobs:
       fail-fast: false
       matrix:
         lang: [ar, cs, da, de, el, en, es, fi, fr, hu, id, it,
-               ja, ko, nl, no, pl, pt, ro, ru, sv, th, tr, vi, zh]
+               ja, ko, nl, no, pl, pt, ro, ru, sv, tr, vi, zh]
 
     steps:
       - name: Checkout source
@@ -99,7 +99,7 @@ jobs:
 
       - name: Add CNAME and .nojekyll
         run: |
-          echo "${{ matrix.lang }}.${{ env.SITE_TYPE }}.${{ env.DOMAIN }}" > publish-${{ matrix.lang }}/CNAME
+          echo "${{ env.SITE_TYPE }}-${{ matrix.lang }}.${{ env.DOMAIN }}" > publish-${{ matrix.lang }}/CNAME
           touch publish-${{ matrix.lang }}/.nojekyll
           # IndexNow API Key 文件（用于 Bing/Yandex 即时索引推送）
           echo "a0f6b5032dd63cf84271ae3ab4fcaf86" > publish-${{ matrix.lang }}/a0f6b5032dd63cf84271ae3ab4fcaf86.txt
@@ -118,5 +118,5 @@ jobs:
 
       - name: Notify deployment
         run: |
-          echo "✅ Deployed: https://${{ matrix.lang }}.${{ env.SITE_TYPE }}.${{ env.DOMAIN }}"
+          echo "✅ Deployed: https://${{ env.SITE_TYPE }}-${{ matrix.lang }}.${{ env.DOMAIN }}"
           echo "📦 Repository: https://github.com/${{ env.GITHUB_USER }}/${{ env.SITE_TYPE }}-${{ matrix.lang }}"

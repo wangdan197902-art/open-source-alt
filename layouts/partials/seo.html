@@ -55,7 +55,7 @@
 <meta name="twitter:image:alt" content="{{ $title }}">
 
 {{/* hreflang：静态生成（避免 .Translations 性能瓶颈） */}}
-{{ $supportedLangs := slice "en" "zh" "es" "fr" "de" "ja" "ko" "pt" "ru" "it" "ar" "nl" "pl" "tr" "vi" "th" "id" "sv" "no" "da" "cs" "el" "fi" "hu" "ro" }}
+{{ $supportedLangs := slice "en" "zh" "es" "fr" "de" "ja" "ko" "pt" "ru" "it" "ar" "nl" "pl" "tr" "vi" "id" "sv" "no" "da" "cs" "el" "fi" "hu" "ro" }}
 {{ $currentPath := .RelPermalink }}
 {{ $pathWithoutLang := replaceRE "^/[a-z]{2}/" "/" $currentPath }}
 {{ if eq $pathWithoutLang $currentPath }}

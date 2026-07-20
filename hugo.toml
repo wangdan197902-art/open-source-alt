@@ -103,12 +103,6 @@ languageCode = "vi"
 weight = 16
 title = "OSSAF - Open Source Alternative Finder"
 contentDir = "content/vi"
-[languages.th]
-languageName = "ไทย"
-languageCode = "th"
-weight = 17
-title = "OSSAF - Open Source Alternative Finder"
-contentDir = "content/th"
 [languages.hi]
 languageName = "हिन्दी"
 languageCode = "hi"
