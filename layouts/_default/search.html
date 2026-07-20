@@ -1,0 +1,50 @@
+{{ partial "head.html" . }}
+<body>
+{{ partial "dev-preview-banner.html" . }}
+{{ partial "header.html" . }}
+
+<main class="container main-content">
+  <section class="search-page" data-pagefind-body>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+
+    {{ with .Content }}
+    <div class="search-intro">{{ . }}</div>
+    {{ end }}
+
+    {{/* Pagefind 搜索 UI 容器
+         Pagefind 会自动接管 #search 容器，渲染搜索框和结果
+         按 lang 属性自动过滤当前语种的结果 */}}
+    <div id="search" data-pagefind-ui></div>
+  </section>
+</main>
+
+{{ partial "footer.html" . }}
+
+{{/* Pagefind UI：只在搜索页加载，自动初始化
+     pagefind-ui.js 和 pagefind-ui.css 由 Pagefind 构建时生成在 /pagefind/ 目录 */}}
+<link href="{{ "pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
+<script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    // 自动检测当前语种
+    const lang = document.documentElement.lang.split('-')[0];
+    const search = new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      showImages: false,
+      pageSize: 10,
+      {{/* 按当前语种过滤结果 */}}
+      filters: {
+        lang: lang
+      },
+      translations: {
+        placeholder: "{{ i18n "search_placeholder" | default "Search alternatives..." }}",
+        empty: "{{ i18n "search_empty" | default "No results found" }}",
+        results: "{{ i18n "search_results" | default "results found" }}"
+      }
+    });
+  });
+</script>
+</body>
+</html>
