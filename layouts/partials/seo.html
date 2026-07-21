@@ -3,7 +3,7 @@
 {{/* 同时注入 GSC / Ahrefs / GA4 / AdSense / IndexNow 验证与追踪代码 */}}
 {{ $title := .Title | default .Site.Title }}
 {{ $description := .Description | default .Summary | default .Site.Params.description }}
-{{ $url := .Permalink }}
+{{ $url := .Permalink }}{{ if .IsHome }}{{ with .Site.Params.canonical }}{{ $url = . }}{{ end }}{{ end }}
 {{ $ogImage := .Site.Params.default_og_image | default "/images/og-default.svg" }}
 {{ with .Params.og_image }}{{ $ogImage = . }}{{ end }}
 

@@ -34,7 +34,8 @@
   <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
   {{/* Canonical URL */}}
-  <link rel="canonical" href="{{ .Permalink }}">
+  {{ $canonical := .Permalink }}{{ if .IsHome }}{{ with .Site.Params.canonical }}{{ $canonical = . }}{{ end }}{{ end }}
+  <link rel="canonical" href="{{ $canonical }}">
 
   {{/* Open Graph */}}
   {{ $ogImage := .Site.Params.default_og_image | default "/images/og-default.svg" }}
