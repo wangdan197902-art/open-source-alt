@@ -1,4 +1,15 @@
+# robots.txt for OSSAF - Open Source Alternative Finder
+# Reference: https://developers.google.com/search/docs/crawling-indexing/robots
+
 User-agent: *
 Allow: /
 
-Sitemap: https://alternatives.ai-term-hub.com/sitemap.xml
+# Block search result pages from indexing (avoid duplicate content)
+Disallow: /search?q=
+Disallow: /pagefind/
+
+# Crawl delay for politeness
+Crawl-delay: 1
+
+# Sitemap location (auto-resolved to current site baseURL)
+Sitemap: {{ "sitemap.xml" | absURL }}

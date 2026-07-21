@@ -61,7 +61,7 @@ jobs:
                 cp -r "public-${{ matrix.lang }}/$shared" "publish-${{ matrix.lang }}/"
               fi
             done
-            for f in favicon.svg logo.svg og-image.svg site.webmanifest llms.txt BingSiteAuth.xml; do
+            for f in favicon.svg logo.svg og-image.svg site.webmanifest llms.txt BingSiteAuth.xml robots.txt sitemap.xml; do
               if [ -f "public-${{ matrix.lang }}/$f" ]; then
                 cp "public-${{ matrix.lang }}/$f" "publish-${{ matrix.lang }}/"
               fi
