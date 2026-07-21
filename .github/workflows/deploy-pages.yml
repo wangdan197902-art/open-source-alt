@@ -43,11 +43,59 @@ jobs:
         run: touch public/.nojekyll
       - name: Ensure index.html
         run: |
+          # 检测 Hugo 生成的语言重定向页面（http-equiv refresh + 字节小，无 GSV/JSON-LD）
+          # 这种页面是 Hugo 内置的多语言重定向，不走 layouts 模板，缺少 SEO 元素
+          # 需要覆盖为带 GSV + JSON-LD 的重定向页面，保持跳转到 /en/ 的行为
+          NEED_OVERWRITE=0
           if [ ! -f public/index.html ]; then
+            NEED_OVERWRITE=1
+          elif grep -q 'http-equiv.*refresh' public/index.html && \
+               [ "$(wc -c < public/index.html)" -lt 500 ] && \
+               ! grep -q 'application/ld+json' public/index.html; then
+            NEED_OVERWRITE=1
+          fi
+          if [ "$NEED_OVERWRITE" = "1" ]; then
             mkdir -p public
             cat > public/index.html << 'HTMLEOF'
-          <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>Open Source Alternatives</title></head><body><h1>Open Source Alternatives</h1><p>Site is being deployed. Please wait a moment...</p></body></html>
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>OSSAF - Open Source Alternative Finder</title>
+            <meta name="description" content="Find open source alternatives to commercial software - multilingual directory">
+            <link rel="canonical" href="https://alternatives.ai-term-hub.com/en/">
+            <meta name="robots" content="noindex">
+            <meta name="google-site-verification" content="Po21SS8ccODMgK6x0_LBsBX0t5qz7bdqRzASwE-ngyo" />
+            <meta name="ahrefs-site-verification" content="ad7fa89d439de59a24f2c0539f078231d409b57876cd4088b2e41eafe03df321" />
+            <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "OSSAF - Open Source Alternative Finder",
+            "url": "https://alternatives.ai-term-hub.com/",
+            "description": "Find open source alternatives to commercial software - multilingual directory",
+            "inLanguage": "en",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://alternatives.ai-term-hub.com/en/search/?q={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          }
+            </script>
+            <meta http-equiv="refresh" content="0; url=https://alternatives.ai-term-hub.com/en/">
+          </head>
+          <body>
+            <p>Redirecting to <a href="https://alternatives.ai-term-hub.com/en/">English version</a>...</p>
+          </body>
+          </html>
           HTMLEOF
+            echo "✓ Overwrote public/index.html with GSV + JSON-LD redirect page"
+          else
+            echo "✓ public/index.html already has SEO elements, skipping overwrite"
           fi
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
