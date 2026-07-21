@@ -40,3 +40,22 @@ Thumbs.db
 # ---------- Mock服务器运行时文件 ----------
 .mock.pid
 mock_server.log
+
+# ---------- 补充：macOS resource forks / Hugo 构建产物 / 多语言输出 ----------
+
+# macOS resource forks（包括 ._resources, ._.hugo_build.lock 等）
+._*
+**/._*
+
+# Hugo 构建产物
+hugo_stats.json
+_hugo_stats.json
+
+# 多语言构建输出目录
+public-*/
+
+# macOS 资源 fork 副本（显式）
+._resources
+
+# 环境变量示例文件
+.env.local.example

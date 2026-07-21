@@ -1,8 +1,18 @@
 ---
-title: "OSSAF - Open Source Alternative Finder"
-description: "Find open source alternatives to commercial software"
+title: "Open-Source-Alternative-Finder"
+description: "Finden Sie Open-Source-Alternativen zu kommerzieller Software"
 aiGenerated: true
 reviewStatus: "approved"
 ---
 
-Welcome to OSSAF!
+# Open-Source-Alternative-Finder
+
+Willkommen bei OSSAF! Finden Sie kostenlose, offene und sichere Alternativen zu gängiger kommerzieller Software.
+
+## Kategorien
+
+- 🎨 Bildbearbeitung: Photoshop → GIMP
+- 📝 Notizen: Notion → Obsidian
+- 🎨 Design-Zusammenarbeit: Figma → Penpot
+- 💬 Teamkommunikation: Slack → Element
+- 📹 Videokonferenzen: Zoom → BigBlueButton

@@ -1,8 +1,18 @@
 ---
-title: "OSSAF - Open Source Alternative Finder"
-description: "Find open source alternatives to commercial software"
+title: "باحث البدائل مفتوحة المصدر"
+description: "اعثر على بدائل مفتوحة المصدر للبرمجيات التجارية"
 aiGenerated: true
 reviewStatus: "approved"
 ---
 
-Welcome to OSSAF!
+# باحث البدائل مفتوحة المصدر
+
+مرحبًا بك في OSSAF! اعثر على بدائل مجانية ومفتوحة وآمنة للبرمجيات التجارية السائدة.
+
+## الفئات
+
+- 🎨 تحرير الصور: Photoshop → GIMP
+- 📝 تدوين الملاحظات: Notion → Obsidian
+- 🎨 التعاون في التصميم: Figma → Penpot
+- 💬 تواصل الفريق: Slack → Element
+- 📹 مؤتمرات الفيديو: Zoom → BigBlueButton

@@ -1,8 +1,18 @@
 ---
-title: "OSSAF - Open Source Alternative Finder"
-description: "Find open source alternatives to commercial software"
+title: "Поисковик альтернатив с открытым исходным кодом"
+description: "Найдите альтернативы с открытым исходным кодом для коммерческого программного обеспечения"
 aiGenerated: true
 reviewStatus: "approved"
 ---
 
-Welcome to OSSAF!
+# Поисковик альтернатив с открытым исходным кодом
+
+Добро пожаловать в OSSAF! Находите бесплатные, открытые и безопасные альтернативы популярному коммерческому программному обеспечению.
+
+## Категории
+
+- 🎨 Редактирование изображений: Photoshop → GIMP
+- 📝 Заметки: Notion → Obsidian
+- 🎨 Совместная работа над дизайном: Figma → Penpot
+- 💬 Командное общение: Slack → Element
+- 📹 Видеоконференции: Zoom → BigBlueButton
