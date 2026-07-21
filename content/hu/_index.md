@@ -1,8 +1,18 @@
 ---
-title: "OSSAF - Open Source Alternative Finder"
-description: "Find open source alternatives to commercial software"
+title: "OSSAF - Nyílt Forráskódú Alternatíva Kereső"
+description: "Keresse nyílt forráskódú alternatívákat a kereskedelmi szoftverekhez"
 aiGenerated: true
 reviewStatus: "approved"
 ---
 
-Welcome to OSSAF! Find free, open, and secure alternatives to mainstream commercial software.
+# Nyílt Forráskódú Alternatíva Kereső
+
+Üdvözöljük az OSSAF! Itt találja a nyílt forráskódú alternatívákat a népszerű kereskedelmi szoftverekhez, segítve megtalálni az ingyenes, nyílt és biztonságos alternatívákat.
+
+## Kereskedelmi Szoftver Kategóriák
+
+- 🎨 Képszerkesztés: Photoshop → GIMP
+- 📝 Jegyzetek: Notion → Obsidian
+- 🎨 Tervezés Együttműködés: Figma → Penpot
+- 💬 Csapatkommunikáció: Slack → Element
+- 📹 Videokonferencia: Zoom → BigBlueButton
