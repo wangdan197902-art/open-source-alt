@@ -20,7 +20,7 @@ defaultContentLanguage = "cs"
 [languages]
   [languages.cs]
     weight = 1
-    title = "AI Terms Dictionary - Čeština"
+    title = "OSSAF - Vyhledávač Open Source Alternativ"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "cs"
   currentLanguage = "cs"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in Čeština - Comprehensive AI terminology reference"
+  description = "Najděte open source alternativy ke komerčnímu softwaru"
 
   # 自定义域名
   customDomain = "alternatives-cs.ai-term-hub.com"

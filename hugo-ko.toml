@@ -20,7 +20,7 @@ defaultContentLanguage = "ko"
 [languages]
   [languages.ko]
     weight = 1
-    title = "AI Terms Dictionary - 한국어"
+    title = "OSSAF - 오픈소스 대체 소프트웨어 찾기"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "ko"
   currentLanguage = "ko"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in 한국어 - Comprehensive AI terminology reference"
+  description = "상용 소프트웨어의 오픈소스 대안 찾기"
 
   # 自定义域名
   customDomain = "alternatives-ko.ai-term-hub.com"

@@ -20,7 +20,7 @@ defaultContentLanguage = "fi"
 [languages]
   [languages.fi]
     weight = 1
-    title = "AI Terms Dictionary - Suomi"
+    title = "OSSAF - Avoimen Lähdekoodin Vaihtoehtohaku"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "fi"
   currentLanguage = "fi"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in Suomi - Comprehensive AI terminology reference"
+  description = "Etsi avoimen lähdekoodin vaihtoehtoja kaupallisille ohjelmistoille"
 
   # 自定义域名
   customDomain = "alternatives-fi.ai-term-hub.com"

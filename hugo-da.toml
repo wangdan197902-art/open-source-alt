@@ -20,7 +20,7 @@ defaultContentLanguage = "da"
 [languages]
   [languages.da]
     weight = 1
-    title = "AI Terms Dictionary - Dansk"
+    title = "OSSAF - Søgning efter Open Source Alternativer"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "da"
   currentLanguage = "da"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in Dansk - Comprehensive AI terminology reference"
+  description = "Find open source alternativer til kommerciel software"
 
   # 自定义域名
   customDomain = "alternatives-da.ai-term-hub.com"

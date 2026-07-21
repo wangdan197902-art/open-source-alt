@@ -41,91 +41,91 @@ contentDir = "content/es"
 languageName = "Deutsch"
 languageCode = "de"
 weight = 6
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Open-Source-Alternativen-Finder"
 contentDir = "content/de"
 [languages.fr]
 languageName = "Français"
 languageCode = "fr"
 weight = 7
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Chercheur d'Alternatives Open Source"
 contentDir = "content/fr"
 [languages.pt]
 languageName = "Português"
 languageCode = "pt"
 weight = 8
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Buscador de Alternativas de Código Aberto"
 contentDir = "content/pt"
 [languages.it]
 languageName = "Italiano"
 languageCode = "it"
 weight = 9
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Ricerca Alternative Open Source"
 contentDir = "content/it"
 [languages.ru]
 languageName = "Русский"
 languageCode = "ru"
 weight = 10
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Искатель альтернатив с открытым исходным кодом"
 contentDir = "content/ru"
 [languages.ar]
 languageName = "العربية"
 languageCode = "ar"
 weight = 11
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - باحث البدائل مفتوحة المصدر"
 contentDir = "content/ar"
 [languages.nl]
 languageName = "Nederlands"
 languageCode = "nl"
 weight = 12
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Zoeker naar Open Source Alternatieven"
 contentDir = "content/nl"
 [languages.pl]
 languageName = "Polski"
 languageCode = "pl"
 weight = 13
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Wyszukiwarka Alternatyw Open Source"
 contentDir = "content/pl"
 [languages.tr]
 languageName = "Türkçe"
 languageCode = "tr"
 weight = 14
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Açık Kaynak Alternatif Bulucu"
 contentDir = "content/tr"
 [languages.id]
 languageName = "Bahasa Indonesia"
 languageCode = "id"
 weight = 15
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Pencari Alternatif Open Source"
 contentDir = "content/id"
 [languages.vi]
 languageName = "Tiếng Việt"
 languageCode = "vi"
 weight = 16
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Trình Tìm Thay Thế Mã Nguồn Mở"
 contentDir = "content/vi"
 [languages.hi]
 languageName = "हिन्दी"
 languageCode = "hi"
 weight = 18
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - ओपन सोर्स विकल्प खोजक"
 contentDir = "content/hi"
 [languages.bn]
 languageName = "বাংলা"
 languageCode = "bn"
 weight = 19
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - ওপেন সোর্স বিকল্প ফাইন্ডার"
 contentDir = "content/bn"
 [languages.ms]
 languageName = "Bahasa Melayu"
 languageCode = "ms"
 weight = 20
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Pencari Alternatif Open Source"
 contentDir = "content/ms"
 [languages.uk]
 languageName = "Українська"
 languageCode = "uk"
 weight = 21
-title = "OSSAF - Open Source Alternative Finder"
+title = "OSSAF - Пошук альтернатив з відкритим кодом"
 contentDir = "content/uk"
 
 # Taxonomy 配置（保留默认 category/tag，新增 use-case 和 similar 用于新内容类型）

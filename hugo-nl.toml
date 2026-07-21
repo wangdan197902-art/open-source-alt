@@ -20,7 +20,7 @@ defaultContentLanguage = "nl"
 [languages]
   [languages.nl]
     weight = 1
-    title = "AI Terms Dictionary - Nederlands"
+    title = "OSSAF - Zoeker naar Open Source Alternatieven"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "nl"
   currentLanguage = "nl"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in Nederlands - Comprehensive AI terminology reference"
+  description = "Vind open source alternatieven voor commerciële software"
 
   # 自定义域名
   customDomain = "alternatives-nl.ai-term-hub.com"

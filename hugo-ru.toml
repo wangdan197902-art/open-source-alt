@@ -20,7 +20,7 @@ defaultContentLanguage = "ru"
 [languages]
   [languages.ru]
     weight = 1
-    title = "OSSAF - Open Source Alternative Finder"
+    title = "OSSAF - Искатель альтернатив с открытым исходным кодом"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "ru"
   currentLanguage = "ru"
 
   # 站点描述（按语种翻译）
-  description = "Find open source alternatives to commercial software"
+  description = "Найдите альтернативы с открытым исходным кодом для коммерческого ПО"
 
   # 自定义域名
   customDomain = "alternatives-ru.ai-term-hub.com"

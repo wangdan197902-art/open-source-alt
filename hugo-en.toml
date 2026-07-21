@@ -20,7 +20,7 @@ defaultContentLanguage = "en"
 [languages]
   [languages.en]
     weight = 1
-    title = "AI Terms Dictionary - English"
+    title = "OSSAF - Open Source Alternative Finder"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "en"
   currentLanguage = "en"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in English - Comprehensive AI terminology reference"
+  description = "Find open source alternatives to commercial software"
 
   # 自定义域名
   customDomain = "alternatives-en.ai-term-hub.com"

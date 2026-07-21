@@ -20,7 +20,7 @@ defaultContentLanguage = "pl"
 [languages]
   [languages.pl]
     weight = 1
-    title = "AI Terms Dictionary - Polski"
+    title = "OSSAF - Wyszukiwarka Alternatyw Open Source"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "pl"
   currentLanguage = "pl"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in Polski - Comprehensive AI terminology reference"
+  description = "Znajdź alternatywy open source dla komercyjnego oprogramowania"
 
   # 自定义域名
   customDomain = "alternatives-pl.ai-term-hub.com"

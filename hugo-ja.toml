@@ -20,7 +20,7 @@ defaultContentLanguage = "ja"
 [languages]
   [languages.ja]
     weight = 1
-    title = "AI Terms Dictionary - 日本語"
+    title = "OSSAF - オープンソース代替ソフトウェア検索"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "ja"
   currentLanguage = "ja"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in 日本語 - Comprehensive AI terminology reference"
+  description = "商用ソフトウェアのオープンソース代替を見つける"
 
   # 自定义域名
   customDomain = "alternatives-ja.ai-term-hub.com"

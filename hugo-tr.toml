@@ -20,7 +20,7 @@ defaultContentLanguage = "tr"
 [languages]
   [languages.tr]
     weight = 1
-    title = "AI Terms Dictionary - Türkçe"
+    title = "OSSAF - Açık Kaynak Alternatif Bulucu"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "tr"
   currentLanguage = "tr"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in Türkçe - Comprehensive AI terminology reference"
+  description = "Ticari yazılımlara açık kaynak alternatifleri bulun"
 
   # 自定义域名
   customDomain = "alternatives-tr.ai-term-hub.com"

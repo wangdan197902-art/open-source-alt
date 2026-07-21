@@ -20,7 +20,7 @@ defaultContentLanguage = "vi"
 [languages]
   [languages.vi]
     weight = 1
-    title = "AI Terms Dictionary - Tiếng Việt"
+    title = "OSSAF - Trình Tìm Thay Thế Mã Nguồn Mở"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "vi"
   currentLanguage = "vi"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in Tiếng Việt - Comprehensive AI terminology reference"
+  description = "Tìm các thay thế mã nguồn mở cho phần mềm thương mại"
 
   # 自定义域名
   customDomain = "alternatives-vi.ai-term-hub.com"
