@@ -54,20 +54,61 @@ jobs:
                ! grep -q 'application/ld+json' public/index.html; then
             NEED_OVERWRITE=1
           fi
-          if [ "$NEED_OVERWRITE" = "1" ]; then
-            mkdir -p public
-            cat > public/index.html << 'HTMLEOF'
+          # 主入口 HTML：移除 noindex + 注入 GA4 + 修复 canonical + 真实多语言导航内容
+          # 保持 meta refresh 跳转到 /en/，但同时提供 25 语种导航供搜索引擎抓取
+          mkdir -p public
+          cat > public/index.html << 'HTMLEOF'
           <!DOCTYPE html>
           <html lang="en">
           <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>OSSAF - Open Source Alternative Finder</title>
-            <meta name="description" content="Find open source alternatives to commercial software - multilingual directory">
-            <link rel="canonical" href="https://alternatives.ai-term-hub.com/en/">
-            <meta name="robots" content="noindex">
+            <title>OSSAF - Open Source Alternative Finder | 25 Languages</title>
+            <meta name="description" content="Find open source alternatives to commercial software. Multilingual directory covering 500+ commercial tools with free open source replacements across 25 languages. Compare features, licenses, and community support.">
+            <meta name="keywords" content="open source alternatives, OSS alternatives, free software, commercial software replacement, FOSS, open source directory">
+            <link rel="canonical" href="https://alternatives.ai-term-hub.com/">
+            <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
             <meta name="google-site-verification" content="Po21SS8ccODMgK6x0_LBsBX0t5qz7bdqRzASwE-ngyo" />
             <meta name="ahrefs-site-verification" content="ad7fa89d439de59a24f2c0539f078231d409b57876cd4088b2e41eafe03df321" />
+            <!-- Google Analytics (GA4) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-15279420781"></script>
+            <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-15279420781');</script>
+            <!-- Open Graph -->
+            <meta property="og:type" content="website">
+            <meta property="og:title" content="OSSAF - Open Source Alternative Finder">
+            <meta property="og:description" content="Find open source alternatives to commercial software in 25 languages.">
+            <meta property="og:url" content="https://alternatives.ai-term-hub.com/">
+            <meta property="og:site_name" content="OSSAF">
+            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:title" content="OSSAF - Open Source Alternative Finder">
+            <meta name="twitter:description" content="Find open source alternatives to commercial software in 25 languages.">
+            <!-- hreflang alternate links for 25 languages -->
+            <link rel="alternate" hreflang="en" href="https://alternatives.ai-term-hub.com/en/">
+            <link rel="alternate" hreflang="ar" href="https://alternatives.ai-term-hub.com/ar/">
+            <link rel="alternate" hreflang="cs" href="https://alternatives.ai-term-hub.com/cs/">
+            <link rel="alternate" hreflang="da" href="https://alternatives.ai-term-hub.com/da/">
+            <link rel="alternate" hreflang="de" href="https://alternatives.ai-term-hub.com/de/">
+            <link rel="alternate" hreflang="el" href="https://alternatives.ai-term-hub.com/el/">
+            <link rel="alternate" hreflang="es" href="https://alternatives.ai-term-hub.com/es/">
+            <link rel="alternate" hreflang="fi" href="https://alternatives.ai-term-hub.com/fi/">
+            <link rel="alternate" hreflang="fr" href="https://alternatives.ai-term-hub.com/fr/">
+            <link rel="alternate" hreflang="hu" href="https://alternatives.ai-term-hub.com/hu/">
+            <link rel="alternate" hreflang="id" href="https://alternatives.ai-term-hub.com/id/">
+            <link rel="alternate" hreflang="it" href="https://alternatives.ai-term-hub.com/it/">
+            <link rel="alternate" hreflang="ja" href="https://alternatives.ai-term-hub.com/ja/">
+            <link rel="alternate" hreflang="ko" href="https://alternatives.ai-term-hub.com/ko/">
+            <link rel="alternate" hreflang="nl" href="https://alternatives.ai-term-hub.com/nl/">
+            <link rel="alternate" hreflang="no" href="https://alternatives.ai-term-hub.com/no/">
+            <link rel="alternate" hreflang="pl" href="https://alternatives.ai-term-hub.com/pl/">
+            <link rel="alternate" hreflang="pt" href="https://alternatives.ai-term-hub.com/pt/">
+            <link rel="alternate" hreflang="ro" href="https://alternatives.ai-term-hub.com/ro/">
+            <link rel="alternate" hreflang="ru" href="https://alternatives.ai-term-hub.com/ru/">
+            <link rel="alternate" hreflang="sv" href="https://alternatives.ai-term-hub.com/sv/">
+            <link rel="alternate" hreflang="tr" href="https://alternatives.ai-term-hub.com/tr/">
+            <link rel="alternate" hreflang="vi" href="https://alternatives.ai-term-hub.com/vi/">
+            <link rel="alternate" hreflang="zh" href="https://alternatives.ai-term-hub.com/zh/">
+            <link rel="alternate" hreflang="x-default" href="https://alternatives.ai-term-hub.com/en/">
+            <!-- JSON-LD structured data -->
             <script type="application/ld+json">
           {
             "@context": "https://schema.org",
@@ -86,17 +127,69 @@ jobs:
             }
           }
             </script>
-            <meta http-equiv="refresh" content="0; url=https://alternatives.ai-term-hub.com/en/">
+            <style>
+              body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;max-width:960px;margin:0 auto;padding:2rem;color:#1a1a1a;line-height:1.6;background:#fff}
+              h1{color:#0a7d4d;font-size:2.2rem;margin-bottom:.5rem}
+              .subtitle{color:#555;font-size:1.1rem;margin-bottom:2rem}
+              .redirect-notice{background:#e8f5e9;border-left:4px solid #0a7d4d;padding:1rem;margin:1.5rem 0;border-radius:4px}
+              .lang-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.75rem;margin:2rem 0}
+              .lang-card{display:block;padding:1rem;border:1px solid #e0e0e0;border-radius:6px;text-decoration:none;color:#0a7d4d;transition:all .2s;background:#fff}
+              .lang-card:hover{border-color:#0a7d4d;box-shadow:0 2px 8px rgba(10,125,77,.15);transform:translateY(-2px)}
+              .lang-card .lang-code{font-size:.8rem;color:#888;text-transform:uppercase}
+              .lang-card .lang-name{font-weight:600;font-size:1rem;margin-top:.25rem}
+              .stats{display:flex;flex-wrap:wrap;gap:2rem;margin:2rem 0;padding:1.5rem;background:#f0f9f4;border-radius:8px}
+              .stat-item .stat-num{font-size:1.8rem;font-weight:700;color:#0a7d4d}
+              .stat-item .stat-label{font-size:.85rem;color:#666;text-transform:uppercase;letter-spacing:.5px}
+              footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid #eee;color:#777;font-size:.9rem;text-align:center}
+            </style>
+            <meta http-equiv="refresh" content="3; url=https://alternatives.ai-term-hub.com/en/">
           </head>
           <body>
-            <p>Redirecting to <a href="https://alternatives.ai-term-hub.com/en/">English version</a>...</p>
+            <h1>OSSAF - Open Source Alternative Finder</h1>
+            <p class="subtitle">Find free open source alternatives to commercial software across 25 languages</p>
+            <div class="redirect-notice">
+              <strong>Redirecting to English version in 3 seconds...</strong>
+              If not redirected, <a href="https://alternatives.ai-term-hub.com/en/">click here to continue</a>.
+            </div>
+            <div class="stats">
+              <div class="stat-item"><div class="stat-num">500+</div><div class="stat-label">Commercial Tools</div></div>
+              <div class="stat-item"><div class="stat-num">25</div><div class="stat-label">Languages</div></div>
+              <div class="stat-item"><div class="stat-num">1000+</div><div class="stat-label">Open Source Alternatives</div></div>
+            </div>
+            <h2>Available Languages</h2>
+            <div class="lang-grid">
+              <a class="lang-card" href="/en/"><div class="lang-code">EN</div><div class="lang-name">English</div></a>
+              <a class="lang-card" href="/ar/"><div class="lang-code">AR</div><div class="lang-name">العربية Arabic</div></a>
+              <a class="lang-card" href="/cs/"><div class="lang-code">CS</div><div class="lang-name">Čeština Czech</div></a>
+              <a class="lang-card" href="/da/"><div class="lang-code">DA</div><div class="lang-name">Dansk Danish</div></a>
+              <a class="lang-card" href="/de/"><div class="lang-code">DE</div><div class="lang-name">Deutsch German</div></a>
+              <a class="lang-card" href="/el/"><div class="lang-code">EL</div><div class="lang-name">Ελληνικά Greek</div></a>
+              <a class="lang-card" href="/es/"><div class="lang-code">ES</div><div class="lang-name">Español Spanish</div></a>
+              <a class="lang-card" href="/fi/"><div class="lang-code">FI</div><div class="lang-name">Suomi Finnish</div></a>
+              <a class="lang-card" href="/fr/"><div class="lang-code">FR</div><div class="lang-name">Français French</div></a>
+              <a class="lang-card" href="/hu/"><div class="lang-code">HU</div><div class="lang-name">Magyar Hungarian</div></a>
+              <a class="lang-card" href="/id/"><div class="lang-code">ID</div><div class="lang-name">Bahasa Indonesia</div></a>
+              <a class="lang-card" href="/it/"><div class="lang-code">IT</div><div class="lang-name">Italiano Italian</div></a>
+              <a class="lang-card" href="/ja/"><div class="lang-code">JA</div><div class="lang-name">日本語 Japanese</div></a>
+              <a class="lang-card" href="/ko/"><div class="lang-code">KO</div><div class="lang-name">한국어 Korean</div></a>
+              <a class="lang-card" href="/nl/"><div class="lang-code">NL</div><div class="lang-name">Nederlands Dutch</div></a>
+              <a class="lang-card" href="/no/"><div class="lang-code">NO</div><div class="lang-name">Norsk Norwegian</div></a>
+              <a class="lang-card" href="/pl/"><div class="lang-code">PL</div><div class="lang-name">Polski Polish</div></a>
+              <a class="lang-card" href="/pt/"><div class="lang-code">PT</div><div class="lang-name">Português Portuguese</div></a>
+              <a class="lang-card" href="/ro/"><div class="lang-code">RO</div><div class="lang-name">Română Romanian</div></a>
+              <a class="lang-card" href="/ru/"><div class="lang-code">RU</div><div class="lang-name">Русский Russian</div></a>
+              <a class="lang-card" href="/sv/"><div class="lang-code">SV</div><div class="lang-name">Svenska Swedish</div></a>
+              <a class="lang-card" href="/tr/"><div class="lang-code">TR</div><div class="lang-name">Türkçe Turkish</div></a>
+              <a class="lang-card" href="/vi/"><div class="lang-code">VI</div><div class="lang-name">Tiếng Việt Vietnamese</div></a>
+              <a class="lang-card" href="/zh/"><div class="lang-code">ZH</div><div class="lang-name">中文 Chinese</div></a>
+            </div>
+            <footer>
+              <p>&copy; 2026 OSSAF. Open Source Alternative Finder — multilingual directory of free software replacements for commercial tools.</p>
+            </footer>
           </body>
           </html>
           HTMLEOF
-            echo "✓ Overwrote public/index.html with GSV + JSON-LD redirect page"
-          else
-            echo "✓ public/index.html already has SEO elements, skipping overwrite"
-          fi
+            echo "✓ Overwrote public/index.html with full SEO + GA4 + multilingual content (no noindex)"
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

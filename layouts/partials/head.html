@@ -16,6 +16,12 @@
   <meta name="ai-content-disclosure" content="本站内容由AI辅助生成，已通过人工审核">
   {{ end }}
 
+  {{/* Google Analytics (GA4) - 所有页面统一注入 */}}
+  {{ with .Site.Params.google_analytics_id | default "G-15279420781" }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ . }}');</script>
+  {{ end }}
+
   {{/* Google Search Console 验证标签
        参数名与 hugo-{lang}.toml 中的 [params] 段落保持一致（snake_case）
        若未配置参数则使用 fallback 默认值 */}}
