@@ -20,7 +20,7 @@ defaultContentLanguage = "zh"
 [languages]
   [languages.zh]
     weight = 1
-    title = "AI Terms Dictionary - 中文"
+    title = "OSSAF - 开源软件替代品查找器"
 
 # ===== SEO优化参数 =====
 [params]
@@ -28,7 +28,7 @@ defaultContentLanguage = "zh"
   currentLanguage = "zh"
 
   # 站点描述（按语种翻译）
-  description = "AI Terms Dictionary in 中文 - Comprehensive AI terminology reference"
+  description = "查找商业软件的开源替代方案"
 
   # 自定义域名
   customDomain = "alternatives-zh.ai-term-hub.com"
