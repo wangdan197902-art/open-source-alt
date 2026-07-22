@@ -1,0 +1,17 @@
+# Open Source Alternatives Hub
+
+> Find open-source alternatives to popular AI tools across 20 languages. Compare features, pricing, and community support for alternatives to ChatGPT, Midjourney, GitHub Copilot, and more.
+
+## Site Overview
+- AI tools covered: 100+
+- Supported languages: 20
+- Page types: alternatives, comparisons, categories, guides
+- Base URL: https://alternatives.ai-term-hub.com/
+
+## Important Pages
+- [Home](https://alternatives.ai-term-hub.com/)
+- [All Alternatives](https://alternatives.ai-term-hub.com/en/alternatives/)
+- [Categories](https://alternatives.ai-term-hub.com/en/categories/)
+- [Comparisons](https://alternatives.ai-term-hub.com/en/compare/)
+- [Guides](https://alternatives.ai-term-hub.com/en/guides/)
+- [Sitemap](https://alternatives.ai-term-hub.com/sitemap.xml)
